@@ -3,7 +3,7 @@
 // @namespace    pc-dl
 // @icon         data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAwADADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQYDBAcIAv/EADMQAAEDAgQDBwIFBQAAAAAAAAECAwQFEQAGEiEHEzEUIiNBUWFxMqEzUmKR0SVCcoHB/8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAgYH/8QAKBEAAgEDAgUDBQAAAAAAAAAAAQIDAAQREiEFMUFRsQZh8CJxkaHB/9oADAMBAAIRAxEAPwDRcp5nyOMoT6qzUafOCpBqElWsrfkrAHeIFrdEp9Ba2MKqFSfqk+XV55C35ji5DtumpRvYewFgPYDCNTHW4Lb7cCSptTrSkyW45PIcC1AhKQb6bKANgd7b3wzc0GKUp/tKE/YHEi40LGqIO5PivQ/TVs0byzyczgD2HM/k+KvRoLmlRTZSkjW6fUn+AMTGI8GecpTQTy+YnxE3UL22Hr7e2II8txtb2lX1JKD+w/nBBNXUyw5HQ2jxo3ZlGwvYm5P2widVdUzED6a8u06XTmHJEq6VN8t0sEggoWCAr5HX9/XHuoZ2qjGXqTSaXVpcesQQ+OzvhBjSo+tS0oIsVEhNwNxsQPLFJ6SqW+326Q62xoDK3g2V6Ugelxe1+l8Wp2RqpXA0zludTK2HAFKbYdSl42GxCF2UPgH74PbsVznrUPjEMdxEFc7g57Dsd6z2ksaYbS1jSlTynCP9aR/3BWnrL0ptgrSjmX3UoAXQknz9QMCs2yEUuBSUAlOtzxD+kbn7qww8OmaXU6/GFXjdrYS4HFMKaKtaQLqJA37qSV/CcUr2AKyjsBUPgvEdcUhXnkkfamFpiJNy9CnQw466Y7odSynWdbbu+yST+GtJ6eWIkZfqj09TLEZ92QpOthsNkF1Ox7oP6SFfGNh4ccMMu5drC6kYqZT/ACg3GXzVENDVfWPMKsB0Ntz641l4triGOqyeYgoABsbEb29MJiFT1pyTi8sZI05+fyuX2ZUCk5AnCTTmqrUqdJ7RJjmK480wXCG0pdcQQlCthZNz53scFeGeZ3plRcS5EyxTqVHaS69z4OlAuoJR4gOpB694Xxf4s0im5G4VzKNS0Nx0VSe0lbpSQpYTc95RJ6JSbAW3JPnbGZZAzY7lWtuTQ5JQw7HKNLQTqBuNKtKtjYahY/mONacbjpQGcyIwfcsdvNKCaRO4h1WL2F6LCjhXJjdqWU8xR3UTYGw2t59MP3B+Il7PT9OkNJ50KAFO964S6hxATuDcEG9lAgi+xxnPak0iG1FZXaS2hATbqlQFyr23wb4ayKwmryJjNXeo8eoO9jqNYcAUlrUC6ACfpcJSrvHbfFGbW4ZmPOuVtdEMiKo5fvIrsLL1UpilohuJbgOgANtLVZKv8FdCPbY+2CGb8w0LKlKNUzDLYhRUAhK3D31q/I2gd5Sj6DHMTHE2rv5bcfdiU6czS9LEt1T2l6atZUlp1lBHTYE3G91WthAgR5OYK8pFYqy5rEJJVrU+taNJN9Ldz3Ukk9LWGMWtq8pw21MXd8i7pk02cVuKEfiBmKIlV4FEiO+Awv8AENzZTjlttVvIbAetzhcfkZaWUf1bl2cTqCUqWNBvqtt8HC7XocRjMT0QuNMx9YKS2SsNpI2Hrf8AnBCBApbDqiFtyyPpKlg6flI64ObNQxBNCHF5QmFUex6j51r/2Q==
 // @icon64       data:image/jpeg;base64,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
-// @version      2.0.0
+// @version      2.1.0
 // @license      MIT
 // @author       qxyraxp
 // @homepageURL  https://github.com/qxyraxp/pawchive-downloader
@@ -126,6 +126,11 @@
         ['Tunggu proses download selesai dulu', 'Wait for the download to finish first'],
 
         // ---------- preview / panel utama
+        ['Lewati post tanpa lampiran', 'Skip posts without attachments'], ['Post yang tertulis “No attachments” (hanya teks / pengumuman) tidak dimasukkan ke daftar chapter. Matikan bila ingin tetap menampilkannya.', 'Posts that say “No attachments” (text-only / announcements) are left out of the chapter list. Turn off to keep showing them.'],
+        [' · {#} tanpa lampiran dilewati', ' · {1} without attachments skipped'],
+        ['Pindai semua halaman daftar', 'Scan all list pages'], ['Saat membuka panel / Antrian di halaman creator, ikut mengambil chapter dari semua halaman (?o=50, ?o=100, …), bukan hanya halaman yang sedang terbuka. Matikan bila hanya mau halaman ini.', 'When opening the panel / Queue on a creator page, also fetch chapters from every page (?o=50, ?o=100, …), not just the open one. Turn off for this page only.'], ['Pindai semua', 'Scan all'], ['Halaman ini saja', 'This page only'], ['Pindai semua halaman', 'Scan all pages'],
+        ['Memindai daftar chapter {#}/{} · {#} chapter ditemukan', 'Scanning chapter list {1}/{2} · {3} {3?chapter|chapters} found'], ['{#} chapter ditemukan dari {#} halaman daftar', '{1} {1?chapter|chapters} found across {2} list {2?page|pages}'], ['{#} chapter ditemukan · {#} halaman daftar gagal dibaca', '{1} {1?chapter|chapters} found · {2} list {2?page|pages} failed to load'],
+        ['Daftar ini punya {#} halaman (±{#} post). Pindai semuanya? Bisa memakan waktu.', 'This list has {1} pages (~{2} posts). Scan them all? This may take a while.'],
         ['Daftar chapter', 'Chapter list'], ['Pilih halaman untuk antrian', 'Select pages for the queue'], ['Pengaturan', 'Settings'],
         ['mis. 1-5,8', 'e.g. 1-5,8'], ['Pilih chapter, mis. 1-5 atau 2,4,6', 'Select chapters, e.g. 1-5 or 2,4,6'], ['Pilih halaman, mis. 1-5 atau 2,4,6', 'Select pages, e.g. 1-5 or 2,4,6'],
         ['Muat ulang', 'Reload'], ['Kembalikan edit terakhir (Ctrl+Z)', 'Undo last edit (Ctrl+Z)'],
@@ -739,6 +744,8 @@
     if (['off', 'low', 'med', 'high'].indexOf(pdfComp) < 0) pdfComp = 'off';    // ZIP gabungan: nama folder diawali nomor urut chapter
     let autoOpen = !!gv('dd_auto_open', false);     // otomatis buka panel saat di halaman manga / list chapter
     let animOn = gv('dd_anim', true) !== false;      // animasi UI (panel, toast, pulse, dll)
+    let skipEmpty = gv('dd_skip_empty', true) !== false;   // lewati post tanpa lampiran ("No attachments")
+    let scanAll = gv('dd_scan_all', true) !== false;   // pindai SEMUA halaman daftar (?o=50, ?o=100, …), bukan hanya halaman yang terbuka
     let autoSel = !!gv('dd_auto_sel', false);        // otomatis centang semua gambar saat preview dimuat
     let editUnsel = !!gv('dd_edit_unsel', true);     // setelah gambar dipilih selesai diedit (gabung/split/potong/resize): hasilnya tidak dicentang lagi
     // mode CBZ Mihon, cover.* di folder manga: off = tidak ditulis | once = hanya bila belum ada | each = ditimpa tiap chapter (halaman pertama chapter terakhir diunduh) | gif = GIF berganti-ganti dari halaman pertama semua chapter
@@ -1998,23 +2005,116 @@
         return cleanTitle(String(document.title).replace(/^["“”]|["“”]\s+by\s.*$/g, '')) || 'post';
     }
     function orderOldestFirst(list) { return list.length < 2 ? list : list.slice().reverse(); }   // daftar di web = terbaru dulu
-    function collectChapters() {
-        let list = [];
-        if (isReader()) list = [{ url: location.href, title: pageChapterTitle() }];   // halaman post: hanya post ini (bukan previous/next)
-        else {
-            document.querySelectorAll('a[href*="/post/"]').forEach(a => {
-                if (a.closest('#dd-pv, #dd-view, #dd-hover, #dd-q, #dd-dlg, #dd-done, #dd-edit, nav, aside, [class*="comment"]')) return;
-                if (!isPostUrl(a.getAttribute('href') || '')) return;
-                const card = a.closest('article, [class*="post-card"]') || a;
-                const hd = card.querySelector('[class*="post-card__header"], [class*="card__header"], h2, h3');
-                list.push({ url: new URL(a.getAttribute('href'), location.origin).href, title: cleanTitle((hd || a).textContent) || 'Untitled', a });
-            });
-        }
+    // Ambil kartu post dari sebuah dokumen (halaman yang terbuka ATAU halaman hasil fetch)
+    const NO_ATT = /\bno\s+attachments?\b|(?:^|\s)0\s+attachments?\b/i;
+    function collectChaptersFrom(doc, stat) {
+        const out = [];
+        doc.querySelectorAll('a[href*="/post/"]').forEach(a => {
+            if (a.closest('#dd-pv, #dd-view, #dd-hover, #dd-q, #dd-dlg, #dd-done, #dd-edit, nav, aside, [class*="comment"]')) return;
+            if (!isPostUrl(a.getAttribute('href') || '')) return;
+            const card = a.closest('article, [class*="post-card"]') || a;
+            if (skipEmpty && card !== a && NO_ATT.test(card.textContent || '')) { if (stat) stat.skipped++; return; }   // kartu "No attachments"
+            const hd = card.querySelector('[class*="post-card__header"], [class*="card__header"], h2, h3');
+            const c = { url: new URL(a.getAttribute('href'), location.origin).href, title: cleanTitle((hd || a).textContent) || 'Untitled' };
+            if (doc === document) c.a = a;
+            out.push(c);
+        });
+        return out;
+    }
+    function finalizeChapters(list) {
         const seen = new Set();
         list = list.filter(c => { const k = norm(c.url); if (seen.has(k)) return false; seen.add(k); return true; });
         list = orderOldestFirst(list);
         list.forEach((c, i) => { c.idx = i; c.checked = true; c.st = ''; });
         return list;
+    }
+    function collectChapters() {
+        if (isReader()) return finalizeChapters([{ url: location.href, title: pageChapterTitle() }]);   // halaman post: hanya post ini (bukan previous/next)
+        const st = { skipped: 0 };
+        const list = finalizeChapters(collectChaptersFrom(document, st));
+        if (st.skipped) log('info', 'scan', st.skipped + ' post tanpa lampiran dilewati (halaman ini)');
+        return list;
+    }
+
+    // ---- pindai SEMUA halaman daftar (paginasi Pawchive: ?o=0, ?o=50, ?o=100, …)
+    const PAGE_CACHE = new Map();   // kunci (path + query tanpa o) -> { t, raw: [{url,title}] }
+    let scanBusy = false;
+    function pagerInfo(doc) {
+        let start = 0, end = 0, total = 0;
+        const sm = doc.querySelector('[id^="paginator"] small, .paginator small');
+        const m = sm && sm.textContent.replace(/,/g, '').match(/(\d+)\s*[-–]\s*(\d+)\s+of\s+(\d+)/i);
+        if (m) { start = +m[1]; end = +m[2]; total = +m[3]; }
+        const offs = [];
+        doc.querySelectorAll('[id^="paginator"] a[href*="o="], .paginator a[href*="o="]').forEach(a => {
+            try { const o = parseInt(new URL(a.getAttribute('href'), location.href).searchParams.get('o'), 10); if (o > 0) offs.push(o); } catch (e) {}
+        });
+        return { start, end, total, offs };
+    }
+    function pageUrlAt(off) {
+        const u = new URL(location.href);
+        u.hash = '';
+        if (off > 0) u.searchParams.set('o', String(off)); else u.searchParams.delete('o');
+        return u.href;
+    }
+    async function collectChaptersAll() {
+        if (isReader() || !scanAll) return collectChapters();
+        const u0 = new URL(location.href);
+        const curOff = parseInt(u0.searchParams.get('o'), 10) || 0;
+        const ck = (() => { const x = new URL(location.href); x.hash = ''; x.searchParams.delete('o'); return x.href; })();
+        const hit = PAGE_CACHE.get(ck);
+        if (hit && Date.now() - hit.t < 10 * 60 * 1000) {
+            log('info', 'scan', 'Daftar chapter dari cache: ' + hit.raw.length + ' chapter', ck);
+            return finalizeChapters(hit.raw.map(c => ({ url: c.url, title: c.title })));
+        }
+        const info = pagerInfo(document);
+        const size = (info.start === 1 && info.end > 0 && info.total > info.end) ? info.end : (info.offs.length ? Math.min.apply(null, info.offs) : 50);
+        const known = info.total ? Math.ceil(info.total / size) : 0;
+        // tidak ada paginasi → cukup halaman ini
+        if (!known && !info.offs.length) return collectChapters();
+        if (known === 1) return collectChapters();
+        if (known > 40 && !(await ddConfirm('Daftar ini punya ' + known + ' halaman (±' + info.total + ' post). Pindai semuanya? Bisa memakan waktu.', { title: 'Pindai semua halaman', ok: 'Pindai semua', cancel: 'Halaman ini saja' }))) {
+            return collectChapters();
+        }
+        scanBusy = true;
+        const t0 = performance.now();
+        const raw = [], seen = new Set();
+        let n = 0, failed = 0;
+        const st = { skipped: 0 };
+        log('info', 'scan', 'Memindai semua halaman daftar · ' + (known || '?') + ' halaman · ' + size + ' per halaman', ck);
+        try {
+            for (let off = 0; n < 300; off += size, n++) {
+                if (known && n >= known) break;
+                let doc = null;
+                if (off === curOff) doc = document;
+                else {
+                    for (let tryN = 0; tryN < 2 && !doc; tryN++) {
+                        try {
+                            const r = await fetch(pageUrlAt(off), { credentials: 'same-origin' });
+                            if (!r.ok) throw new Error('HTTP ' + r.status);
+                            doc = new DOMParser().parseFromString(await r.text(), 'text/html');
+                        } catch (e) {
+                            if (tryN) { failed++; log('warn', 'scan', 'Halaman daftar o=' + off + ' gagal dibaca — ' + (e && e.message)); }
+                            else await sleep(500);
+                        }
+                    }
+                    await sleep(Math.max(150, delayMs));
+                }
+                let fresh = 0;
+                if (doc) collectChaptersFrom(doc, st).forEach(c => { const k = norm(c.url); if (!seen.has(k)) { seen.add(k); raw.push({ url: c.url, title: c.title }); fresh++; } });
+                toast('Memindai daftar chapter ' + (n + 1) + '/' + (known || '?') + ' · ' + raw.length + ' chapter ditemukan', 'busy');
+                log('debug', 'scan', 'Halaman daftar o=' + off + ': +' + fresh + ' chapter');
+                if (!known && !fresh) break;   // total tidak diketahui: berhenti saat halaman kosong
+            }
+        } catch (e) {
+            log('err', 'scan', 'Pemindaian daftar gagal — ' + (e && e.message), e && e.stack);
+        } finally { scanBusy = false; }
+        if (!raw.length) { toastHide(); return collectChapters(); }
+        if (st.skipped) log('info', 'scan', st.skipped + ' post tanpa lampiran dilewati');
+        PAGE_CACHE.set(ck, { t: Date.now(), raw });
+        log(failed ? 'warn' : 'ok', 'scan', raw.length + ' chapter dari ' + n + ' halaman daftar · ' + secs(t0) + (failed ? ' · ' + failed + ' halaman gagal' : ''));
+        if (failed) toast(raw.length + ' chapter ditemukan · ' + failed + ' halaman daftar gagal dibaca', 'err');
+        else toast(raw.length + ' chapter ditemukan dari ' + n + ' halaman daftar' + (st.skipped ? ' · ' + st.skipped + ' tanpa lampiran dilewati' : ''), 'ok');
+        return finalizeChapters(raw.map(c => ({ url: c.url, title: c.title })));
     }
     const labelFn = (ch0) => (t) => {
         const ch = ch0._o || ch0;
@@ -2223,8 +2323,9 @@
         log('ok', 'queue', 'Job baru #' + job.id + ': ' + job.manga + ' · ' + job.chapters.length + ' ch · ' + job.multi + '/' + job.mode);
         return job;
     }
-    function queueAddFromPage() {
-        const list = collectChapters();
+    async function queueAddFromPage() {
+        if (scanBusy) return;
+        const list = await collectChaptersAll();
         if (!list.length) { toast('Tidak ada chapter di halaman ini', 'err'); return; }
         const title = mangaTitle();
         queueAdd(title, location.href, list.map(c => ({ url: c.url, title: c.title })), {
@@ -4917,14 +5018,22 @@
         if (P.qjob && P.qReopen !== false) queueOpen();   // kembali ke antrian
     }
 
-    function openPanel(opts) {
+    async function openPanel(opts) {
+        opts = opts || {};
+        if (pv || opts.qjob || opts.list || !scanAll || isReader()) return openPanel0(opts);
+        if (scanBusy) return;   // pemindaian masih berjalan
+        const list = await collectChaptersAll();
+        if (pv) return;   // panel sudah terbuka selama menunggu
+        return openPanel0(Object.assign({}, opts, { list }));
+    }
+    function openPanel0(opts) {
         opts = opts || {};
         if (pv) {
             if (opts.url) { const k = pv.chapters.findIndex(c => norm(c.url) === norm(opts.url)); if (k >= 0) pvOpenChapter(k); }
             return;
         }
         const qjob = opts.qjob || null;
-        const list = qjob ? qjob.chapters.map((c, i) => ({ url: c.url, title: c.title, idx: i, checked: c.on !== false, st: '' })) : collectChapters();
+        const list = qjob ? qjob.chapters.map((c, i) => ({ url: c.url, title: c.title, idx: i, checked: c.on !== false, st: '' })) : (opts.list || collectChapters());
         if (!list.length) { toast('Buka halaman manga (list chapter) atau halaman reader dulu', 'err'); return; }
         let cur = qjob ? Math.max(0, Math.min(list.length - 1, opts.cur || 0)) : 0;
         const want = qjob ? '' : (opts.url || (isReader() ? location.href : ''));
@@ -5297,6 +5406,8 @@
             pane('view', cols(
                 gh('Panel') + '<div class="grp">' +
                 sw('dd-set-auto', 'Otomatis buka panel', 'Buka panel preview otomatis hanya saat membuka halaman creator / post (mis. /fanbox/user/123456). Halaman lain tidak terpengaruh.') +
+                sw('dd-set-skipempty', 'Lewati post tanpa lampiran', 'Post yang tertulis “No attachments” (hanya teks / pengumuman) tidak dimasukkan ke daftar chapter. Matikan bila ingin tetap menampilkannya.') +
+                sw('dd-set-scanall', 'Pindai semua halaman daftar', 'Saat membuka panel / Antrian di halaman creator, ikut mengambil chapter dari semua halaman (?o=50, ?o=100, …), bukan hanya halaman yang sedang terbuka. Matikan bila hanya mau halaman ini.') +
                 sw('dd-set-autosel', 'Otomatis pilih semua gambar', 'Centang semua halaman saat preview chapter dimuat. Matikan bila ingin memilih manual (bawaan).') +
                 sw('dd-set-edunsel', 'Batalkan pilihan setelah edit', 'Setelah gabung / split / potong / resize, hasilnya otomatis tidak dicentang supaya pilihan berikutnya bersih. Di mode antrian, centang lagi halaman yang mau ikut diunduh (mis. Pilih semua).') +
                 sw('dd-set-anim', 'Animasi UI', 'Animasi buka panel, pulse tombol, shimmer thumbnail, dll. Matikan untuk tampilan lebih ringan.') +
@@ -5353,6 +5464,8 @@
         if ($('dd-set-mcover')) $('dd-set-mcover').querySelectorAll('button').forEach(b => b.classList.toggle('on', b.dataset.v === mihonCover));
         $('dd-set-sub').checked = subfolder; $('dd-set-conc').value = conc; $('dd-set-delay').value = delayMs; $('dd-set-retry').value = retries;
         $('dd-set-auto').checked = autoOpen;
+        if ($('dd-set-skipempty')) $('dd-set-skipempty').checked = skipEmpty;
+        if ($('dd-set-scanall')) $('dd-set-scanall').checked = scanAll;
         if ($('dd-set-autosel')) $('dd-set-autosel').checked = autoSel;
         if ($('dd-set-edunsel')) $('dd-set-edunsel').checked = editUnsel;
         if ($('dd-set-anim')) $('dd-set-anim').checked = animOn;
@@ -5369,9 +5482,9 @@
     }
     function resetSettings() {
         fmt = 'zip'; multi = 'sep'; dlScope = 'cur'; modeS = 'cur:zip'; modeM = 'cur:zip'; subfolder = true; conc = 3; delayMs = 150; retries = 2;
-        autoOpen = false; autoSel = false; editUnsel = true; mihonCover = 'once'; mihonMeta = true; mihonComic = true; rmFile = true; cbzConv = 'off'; cbzQ = 92; notifCard = true; notifSec = 12; notifSound = true; notifSnd = 'ting'; notifVol = 40; mihonGifSec = 3; animOn = true; hoverOn = true; hoverDelay = 350; hoverSize = 520; zipMax = 1800; zipPrefix = true; pdfComp = 'off'; imgSel = ''; hostSel = '';
+        autoOpen = false; skipEmpty = true; scanAll = true; autoSel = false; editUnsel = true; mihonCover = 'once'; mihonMeta = true; mihonComic = true; rmFile = true; cbzConv = 'off'; cbzQ = 92; notifCard = true; notifSec = 12; notifSound = true; notifSnd = 'ting'; notifVol = 40; mihonGifSec = 3; animOn = true; hoverOn = true; hoverDelay = 350; hoverSize = 520; zipMax = 1800; zipPrefix = true; pdfComp = 'off'; imgSel = ''; hostSel = '';
         sv('dd_fmt', fmt); sv('dd_multi', multi); sv('dd_scope', dlScope); sv('dd_mode_s', modeS); sv('dd_mode_m', modeM); sv('dd_subfolder', subfolder); sv('dd_conc', conc); sv('dd_delay', delayMs); sv('dd_retry', retries);
-        sv('dd_auto_open', autoOpen); sv('dd_auto_sel', autoSel); sv('dd_edit_unsel', editUnsel); sv('dd_anim', animOn); sv('dd_hover', hoverOn); sv('dd_hover_delay', hoverDelay); sv('dd_hover_size', hoverSize); sv('dd_zip_max', zipMax); sv('dd_zip_prefix', zipPrefix); sv('dd_pdf_comp', pdfComp); sv('dd_mihon_cover_mode', mihonCover); sv('dd_mihon_gif_sec', mihonGifSec); sv('dd_mihon_meta', mihonMeta);
+        sv('dd_auto_open', autoOpen); sv('dd_scan_all', scanAll); sv('dd_skip_empty', skipEmpty); sv('dd_auto_sel', autoSel); sv('dd_edit_unsel', editUnsel); sv('dd_anim', animOn); sv('dd_hover', hoverOn); sv('dd_hover_delay', hoverDelay); sv('dd_hover_size', hoverSize); sv('dd_zip_max', zipMax); sv('dd_zip_prefix', zipPrefix); sv('dd_pdf_comp', pdfComp); sv('dd_mihon_cover_mode', mihonCover); sv('dd_mihon_gif_sec', mihonGifSec); sv('dd_mihon_meta', mihonMeta);
         sv('dd_img_sel', imgSel); sv('dd_host_sel', hostSel); setRomaji(true);
         sv('dd_mihon_comic', mihonComic); sv('dd_rm_file', rmFile); sv('dd_cbz_conv', cbzConv); sv('dd_cbz_q', cbzQ); sv('dd_n_card', notifCard); sv('dd_n_sec', notifSec); sv('dd_n_sound', notifSound); sv('dd_n_snd', notifSnd); sv('dd_n_vol', notifVol);
         for (const it of HV.order.slice()) dropHv(it);
@@ -5415,6 +5528,8 @@
         // toggle & angka
         $('dd-set-sub').onchange = (e) => { subfolder = e.target.checked; sv('dd_subfolder', subfolder); };
         $('dd-set-auto').onchange = (e) => { autoOpen = e.target.checked; sv('dd_auto_open', autoOpen); };
+        if ($('dd-set-skipempty')) $('dd-set-skipempty').onchange = (e) => { skipEmpty = e.target.checked; sv('dd_skip_empty', skipEmpty); PAGE_CACHE.clear(); };
+        if ($('dd-set-scanall')) $('dd-set-scanall').onchange = (e) => { scanAll = e.target.checked; sv('dd_scan_all', scanAll); PAGE_CACHE.clear(); };
         if ($('dd-set-autosel')) $('dd-set-autosel').onchange = (e) => { autoSel = e.target.checked; sv('dd_auto_sel', autoSel); };
         if ($('dd-set-edunsel')) $('dd-set-edunsel').onchange = (e) => { editUnsel = e.target.checked; sv('dd_edit_unsel', editUnsel); };
         if ($('dd-set-anim')) $('dd-set-anim').onchange = (e) => { animOn = e.target.checked; sv('dd_anim', animOn); applyAnim(); };
