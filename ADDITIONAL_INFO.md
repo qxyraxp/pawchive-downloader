@@ -6,7 +6,7 @@ Preview, select, edit and download images from [pawchive.pw](https://pawchive.pw
 
 **Source code & bug reports:** [GitHub](https://github.com/qxyraxp/pawchive-downloader) · [Issues](https://github.com/qxyraxp/pawchive-downloader/issues)
 
-<img src="https://raw.githubusercontent.com/qxyraxp/pawchive-downloader/main/screenshots/preview.webp" alt="Preview and edit window" width="700">
+![Preview and edit window](https://raw.githubusercontent.com/qxyraxp/pawchive-downloader/main/screenshots/preview-edit.webp)
 
 ### Features
 
@@ -29,11 +29,11 @@ Preview, select, edit and download images from [pawchive.pw](https://pawchive.pw
 
 **Download queue (PDF / ZIP / IMG / Mihon CBZ)**
 
-<img src="https://raw.githubusercontent.com/qxyraxp/pawchive-downloader/main/screenshots/preview%20%282%29.webp" alt="Download queue" width="700">
+![Download queue](https://raw.githubusercontent.com/qxyraxp/pawchive-downloader/main/screenshots/queue.webp)
 
 **Settings (CBZ conversion, Mihon metadata & cover, PDF compression)**
 
-<img src="https://raw.githubusercontent.com/qxyraxp/pawchive-downloader/main/screenshots/preview%20%281%29.webp" alt="Settings" width="700">
+![Settings](https://raw.githubusercontent.com/qxyraxp/pawchive-downloader/main/screenshots/settings.webp)
 
 ### Third-party libraries
 
