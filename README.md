@@ -34,6 +34,8 @@ A userscript for [pawchive.pw](https://pawchive.pw) that lets you preview, selec
 - Merge chapters, reorder pages, and move pages between chapters
 - Settings are saved automatically
 - UI available in Indonesian and English
+- Scan all list pages: fetch chapters from every page of a creator, not just the open one
+- Skip posts without attachments (text-only posts)
 
 ### Screenshots
 
@@ -60,6 +62,12 @@ They run inside a Web Worker so the dictionary is processed off the main thread 
 - Runs only on `pawchive.pw` and its subdomains.
 - Settings are stored locally through `GM_setValue`.
 - No data is sent to any third-party server. There is no analytics or tracking.
+
+### Changelog
+
+**v2.1.0**
+- **New:** Scan all list pages. The panel and Queue now fetch chapters from every page (`?o=50`, `?o=100`, …), not just the page you have open. Can be turned off in Settings › Panel.
+- **New:** Skip posts without attachments. Text-only posts ("No attachments") are left out of the chapter list. Can be turned off in Settings › Panel.
 
 ### Feedback
 
@@ -97,6 +105,8 @@ Userscript untuk [pawchive.pw](https://pawchive.pw) yang memungkinkan kamu melih
 - Gabung chapter, ubah urutan halaman, dan pindahkan halaman antar chapter
 - Pengaturan tersimpan otomatis
 - UI tersedia dalam Bahasa Indonesia dan Inggris
+- Pindai semua halaman daftar: ambil chapter dari semua halaman creator, bukan hanya yang sedang dibuka
+- Lewati post tanpa lampiran (post hanya-teks)
 
 ### Library pihak ketiga
 
@@ -113,6 +123,12 @@ Semuanya berjalan di dalam Web Worker supaya kamus diproses di luar thread utama
 - Hanya berjalan di `pawchive.pw` dan subdomainnya.
 - Pengaturan disimpan secara lokal lewat `GM_setValue`.
 - Tidak ada data yang dikirim ke server pihak ketiga. Tidak ada analytics atau tracking.
+
+### Changelog
+
+**v2.1.0**
+- **Baru:** Pindai semua halaman daftar. Panel dan Antrian kini mengambil chapter dari semua halaman (`?o=50`, `?o=100`, …), bukan hanya halaman yang sedang dibuka. Bisa dimatikan di Pengaturan › Panel.
+- **Baru:** Lewati post tanpa lampiran. Post hanya-teks ("No attachments") tidak dimasukkan ke daftar chapter. Bisa dimatikan di Pengaturan › Panel.
 
 ### Masukan
 
