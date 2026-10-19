@@ -4,7 +4,7 @@
 
 > ⚠️ **Disclosure / Pernyataan:** This script was made 100% using AI. / Script ini dibuat menggunakan AI 100%.
 
-![Preview and edit window](screenshots/preview.webp)
+![Preview and edit window](screenshots/preview-edit.webp)
 
 ---
 
@@ -39,11 +39,11 @@ A userscript for [pawchive.pw](https://pawchive.pw) that lets you preview, selec
 
 **Download queue (PDF / ZIP / IMG / Mihon CBZ)**
 
-![Download queue](screenshots/preview%20%282%29.webp)
+![Download queue](screenshots/queue.webp)
 
 **Settings (CBZ conversion, Mihon metadata & cover, PDF compression)**
 
-![Settings](screenshots/preview%20%281%29.webp)
+![Settings](screenshots/settings.webp)
 
 ### Third-party libraries
 
