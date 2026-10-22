@@ -3,7 +3,7 @@
 // @namespace    pc-dl
 // @icon         data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAwADADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQYDBAcIAv/EADMQAAEDAgQDBwIFBQAAAAAAAAECAwQFEQAGEiEHEzEUIiNBUWFxMqEzUmKR0SVCcoHB/8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAgYH/8QAKBEAAgEDAgUDBQAAAAAAAAAAAQIDAAQREiEFMUFRsQZh8CJxkaHB/9oADAMBAAIRAxEAPwDRcp5nyOMoT6qzUafOCpBqElWsrfkrAHeIFrdEp9Ba2MKqFSfqk+XV55C35ji5DtumpRvYewFgPYDCNTHW4Lb7cCSptTrSkyW45PIcC1AhKQb6bKANgd7b3wzc0GKUp/tKE/YHEi40LGqIO5PivQ/TVs0byzyczgD2HM/k+KvRoLmlRTZSkjW6fUn+AMTGI8GecpTQTy+YnxE3UL22Hr7e2II8txtb2lX1JKD+w/nBBNXUyw5HQ2jxo3ZlGwvYm5P2widVdUzED6a8u06XTmHJEq6VN8t0sEggoWCAr5HX9/XHuoZ2qjGXqTSaXVpcesQQ+OzvhBjSo+tS0oIsVEhNwNxsQPLFJ6SqW+326Q62xoDK3g2V6Ugelxe1+l8Wp2RqpXA0zludTK2HAFKbYdSl42GxCF2UPgH74PbsVznrUPjEMdxEFc7g57Dsd6z2ksaYbS1jSlTynCP9aR/3BWnrL0ptgrSjmX3UoAXQknz9QMCs2yEUuBSUAlOtzxD+kbn7qww8OmaXU6/GFXjdrYS4HFMKaKtaQLqJA37qSV/CcUr2AKyjsBUPgvEdcUhXnkkfamFpiJNy9CnQw466Y7odSynWdbbu+yST+GtJ6eWIkZfqj09TLEZ92QpOthsNkF1Ox7oP6SFfGNh4ccMMu5drC6kYqZT/ACg3GXzVENDVfWPMKsB0Ntz641l4triGOqyeYgoABsbEb29MJiFT1pyTi8sZI05+fyuX2ZUCk5AnCTTmqrUqdJ7RJjmK480wXCG0pdcQQlCthZNz53scFeGeZ3plRcS5EyxTqVHaS69z4OlAuoJR4gOpB694Xxf4s0im5G4VzKNS0Nx0VSe0lbpSQpYTc95RJ6JSbAW3JPnbGZZAzY7lWtuTQ5JQw7HKNLQTqBuNKtKtjYahY/mONacbjpQGcyIwfcsdvNKCaRO4h1WL2F6LCjhXJjdqWU8xR3UTYGw2t59MP3B+Il7PT9OkNJ50KAFO964S6hxATuDcEG9lAgi+xxnPak0iG1FZXaS2hATbqlQFyr23wb4ayKwmryJjNXeo8eoO9jqNYcAUlrUC6ACfpcJSrvHbfFGbW4ZmPOuVtdEMiKo5fvIrsLL1UpilohuJbgOgANtLVZKv8FdCPbY+2CGb8w0LKlKNUzDLYhRUAhK3D31q/I2gd5Sj6DHMTHE2rv5bcfdiU6czS9LEt1T2l6atZUlp1lBHTYE3G91WthAgR5OYK8pFYqy5rEJJVrU+taNJN9Ldz3Ukk9LWGMWtq8pw21MXd8i7pk02cVuKEfiBmKIlV4FEiO+Awv8AENzZTjlttVvIbAetzhcfkZaWUf1bl2cTqCUqWNBvqtt8HC7XocRjMT0QuNMx9YKS2SsNpI2Hrf8AnBCBApbDqiFtyyPpKlg6flI64ObNQxBNCHF5QmFUex6j51r/2Q==
 // @icon64       data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABQYEBwIDCAAB/8QANRAAAgEDAgQEBAQFBQAAAAAAAQIDBAURACEGEiIxBxNBYRQyUZFxgaGxI0JSwdEVFkNi8f/EABoBAAIDAQEAAAAAAAAAAAAAAAQFAgMGAAf/xAArEQABBAAEAgoDAAAAAAAAAAABAAIDEQQSITEFEyJBYXGRscHR8PFCUYH/2gAMAwEAAhEDEQA/ALf4Bs9Kai83J6d7hdLkqfE1DYCMiLyxoMnCqN/uTqrPHO8QTXe38K28KtJaIvMlw/PzzuP6voqbYG3V7DVS8A8bcT8MtG0tzrrrY0qlSaWmnDmWLGy8rHJBcgFj2ydToqyStr66snbMks/Uffuf1J0ufHHDhnEHpONfwLXcBw75+JB7x0GCx3n4Tot9UpkiSOM8skh5eYd1Hqft++vR0/IOWKPEUfSMDYa+QyAV+D2VP3/8GiFvqov9PnSQAMUZlPuT/jSskhehEi7URVZ2CIrMxOAqjJP5axMcjyqiLurgPt2OQMH6b40y2h0ZrPFJX1EUXmkMYyFZAR6MBn09e2oy3OnprVebbEnRUyAwv6hQcgZ/IH8dRzm6pVOlcTlAQi61NXaYqomodbnSu1QKkfMTksrj3ByPy99Nfilx3eKK8tebBdqG+WmWIGtt8FOuIWCMJcSg9Q6QwG/zgY20o3KuNdXxzzcis68h99s/2Olm4kUVfJPBNP8AFTI6TQSpmHkaQ/KQe/IFOfrkEaNwz6YWuHas7x3Ac8xytJsaaduup9EMo6+eaVpEjjp6amTnmjG4bJyMbDByDovbJHgowXPV5qu/56E2qmZ7dUFxgzzAHH0VS2iBkDvyL8si4H45OP7aJxMRETT+0NwedvPkY3q+eaNI2a6bH4D7akCOSHmhlQpIg5XB9GBORoVTTxLaRXvUxLI87QFGkAYEICDjvvk/bT7xWsNwq6+uttFJUJUrT3GMU0iTfw5FIk+U7dZ7YyPXQPLNJ8cawOAve/Me6VqqpZOhW6sEL7E7Z+2dSbfSy3K50dtpz/Fq5kgQ/QsQoP66kz2J4q6KSoiqYqWoaMpK8WD5bnpfbPp6exHfRC20MvBXEFLd+LGNvjgDtBFEnnVE77hQkeOnvnmbYbeuuZGSaVeIx7I2F17jRY8PzcTWitehpLK9ypTOY54ZaMyR8ykqWBxsdsd8adKHgK1cQ8tdfODbrZEIZTU0EqyrG2P54gSQu/8ATj3Gk7xK4q4mt/Fq2yniv9kppaWOZKSsmTzELjlHUpJ5eYEjJB9saN+E9yljetv914uudtgimjp0maYPFkgnLq+x3ZBkEYz31aG5XUUknmdLDz2EDuv6VQXYC3cIvUg4kTLD3L9P7HQy11RmpKXqBDIrHPocDf7qdb/E2pjp7FT0CuA0sinlzvyKO/4ZxoTwZRrNaah1PLUCRWibPpvt+Bxp3jogaY3qCyfBeImF7pZPzPqrh4Q8PLRfuH6smmZ7qs0FV5kUiB2hZD0gHsebnBA7MgPrvZ/hF4ZWXhx6241a1Ul0mmUwyk+VJEFGSeZCA5ZiSdiMADfc6BeCNpk+FoKylNPH8RB8TGH2lCuB5kRP/LHkAqww0bDBHK2TdFFSgEMDnf00rbYWgnfG8EDYm/h3ReBlEQAUADcbdtVhxl4fWy68fR8S10JrkHlE07zsijy91U9xyEjJ2JGW+uRZTwSSQ8iStEc7kDfGhPFlxtdhstReL1VJTUlMuXcndvoqj1Y9gB3OpnVBQvDHXe65i8eLpJcvFS5SsV5aKNI+lQBzlc427kF8D16R9NbvB/jGTh57lBUXSCiRvLamNRCXiyc+YDyjO4C+2w0kVslZxFxBcbukIjWWpedIS2FjLkkD8QBj76i1VJUJOgankj+IPLGO+SNiBqBAyk9aZHXJGRTNfGtkL4PRKjmu11i+NqpB/BMoBCquR67en00x+I9XwzS2+iqOHKWKjeppOWrhiJBR49izLnpZgT22PcaX3qIbTRxU7byRQIgQdycD9Mk6FQPNNcoHECVczzx4icdMp5hhT7Htpg1luzlZKRwDRGNqC6o4DFFTcE8M26eppxUS26J4EEoDuQgYlMHO2e47acbdxPW2dlhuEJrqUseWZMLKCf6vRj77a5eNuoLDw9XTXW5VVJxxarhHDRU/OXMaphlWMDI5CGO/bYAd9zNx414pmsP+7xfKKR62eS3rYo1OIukkOo+bnBw2f+wG/bQIhcXW0ps7GxhgEjfDf77FePGXjtwFarS09FUy3m4q7Rpb4leNlcbHzSRhVB9erPpnXMviF4i8VcbXL468VKGnBPw9GilYIB26B6n6sck/poXSW6mrOJIrfHcGqKaRgTPjDMOUM2x/m7jH1Gj/AIgR0iWGJIamKKOjcKkAxliduXv3Ayf305ZgmcsuJSU46TPpolu2cT1tCs0aUsDeZynqztyk9t/cjU6m4uv01RCtLS0xljkMkYWIsQSAD69ttDLKLQ4cV4HmDdTI2I8f50doZ6aKAw0ssLxZyORgWHscbkfrqpsEd2ApPx2Ie0tLtD7V5L//2Q==
-// @version      2.1.0
+// @version      2.1.1
 // @license      MIT
 // @author       qxyraxp
 // @homepageURL  https://github.com/qxyraxp/pawchive-downloader
@@ -39,12 +39,12 @@
     let lang = String(gv('dd_lang', 'id')) === 'en' ? 'en' : 'id';
     const I18N = [
         // ---------- umum / tombol
-        ['Tutup (Esc)', 'Close (Esc)'], ['Tampilkan tulisan Jepang sebagai romaji', 'Show Japanese text as romaji'], ['Gabung chapter', 'Merge chapters'], ['Gabung ke chapter di atasnya (gambarnya dimasukkan ke akhir chapter itu)', 'Merge into the chapter above (its images are appended to that chapter)'], ['Pisahkan dari gabungan', 'Unmerge'], ['Tidak ada chapter di atasnya', 'No chapter above'], ['Pisah', 'Unmerge'], ['Centang minimal 2 chapter dulu', 'Check at least 2 chapters first'], ['Memuat kamus romaji…', 'Loading romaji dictionary…'], ['Kamus romaji siap', 'Romaji dictionary ready'], ['Kamus romaji gagal dimuat — kanji tidak diubah', 'Romaji dictionary failed to load — kanji left as is'], ['Batal (Esc)', 'Cancel (Esc)'], ['Pilih', 'Select'], ['Ganti', 'Change'],
-        ['Seret untuk mengubah urutan, atau lepas di chapter lain (sidebar) untuk memindahkan', 'Drag to reorder, or drop onto another chapter (sidebar) to move'], ['Memuat chapter tujuan…', 'Loading target chapter…'], ['{#} halaman dipindah ke \"{}\"', '{1} {1?page|pages} moved to \"{2}\"'], ['{#} duplikat dilewati', '{1} {1?duplicate|duplicates} skipped'], ['Semua halaman sudah ada di chapter tujuan', 'All pages already exist in the target chapter'], ['Urutan halaman diubah', 'Page order changed'], ['{#} chapter kosong dilewati', '{1} empty {1?chapter|chapters} skipped'], ['✎ diubah', '✎ edited'], ['Chapter ini sekarang kosong — dilepas dari pilihan chapter', 'This chapter is now empty — removed from the chapter selection'],
+        ['Tutup (Esc)', 'Close (Esc)'], ['Tampilkan tulisan Jepang sebagai romaji', 'Show Japanese text as romaji'], ['Gabung post', 'Merge posts'], ['Gabung ke post di atasnya (gambarnya dimasukkan ke akhir post itu)', 'Merge into the post above (its images are appended to that post)'], ['Pisahkan dari gabungan', 'Unmerge'], ['Tidak ada post di atasnya', 'No post above'], ['Pisah', 'Unmerge'], ['Centang minimal 2 post dulu', 'Check at least 2 posts first'], ['Memuat kamus romaji…', 'Loading romaji dictionary…'], ['Kamus romaji siap', 'Romaji dictionary ready'], ['Kamus romaji gagal dimuat — kanji tidak diubah', 'Romaji dictionary failed to load — kanji left as is'], ['Batal (Esc)', 'Cancel (Esc)'], ['Pilih', 'Select'], ['Ganti', 'Change'],
+        ['Seret untuk mengubah urutan, atau lepas di post lain (sidebar) untuk memindahkan', 'Drag to reorder, or drop onto another post (sidebar) to move'], ['Memuat post tujuan…', 'Loading target post…'], ['{#} halaman dipindah ke \"{}\"', '{1} {1?page|pages} moved to \"{2}\"'], ['{#} duplikat dilewati', '{1} {1?duplicate|duplicates} skipped'], ['Semua halaman sudah ada di post tujuan', 'All pages already exist in the target post'], ['Urutan halaman diubah', 'Page order changed'], ['{#} post kosong dilewati', '{1} empty {1?post|posts} skipped'], ['✎ diubah', '✎ edited'], ['Post ini sekarang kosong — dilepas dari pilihan post', 'This post is now empty — removed from the post selection'],
         ['Konversi gambar CBZ', 'Convert CBZ images'], ['Kualitas konversi CBZ (%)', 'CBZ conversion quality (%)'], ['{#} gambar dikonversi ke {} di {}', '{1} {1?image|images} converted to {2} in {3}'], ['Browser ini tidak bisa mengenkode AVIF — dipakai WebP', 'This browser cannot encode AVIF — using WebP'], ['AVIF tidak didukung browser ini — dipakai WebP', 'AVIF is not supported by this browser — using WebP'],
         ['Pilih semua', 'Select all'], ['Batal pilih semua', 'Deselect all'], ['Batal pilih', 'Deselect'], ['Semua', 'All'],
         ['Kosongkan', 'Clear'], ['Kosongkan semua', 'Clear all'], ['Hapus', 'Delete'], ['Selesai', 'Done'], ['Gagal', 'Failed'], ['Menunggu', 'Waiting'], ['Berjalan', 'Running'],
-        ['Dihentikan', 'Stopped'], ['Semua chapter gagal', 'All chapters failed'], ['Kosong', 'Empty'], ['Antrian', 'Queue'],
+        ['Dihentikan', 'Stopped'], ['Semua post gagal', 'All posts failed'], ['Kosong', 'Empty'], ['Antrian', 'Queue'],
         ['Terapkan', 'Apply'], ['Memuat…', 'Loading…'], ['Pulihkan', 'Restore'], ['Perkecil', 'Minimize'], ['Perbesar', 'Maximize'],
         ['Kembalikan ukuran', 'Restore size'], ['Jendela diperkecil', 'Window minimized'], ['Jendela dipulihkan', 'Window restored'],
         ['Seret untuk memindahkan · klik 2× untuk memperbesar / mengembalikan', 'Drag to move · double-click to maximize / restore'],
@@ -52,25 +52,25 @@
         ['otomatis', 'auto'], ['Otomatis', 'Auto'], ['gambar (IMG)', 'image (IMG)'], ['Gambar (IMG)', 'Images (IMG)'],
         ['ZIP terpisah', 'Separate ZIPs'], ['PDF terpisah', 'Separate PDFs'], ['IMG terpisah', 'Separate IMGs'], ['Gambar terpisah', 'Separate images'],
         ['1 ZIP gabungan', '1 merged ZIP'], ['1 PDF gabungan', '1 merged PDF'], ['Gabungan', 'Merged'],
-        ['{#} dtk', '{1} s'], ['{#} halaman', '{1} {1?page|pages}'], ['{#} chapter', '{1} {1?chapter|chapters}'], ['{#} entri', '{1} {1?entry|entries}'],
+        ['{#} dtk', '{1} s'], ['{#} halaman', '{1} {1?page|pages}'], ['{#} post', '{1} {1?post|posts}'], ['{#} entri', '{1} {1?entry|entries}'],
         ['{#} bagian', '{1} {1?part|parts}'], ['{#} file ZIP', '{1} ZIP {1?file|files}'],
-        ['{#} dipilih', '{1} selected'], ['{#} chapter dipilih', '{1} {1?chapter|chapters} selected'], ['{#} dari {#} dipilih', '{1} of {2} selected'],
+        ['{#} dipilih', '{1} selected'], ['{#} post dipilih', '{1} {1?post|posts} selected'], ['{#} dari {#} dipilih', '{1} of {2} selected'],
         ['✎ {#} hal.', '✎ {1} pg.'], ['−{#} hal.', '−{1} pg.'], ['−{#} halaman', '−{1} {1?page|pages}'],
         ['✎ {#} diedit', '✎ {1} edited'], ['⚠ {#} edit hilang', '⚠ {1} {1?edit|edits} lost'], ['⚠ edit hilang', '⚠ edit lost'],
         ['sesi sejak {}', 'session since {1}'], ['sumber {}', 'source {1}'], ['gagal: {}', 'failed: {1}'], ['total {}', 'total {1}'],
         ['/ {#} halaman dipilih', '/ {1} pages selected'],
 
         // ---------- panel antrian
-        ['Sembunyikan kosong', 'Hide empty'], ['Tampilkan ({#})', 'Show ({1})'], ['Sembunyikan chapter ini', 'Hide this chapter'], ['Tampilkan lagi semua chapter yang disembunyikan', 'Show all hidden chapters again'],
-        ['Sembunyikan chapter yang tidak ada gambarnya (yang sudah dibuka / diperiksa). Bisa juga periksa chapter lain yang belum dibuka.', 'Hide chapters that have no images (already opened / checked). Can also check the chapters you have not opened yet.'],
-        ['Cari chapter kosong', 'Find empty chapters'], ['Periksa', 'Check'], ['Lewati', 'Skip'], ['Sembunyikan', 'Hide'], ['Sembunyikan chapter kosong', 'Hide empty chapters'],
-        ['Memeriksa {#}/{#} · Stop', 'Checking {1}/{2} · Stop'], ['Tidak ada chapter kosong yang ditemukan', 'No empty chapters found'], ['{#} chapter kosong disembunyikan', '{1} empty {1?chapter|chapters} hidden'], ['{#} chapter ditampilkan lagi (belum dicentang)', '{1} {1?chapter|chapters} shown again (unchecked)'],
-        ['Chapter disembunyikan — tampilkan lagi lewat tombol di sidebar', 'Chapter hidden — show it again with the button in the sidebar'],
+        ['Sembunyikan kosong', 'Hide empty'], ['Tampilkan ({#})', 'Show ({1})'], ['Sembunyikan post ini', 'Hide this post'], ['Tampilkan lagi semua post yang disembunyikan', 'Show all hidden posts again'],
+        ['Sembunyikan post yang tidak ada gambarnya (yang sudah dibuka / diperiksa). Bisa juga periksa post lain yang belum dibuka.', 'Hide posts that have no images (already opened / checked). Can also check the posts you have not opened yet.'],
+        ['Cari post kosong', 'Find empty posts'], ['Periksa', 'Check'], ['Lewati', 'Skip'], ['Sembunyikan', 'Hide'], ['Sembunyikan post kosong', 'Hide empty posts'],
+        ['Memeriksa {#}/{#} · Stop', 'Checking {1}/{2} · Stop'], ['Tidak ada post kosong yang ditemukan', 'No empty posts found'], ['{#} post kosong disembunyikan', '{1} empty {1?post|posts} hidden'], ['{#} post ditampilkan lagi (belum dicentang)', '{1} {1?post|posts} shown again (unchecked)'],
+        ['Post disembunyikan — tampilkan lagi lewat tombol di sidebar', 'Post hidden — show it again with the button in the sidebar'],
         ['ComicInfo.xml di dalam CBZ', 'ComicInfo.xml inside CBZ'],
-        ['Mode CBZ: tambahkan ComicInfo.xml ke tiap file (judul chapter, nomor, series, penulis, genre, ringkasan, jumlah halaman). Bisa dibaca Mihon versi terbaru, Komga, Kavita, dll. Tidak butuh folder pilihan.', 'CBZ mode: add ComicInfo.xml to every file (chapter title, number, series, author, genre, summary, page count). Readable by recent Mihon, Komga, Kavita, etc. No custom folder needed.'],
+        ['Mode CBZ: tambahkan ComicInfo.xml ke tiap file (judul post, nomor, series, penulis, genre, ringkasan, jumlah halaman). Bisa dibaca Mihon versi terbaru, Komga, Kavita, dll. Tidak butuh folder pilihan.', 'CBZ mode: add ComicInfo.xml to every file (post title, number, series, author, genre, summary, page count). Readable by recent Mihon, Komga, Kavita, etc. No custom folder needed.'],
         ['Notifikasi', 'Notifications'], ['Kartu notifikasi selesai', 'Completion card'],
         ['Lokasi simpan', 'Save location'], ['Nama folder & Series dalam romaji', 'Romaji folder names & Series'], ['Nama manga / creator berhuruf Jepang diubah ke romaji untuk nama folder, nama file, Series di ComicInfo.xml, dan judul di details.json. Kanji memakai kamus romaji (diunduh sekali, ±17 MB); bila gagal, kana tetap diromajikan dan kanji dibiarkan.', 'Japanese manga / creator names are converted to romaji for folder names, file names, the Series in ComicInfo.xml and the title in details.json. Kanji uses the romaji dictionary (downloaded once, ~17 MB); if it fails, kana is still romanized and kanji is left as is.'], ['Gambar CBZ', 'CBZ images'], ['Metadata & cover', 'Metadata & cover'], ['Koneksi', 'Connection'], ['Panel', 'Panel'], ['Kartu selesai', 'Completion card'], ['Bunyi', 'Sound'], ['Deteksi gambar', 'Image detection'],
-        ['Tampilkan ringkasan (chapter, halaman, durasi, lokasi simpan) di pojok layar saat download selesai. Dimatikan = toast kecil biasa.', 'Show a summary (chapters, pages, duration, save location) in the corner when a download finishes. Off = a plain small toast.'],
+        ['Tampilkan ringkasan (post, halaman, durasi, lokasi simpan) di pojok layar saat download selesai. Dimatikan = toast kecil biasa.', 'Show a summary (posts, pages, duration, save location) in the corner when a download finishes. Off = a plain small toast.'],
         ['Lama kartu tampil (detik)', 'Card display time (seconds)'], ['Kartu berhenti menghitung mundur saat disorot kursor. Bila ada yang gagal, tampil lebih lama.', 'The countdown pauses while the cursor is over the card. Shown longer when something failed.'],
         ['Bunyi saat selesai', 'Sound when finished'], ['Bunyi singkat ketika download / antrian selesai. Bila ada yang gagal, nadanya turun. Tidak berbunyi untuk tiap manga di tengah antrian.', 'A short sound when a download / queue finishes. The tone falls if something failed. No sound for each manga in the middle of a queue.'],
         ['Jenis bunyi', 'Sound type'], ['Ting', 'Ping'], ['Lonceng', 'Chime'], ['Lembut', 'Soft'], ['Volume (%)', 'Volume (%)'],
@@ -80,7 +80,7 @@
         ['{#} gagal', '{1} failed'], ['{#} manga', '{1} manga'], ['hemat {#}%', '{1}% smaller'], ['Disimpan di', 'Saved to'], ['Tutup', 'Close'],
         ['Batal', 'Cancel'], ['Lanjut', 'Continue'], ['Konfirmasi', 'Confirm'], ['Pemberitahuan', 'Notice'], ['Tetap tambahkan', 'Add anyway'],
         ['Manga ini sudah ada', 'This manga already exists'], ['Hapus dari daftar', 'Remove from list'], ['Hasil edit hilang', 'Edits lost'],
-        ['Lanjut tanpa edit', 'Continue without edits'], ['Muat ulang', 'Reload'], ['Muat ulang chapter', 'Reload chapter'], ['Konfirmasi download', 'Confirm download'],
+        ['Lanjut tanpa edit', 'Continue without edits'], ['Muat ulang', 'Reload'], ['Muat ulang post', 'Reload post'], ['Konfirmasi download', 'Confirm download'],
         ['Reset pengaturan', 'Reset settings'], ['Reset', 'Reset'], ['Ubah ukuran halaman', 'Resize pages'], ['Terapkan ukuran', 'Apply size'],
         ['Lebar maksimum (px)', 'Max width (px)'], ['Tinggi maksimum (px)', 'Max height (px)'], ['Aspek rasio tetap', 'Aspect ratio is kept'],
         ['Selesai di-download', 'Downloaded'], ['Cari nama manga…', 'Search manga name…'], ['Hapus pencarian', 'Clear search'],
@@ -92,90 +92,90 @@
         ['{#} tersembunyi oleh pencarian', '{1} hidden by search'], ['{#} hasil', '{1} {1?result|results}'],
         ['Hapus semua selesai', 'Delete all finished'], ['Hapus hasil pencarian', 'Delete search results'], ['Hapus semua manga yang sudah selesai dari daftar ini', 'Remove all finished manga from this list'],
         ['Waktu selesai', 'Finished at'], ['Lihat pencarian di tab lain', 'See results in the other tab'],
-        ['⚠ Manga ini sudah ada:', '⚠ This manga already exists:'], ['• Di antrian: {#} chapter', '• In queue: {1} {1?chapter|chapters}'], ['• Sudah selesai di-download: {#} chapter', '• Already downloaded: {1} {1?chapter|chapters}'],
-        ['{#} dari {#} chapter yang akan ditambah sudah ada', '{1} of {2} chapters being added already exist'], ['chapter-nya berbeda', 'different chapters'],
+        ['⚠ Manga ini sudah ada:', '⚠ This manga already exists:'], ['• Di antrian: {#} post', '• In queue: {1} {1?post|posts}'], ['• Sudah selesai di-download: {#} post', '• Already downloaded: {1} {1?post|posts}'],
+        ['{#} dari {#} post yang akan ditambah sudah ada', '{1} of {2} posts being added already exist'], ['post-nya berbeda', 'different posts'],
         ['Tetap tambahkan ke antrian?', 'Add to the queue anyway?'], ['Dibatalkan — manga tidak ditambahkan', 'Cancelled — manga not added'],
         ['Hapus {#} manga selesai dari daftar?', 'Remove {1} finished manga from the list?'],
         ['Antrian download', 'Download queue'], ['Tambah halaman ini', 'Add this page'],
-        ['Tambah manga + chapter dari halaman yang sedang dibuka', 'Add manga + chapters from the current page'],
+        ['Tambah manga + post dari halaman yang sedang dibuka', 'Add manga + posts from the current page'],
         ['Belum ada yang dipilih', 'Nothing selected yet'], ['Hapus terpilih', 'Delete selected'],
         ['Hasil', 'Output'], ['Gabung jadi 1 file', 'Merge into 1 file'], ['Semua manga yang dicentang digabung jadi satu file', 'All checked manga are merged into one file'],
-        ['1 file per manga', '1 file per manga'], ['Tiap manga satu file', 'One file per manga'], ['Tiap chapter file sendiri', 'Each chapter as its own file'],
+        ['1 file per manga', '1 file per manga'], ['Tiap manga satu file', 'One file per manga'], ['Tiap post file sendiri', 'Each post as its own file'],
         ['Kompres', 'Compress'], ['Nama file', 'File name'], ['Hapus selesai', 'Clear done'],
         ['Hapus item yang sudah selesai dari antrian', 'Remove finished items from the queue'], ['Kosongkan seluruh antrian', 'Empty the whole queue'],
         ['Pilih manga dulu', 'Select manga first'], ['Antrian masih kosong', 'The queue is empty'],
         ['Buka halaman manga lalu klik', 'Open a manga page, then click'],
         ['Ulangi di manga lain, lalu pilih manga mana yang mau di-download dan digabung jadi 1 file.', 'Repeat for other manga, then choose which manga to download and merge into 1 file.'],
-        ['Pilih manga ini', 'Select this manga'], ['Klik untuk lihat / pilih chapter', 'Click to view / select chapters'],
+        ['Pilih manga ini', 'Select this manga'], ['Klik untuk lihat / pilih post', 'Click to view / select posts'],
         ['Halaman yang di-uncheck di preview', 'Pages unchecked in the preview'], ['Halaman yang di-uncheck', 'Unchecked pages'],
-        ['Chapter dengan hasil edit (gabung/split/potong) — hanya tersimpan selama halaman tidak di-refresh', 'Chapters with edits (merge/split/crop) — kept only until the page is refreshed'],
+        ['Post dengan hasil edit (gabung/split/potong) — hanya tersimpan selama halaman tidak di-refresh', 'Posts with edits (merge/split/crop) — kept only until the page is refreshed'],
         ['Hasil edit hilang karena halaman di-refresh — edit ulang lewat tombol preview', 'Edits were lost because the page was refreshed — redo them via the preview button'],
         ['Hasil edit hilang karena halaman di-refresh', 'Edit lost because the page was refreshed'],
-        ['Chapter sudah diedit — jumlah halaman yang akan diunduh', 'Chapter was edited — number of pages to download'],
+        ['Post sudah diedit — jumlah halaman yang akan diunduh', 'Post was edited — number of pages to download'],
         ['Preview & pilih gambar di panel utama', 'Preview & pick images in the main panel'], ['Hapus dari antrian', 'Remove from queue'],
         ['Gabung & download {} manga', 'Merge & download {1} manga'],
-        ['Gabungan {} manga', 'Merged {1} manga'], ['Otomatis (nama manga + rentang chapter)', 'Auto (manga name + chapter range)'],
-        ['Semua chapter dari {} manga digabung jadi 1 {} (folder manga › chapter; dipecah otomatis bila lebih dari {} MB).', 'All chapters from {1} manga are merged into 1 {2} (manga › chapter folders; split automatically above {3} MB).'],
-        ['Semua chapter dari {} manga digabung jadi 1 {}, dengan bookmark per chapter.', 'All chapters from {1} manga are merged into 1 {2}, with a bookmark per chapter.'],
-        ['Chapter manga terpilih digabung jadi 1 {} (folder manga › chapter; dipecah otomatis bila lebih dari {} MB).', 'The chapters of the selected manga are merged into 1 {1} (manga › chapter folders; split automatically above {2} MB).'],
-        ['Chapter manga terpilih digabung jadi 1 {}, dengan bookmark per chapter.', 'The chapters of the selected manga are merged into 1 {1}, with a bookmark per chapter.'],
+        ['Gabungan {} manga', 'Merged {1} manga'], ['Otomatis (nama manga + rentang post)', 'Auto (manga name + post range)'],
+        ['Semua post dari {} manga digabung jadi 1 {} (folder manga › post; dipecah otomatis bila lebih dari {} MB).', 'All posts from {1} manga are merged into 1 {2} (manga › post folders; split automatically above {3} MB).'],
+        ['Semua post dari {} manga digabung jadi 1 {}, dengan bookmark per post.', 'All posts from {1} manga are merged into 1 {2}, with a bookmark per post.'],
+        ['Post manga terpilih digabung jadi 1 {} (folder manga › post; dipecah otomatis bila lebih dari {} MB).', 'The posts of the selected manga are merged into 1 {1} (manga › post folders; split automatically above {2} MB).'],
+        ['Post manga terpilih digabung jadi 1 {}, dengan bookmark per post.', 'The posts of the selected manga are merged into 1 {1}, with a bookmark per post.'],
         ['Tiap manga dibuat 1 file {} → {} file.', 'Each manga becomes 1 {1} file → {2} {2?file|files}.'], ['Tiap manga dibuat 1 file {}.', 'Each manga becomes 1 {1} file.'],
-        ['Tiap chapter dibuat sebagai gambar terpisah.', 'Each chapter is saved as separate images.'], ['Tiap chapter dibuat sebagai file {} sendiri.', 'Each chapter becomes its own {1} file.'],
+        ['Tiap post dibuat sebagai gambar terpisah.', 'Each post is saved as separate images.'], ['Tiap post dibuat sebagai file {} sendiri.', 'Each post becomes its own {1} file.'],
         ['Kompresi {}: lebar maks {} px, kualitas {}%.', 'Compression {1}: max width {2} px, quality {3}%.'],
         ['{} hasil edit belum dicentang — tidak ikut diunduh', '{1} edited {1?result is|results are} not checked — will not be downloaded'],
         ['Tunggu proses download selesai dulu', 'Wait for the download to finish first'],
 
         // ---------- preview / panel utama
-        ['Lewati post tanpa lampiran', 'Skip posts without attachments'], ['Post yang tertulis “No attachments” (hanya teks / pengumuman) tidak dimasukkan ke daftar chapter. Matikan bila ingin tetap menampilkannya.', 'Posts that say “No attachments” (text-only / announcements) are left out of the chapter list. Turn off to keep showing them.'],
+        ['Lewati post tanpa lampiran', 'Skip posts without attachments'], ['Post yang tertulis “No attachments” (hanya teks / pengumuman) tidak dimasukkan ke daftar post. Matikan bila ingin tetap menampilkannya.', 'Posts that say “No attachments” (text-only / announcements) are left out of the post list. Turn off to keep showing them.'],
         [' · {#} tanpa lampiran dilewati', ' · {1} without attachments skipped'],
-        ['Pindai semua halaman daftar', 'Scan all list pages'], ['Saat membuka panel / Antrian di halaman creator, ikut mengambil chapter dari semua halaman (?o=50, ?o=100, …), bukan hanya halaman yang sedang terbuka. Matikan bila hanya mau halaman ini.', 'When opening the panel / Queue on a creator page, also fetch chapters from every page (?o=50, ?o=100, …), not just the open one. Turn off for this page only.'], ['Pindai semua', 'Scan all'], ['Halaman ini saja', 'This page only'], ['Pindai semua halaman', 'Scan all pages'],
-        ['Memindai daftar chapter {#}/{} · {#} chapter ditemukan', 'Scanning chapter list {1}/{2} · {3} {3?chapter|chapters} found'], ['{#} chapter ditemukan dari {#} halaman daftar', '{1} {1?chapter|chapters} found across {2} list {2?page|pages}'], ['{#} chapter ditemukan · {#} halaman daftar gagal dibaca', '{1} {1?chapter|chapters} found · {2} list {2?page|pages} failed to load'],
+        ['Pindai semua halaman daftar', 'Scan all list pages'], ['Saat membuka panel / Antrian di halaman creator, ikut mengambil post dari semua halaman (?o=50, ?o=100, …), bukan hanya halaman yang sedang terbuka. Matikan bila hanya mau halaman ini.', 'When opening the panel / Queue on a creator page, also fetch posts from every page (?o=50, ?o=100, …), not just the open one. Turn off for this page only.'], ['Pindai semua', 'Scan all'], ['Halaman ini saja', 'This page only'], ['Pindai semua halaman', 'Scan all pages'],
+        ['Memindai daftar post {#}/{} · {#} post ditemukan', 'Scanning post list {1}/{2} · {3} {3?post|posts} found'], ['{#} post ditemukan dari {#} halaman daftar', '{1} {1?post|posts} found across {2} list {2?page|pages}'], ['{#} post ditemukan · {#} halaman daftar gagal dibaca', '{1} {1?post|posts} found · {2} list {2?page|pages} failed to load'],
         ['Daftar ini punya {#} halaman (±{#} post). Pindai semuanya? Bisa memakan waktu.', 'This list has {1} pages (~{2} posts). Scan them all? This may take a while.'],
-        ['Daftar chapter', 'Chapter list'], ['Pilih halaman untuk antrian', 'Select pages for the queue'], ['Pengaturan', 'Settings'],
-        ['mis. 1-5,8', 'e.g. 1-5,8'], ['Pilih chapter, mis. 1-5 atau 2,4,6', 'Select chapters, e.g. 1-5 or 2,4,6'], ['Pilih halaman, mis. 1-5 atau 2,4,6', 'Select pages, e.g. 1-5 or 2,4,6'],
+        ['Daftar post', 'Post list'], ['Pilih halaman untuk antrian', 'Select pages for the queue'], ['Pengaturan', 'Settings'],
+        ['mis. 1-5,8', 'e.g. 1-5,8'], ['Pilih post, mis. 1-5 atau 2,4,6', 'Select posts, e.g. 1-5 or 2,4,6'], ['Pilih halaman, mis. 1-5 atau 2,4,6', 'Select pages, e.g. 1-5 or 2,4,6'],
         ['Muat ulang', 'Reload'], ['Kembalikan edit terakhir (Ctrl+Z)', 'Undo last edit (Ctrl+Z)'],
         ['Gabung', 'Merge'], ['Gabungkan halaman terpilih menjadi 1 gambar', 'Merge the selected pages into 1 image'],
         ['Pecah 1 halaman menjadi beberapa bagian (garis bisa digeser)', 'Split 1 page into several parts (lines can be dragged)'],
         ['Potong', 'Crop'], ['Potong (crop) 1 halaman terpilih', 'Crop 1 selected page'], ['Resize halaman terpilih (aspek rasio tetap)', 'Resize the selected pages (aspect ratio kept)'],
         ['Hapus halaman terpilih dari daftar (tidak mengunduh)', 'Remove the selected pages from the list (does not download)'],
-        ['Ganti folder simpan', 'Change save folder'], ['Tambah chapter terpilih ke antrian', 'Add the selected chapters to the queue'], ['Antrikan', 'Add to queue'],
-        ['Pilih mode download', 'Choose download mode'], ['Download chapter ini', 'Download this chapter'], ['Download {#} chapter', 'Download {1} {1?chapter|chapters}'],
-        ['Download halaman yang dicentang di chapter yang dibuka', 'Download the checked pages of the open chapter'],
-        ['Semua manga jadi satu', 'All manga in one'], ['Tiap manga terpisah', 'Each manga separate'], ['Tiap chapter terpisah', 'Each chapter separate'],
-        ['Tidak ada chapter aktif', 'No active chapters'], ['Manga dipilih tapi tidak ada chapter aktif', 'Manga selected but no active chapters'], ['Aktifkan chapter dulu', 'Enable a chapter first'],
-        ['Membaca chapter', 'Reading chapter'], ['Membuka reader', 'Opening reader'], ['Memindai halaman', 'Scanning pages'], ['Memverifikasi', 'Verifying'],
+        ['Ganti folder simpan', 'Change save folder'], ['Tambah post terpilih ke antrian', 'Add the selected posts to the queue'], ['Antrikan', 'Add to queue'],
+        ['Pilih mode download', 'Choose download mode'], ['Download post ini', 'Download this post'], ['Download {#} post', 'Download {1} {1?post|posts}'],
+        ['Download halaman yang dicentang di post yang dibuka', 'Download the checked pages of the open post'],
+        ['Semua manga jadi satu', 'All manga in one'], ['Tiap manga terpisah', 'Each manga separate'], ['Tiap post terpisah', 'Each post separate'],
+        ['Tidak ada post aktif', 'No active posts'], ['Manga dipilih tapi tidak ada post aktif', 'Manga selected but no active posts'], ['Aktifkan post dulu', 'Enable a post first'],
+        ['Membaca post', 'Reading post'], ['Membuka reader', 'Opening reader'], ['Memindai halaman', 'Scanning pages'], ['Memverifikasi', 'Verifying'],
         ['halaman ditemukan', 'pages found'], ['Membuka reader…', 'Opening reader…'], ['Memindai halaman…', 'Scanning pages…'],
         ['Memindai · {} hal. · {}%', 'Scanning · {1} pages · {2}%'], ['Memverifikasi… {} hal.', 'Verifying… {1} pages'],
         ['Menghubungi halaman reader di latar belakang…', 'Contacting the reader page in the background…'],
         ['Menggulir reader agar semua gambar termuat…', 'Scrolling the reader so every image loads…'],
         ['Memastikan tidak ada halaman yang terlewat…', 'Making sure no page is missed…'],
         ['Selesai — menyusun thumbnail…', 'Done — building thumbnails…'],
-        ['Membaca halaman chapter…', 'Reading chapter pages…'], ['Membaca halaman… {}', 'Reading pages… {1}'], ['Membaca halaman…', 'Reading pages…'],
+        ['Membaca halaman post…', 'Reading post pages…'], ['Membaca halaman… {}', 'Reading pages… {1}'], ['Membaca halaman…', 'Reading pages…'],
         ['Tidak ada gambar. Coba “Muat ulang” atau atur selector / host di Pengaturan (⚙).', 'No images. Try “Reload” or set the selector / host in Settings (⚙).'],
-        ['Muat ulang akan membuang hasil edit chapter ini. Lanjut?', 'Reloading will discard the edits of this chapter. Continue?'],
+        ['Muat ulang akan membuang hasil edit post ini. Lanjut?', 'Reloading will discard the edits of this post. Continue?'],
         ['Sedang download — tunggu selesai atau tekan Stop', 'Download in progress — wait for it to finish or press Stop'],
-        ['Chapter dari cache: "{}" ({} halaman)', 'Chapter from cache: "{1}" ({2} pages)'],
-        ['Membuka chapter "{}" (muat ulang)', 'Opening chapter "{1}" (reload)'], ['Membuka chapter "{}"', 'Opening chapter "{1}"'],
+        ['Post dari cache: "{}" ({} halaman)', 'Post from cache: "{1}" ({2} pages)'],
+        ['Membuka post "{}" (muat ulang)', 'Opening post "{1}" (reload)'], ['Membuka post "{}"', 'Opening post "{1}"'],
         ['Preview gagal: "{}" — {}', 'Preview failed: "{1}" — {2}'], ['Preview siap: "{}" · {} halaman · {}', 'Preview ready: "{1}" · {2} pages · {3}'],
-        ['Panel ditutup', 'Panel closed'], ['Buka halaman manga (list chapter) atau halaman reader dulu', 'Open a manga page (chapter list) or a reader page first'],
-        ['Panel dibuka · {} chapter · aktif: "{}"', 'Panel opened · {1} chapters · active: "{2}"'],
+        ['Panel ditutup', 'Panel closed'], ['Buka halaman manga (list post) atau halaman reader dulu', 'Open a manga page (post list) or a reader page first'],
+        ['Panel dibuka · {} post · aktif: "{}"', 'Panel opened · {1} posts · active: "{2}"'],
         ['Range tidak valid (contoh 1-5,8)', 'Invalid range (e.g. 1-5,8)'], ['Menghentikan…', 'Stopping…'],
-        ['Simpan & kembali ke antrian', 'Save & back to queue'], ['Simpan pilihan chapter & halaman ke antrian lalu kembali (Esc)', 'Save the chapter & page selection to the queue, then go back (Esc)'],
+        ['Simpan & kembali ke antrian', 'Save & back to queue'], ['Simpan pilihan post & halaman ke antrian lalu kembali (Esc)', 'Save the post & page selection to the queue, then go back (Esc)'],
         ['Thumbnail gagal dimuat', 'Thumbnail failed to load'],
         // mode download
-        ['Chapter yang dibuka', 'Open chapter'], ['Chapter terpilih (sidebar)', 'Selected chapters (sidebar)'],
+        ['Post yang dibuka', 'Open post'], ['Post terpilih (sidebar)', 'Selected posts (sidebar)'],
         ['Halaman yang dicentang jadi 1 file ZIP', 'Checked pages become 1 ZIP file'], ['Halaman yang dicentang jadi 1 file PDF', 'Checked pages become 1 PDF file'],
         ['Tiap halaman disimpan sebagai file gambar', 'Each page is saved as an image file'],
-        ['Tiap chapter jadi 1 file ZIP sendiri', 'Each chapter becomes its own ZIP file'], ['Tiap chapter jadi 1 file PDF sendiri', 'Each chapter becomes its own PDF file'],
-        ['Gambar tiap chapter di foldernya sendiri', 'Images of each chapter in its own folder'],
-        ['Semua chapter dalam 1 ZIP, folder per chapter', 'All chapters in 1 ZIP, one folder per chapter'], ['Semua chapter berurutan, bookmark per chapter', 'All chapters in order, a bookmark per chapter'],
-        ['Semua chapter terpilih jadi 1 file ZIP · tiap chapter di foldernya sendiri.', 'All selected chapters become 1 ZIP file · each chapter in its own folder.'],
-        ['Semua chapter terpilih jadi 1 file PDF berurutan (ada bookmark per chapter).', 'All selected chapters become 1 PDF file in order (with a bookmark per chapter).'],
-        ['Tiap chapter terpilih jadi file sendiri (format {}).', 'Each selected chapter becomes its own file ({1} format).'],
-        ['Mode download: {} (banyak chapter)', 'Download mode: {1} (many chapters)'], ['Mode download: {} (1 chapter)', 'Download mode: {1} (1 chapter)'],
-        ['1 ZIP (folder per chapter)', '1 ZIP (folder per chapter)'], ['file terpisah ({})', 'separate files ({1})'],
-        ['Download {} chapter sebagai {}?', 'Download {1} chapters as {2}?'], ['Halaman yang tidak dicentang di preview dilewati.', 'Pages unchecked in the preview are skipped.'],
-        ['Catatan: mode Downloads menyusun file di memori. Untuk banyak chapter lebih aman pilih Folder (tombol Ganti) agar ditulis langsung ke disk.', 'Note: Downloads mode assembles files in memory. For many chapters it is safer to choose a Folder (Change button) so files are written directly to disk.'],
+        ['Tiap post jadi 1 file ZIP sendiri', 'Each post becomes its own ZIP file'], ['Tiap post jadi 1 file PDF sendiri', 'Each post becomes its own PDF file'],
+        ['Gambar tiap post di foldernya sendiri', 'Images of each post in its own folder'],
+        ['Semua post dalam 1 ZIP, folder per post', 'All posts in 1 ZIP, one folder per post'], ['Semua post berurutan, bookmark per post', 'All posts in order, a bookmark per post'],
+        ['Semua post terpilih jadi 1 file ZIP · tiap post di foldernya sendiri.', 'All selected posts become 1 ZIP file · each post in its own folder.'],
+        ['Semua post terpilih jadi 1 file PDF berurutan (ada bookmark per post).', 'All selected posts become 1 PDF file in order (with a bookmark per post).'],
+        ['Tiap post terpilih jadi file sendiri (format {}).', 'Each selected post becomes its own file ({1} format).'],
+        ['Mode download: {} (banyak post)', 'Download mode: {1} (many posts)'], ['Mode download: {} (1 post)', 'Download mode: {1} (1 post)'],
+        ['1 ZIP (folder per post)', '1 ZIP (folder per post)'], ['file terpisah ({})', 'separate files ({1})'],
+        ['Download {} post sebagai {}?', 'Download {1} posts as {2}?'], ['Halaman yang tidak dicentang di preview dilewati.', 'Pages unchecked in the preview are skipped.'],
+        ['Catatan: mode Downloads menyusun file di memori. Untuk banyak post lebih aman pilih Folder (tombol Ganti) agar ditulis langsung ke disk.', 'Note: Downloads mode assembles files in memory. For many posts it is safer to choose a Folder (Change button) so files are written directly to disk.'],
 
         // ---------- editor (gabung / potong / split / resize / undo)
         ['Potong gambar', 'Crop image'], ['Kembalikan kotak ke seluruh gambar', 'Reset the box to the whole image'],
@@ -187,7 +187,7 @@
         ['Gabung horizontal ({} → 1)', 'Merge horizontally ({1} → 1)'], ['Susun kiri ke kanan — cocok spread 2 halaman', 'Stack left to right — good for 2-page spreads'],
         ['Lebar maksimum (px) — aspek rasio tetap:', 'Maximum width (px) — aspect ratio kept:'], ['Tinggi maksimum (px) — aspek rasio tetap:', 'Maximum height (px) — aspect ratio kept:'],
         ['Tidak bisa undo sekarang', 'Cannot undo right now'], ['Tutup editor dulu, lalu Ctrl+Z', 'Close the editor first, then press Ctrl+Z'],
-        ['Tidak ada edit yang bisa dikembalikan', 'No edits to undo'], ['Undo hanya untuk chapter yang sama', 'Undo only works within the same chapter'],
+        ['Tidak ada edit yang bisa dikembalikan', 'No edits to undo'], ['Undo hanya untuk post yang sama', 'Undo only works within the same post'],
         ['Kembalikan: {} (Ctrl+Z)', 'Undo: {1} (Ctrl+Z)'], ['Undo: {}', 'Undo: {1}'], ['Dikembalikan: {}', 'Undone: {1}'],
         ['hapus {} halaman', 'delete {1} {1?page|pages}'], ['gabung vertikal ({}→1)', 'merge vertical ({1}→1)'], ['gabung horizontal ({}→1)', 'merge horizontal ({1}→1)'],
         ['resize {} halaman', 'resize {1} {1?page|pages}'], ['potong {}×{}', 'crop {1}×{2}'],
@@ -217,7 +217,7 @@
         ['Perubahan tersimpan otomatis', 'Changes are saved automatically'], ['Unduh', 'Download'], ['Performa', 'Performance'], ['Lanjutan', 'Advanced'],
         ['Ditulis langsung ke folder ini', 'Written directly to this folder'], ['Folder unduhan bawaan browser', 'Browser default download folder'],
         ['Hanya berlaku saat memakai folder pilihan sendiri.', 'Only applies when using a custom folder.'],
-        ['Nomor urut di nama folder', 'Sequence number in folder names'], ['Mode 1 ZIP: “001 - Chapter 1”, “002 - Chapter 2”, …', 'Single-ZIP mode: “001 - Chapter 1”, “002 - Chapter 2”, …'],
+        ['Nomor urut di nama folder', 'Sequence number in folder names'], ['Mode 1 ZIP: “001 - Post 1”, “002 - Post 2”, …', 'Single-ZIP mode: “001 - Post 1”, “002 - Post 2”, …'],
         ['Maks ukuran per ZIP (MB)', 'Max size per ZIP (MB)'], ['Lewat batas ini file dipecah menjadi _part2, _part3, …', 'Beyond this limit the file is split into _part2, _part3, …'],
         ['Kompres PDF', 'Compress PDF'],
         ['Perkecil ukuran PDF dengan mengecilkan gambar & menyimpannya ulang (JPEG). “Asli” = tanpa proses ulang (tercepat, kualitas penuh). Kuat ≈ lebar 1200 px, kualitas 50%.', 'Shrink the PDF by downscaling images & re-saving them (JPEG). “Original” = no reprocessing (fastest, full quality). Strong ≈ 1200 px wide, 50% quality.'],
@@ -228,7 +228,7 @@
         ['Otomatis buka panel', 'Auto-open panel'],
         ['Buka panel preview otomatis hanya saat membuka halaman creator / post (mis. /fanbox/user/123456). Halaman lain tidak terpengaruh.', 'Open the preview panel automatically only on creator / post pages (e.g. /fanbox/user/123456). Other pages are not affected.'],
         ['Otomatis pilih semua gambar', 'Auto-select all images'],
-        ['Centang semua halaman saat preview chapter dimuat. Matikan bila ingin memilih manual (bawaan).', 'Check all pages when the chapter preview loads. Turn off to select manually (default).'],
+        ['Centang semua halaman saat preview post dimuat. Matikan bila ingin memilih manual (bawaan).', 'Check all pages when the post preview loads. Turn off to select manually (default).'],
         ['Batalkan pilihan setelah edit', 'Deselect after edit'],
         ['Setelah gabung / split / potong / resize, hasilnya otomatis tidak dicentang supaya pilihan berikutnya bersih. Di mode antrian, centang lagi halaman yang mau ikut diunduh (mis. Pilih semua).', 'After merge / split / crop / resize, the result is left unchecked so the next selection starts clean. In queue mode, check again the pages you want to download (e.g. Select all).'],
         ['Animasi UI', 'UI animations'], ['Animasi buka panel, pulse tombol, shimmer thumbnail, dll. Matikan untuk tampilan lebih ringan.', 'Panel open animation, button pulse, thumbnail shimmer, etc. Turn off for a lighter look.'],
@@ -242,7 +242,7 @@
         ['pilih / batal semua ·', 'to select / deselect all ·'], ['undo edit ·', 'undo edit ·'], ['tutup', 'close'],
         ['Seret header', 'Drag header'], ['geser jendela ·', 'to move the window ·'], ['tarik tepi / sudut', 'drag edge / corner'], ['ubah ukuran ·', 'to resize ·'],
         ['2× klik header', 'Double-click header'], ['maksimalkan', 'to maximize'],
-        ['Selector gambar', 'Image selector'], ['Opsional. Isi bila gambar chapter tidak terdeteksi otomatis.', 'Optional. Fill in if the chapter images are not detected automatically.'],
+        ['Selector gambar', 'Image selector'], ['Opsional. Isi bila gambar post tidak terdeteksi otomatis.', 'Optional. Fill in if the post images are not detected automatically.'],
         ['mis. #reader img', 'e.g. #reader img'], ['Filter host / URL gambar', 'Image host / URL filter'],
         ['Opsional. Kosong = semua host.', 'Optional. Empty = all hosts.'], ['mis. img.pawchive.pw', 'e.g. img.pawchive.pw'],
         ['Kapan dipakai?', 'When to use it?'],
@@ -253,17 +253,17 @@
         ['Bahasa / Language', 'Language / Bahasa'],
         ['CBZ untuk Mihon', 'CBZ for Mihon'], ['CBZ Mihon', 'Mihon CBZ'],
         ['Nama Manga › Chapter.cbz (+ cover.jpg), siap dibaca di Mihon', 'Manga Name › Chapter.cbz (+ cover.jpg), ready to read in Mihon'],
-        ['Tiap chapter 1 file .cbz di folder nama manga (+ cover.jpg)', 'Each chapter as 1 .cbz file in the manga-name folder (+ cover.jpg)'],
-        ['Seret chapter / avatar manga ke manga lain untuk menggabung', 'Drag a chapter / manga avatar onto another manga to merge'],
-        ['Seret ke manga lain untuk menggabung semua chapternya', 'Drag onto another manga to merge all its chapters'],
+        ['Tiap post 1 file .cbz di folder nama manga (+ cover.jpg)', 'Each post as 1 .cbz file in the manga-name folder (+ cover.jpg)'],
+        ['Seret post / avatar manga ke manga lain untuk menggabung', 'Drag a post / manga avatar onto another manga to merge'],
+        ['Seret ke manga lain untuk menggabung semua postnya', 'Drag onto another manga to merge all its posts'],
         ['Metadata Mihon (details.json)', 'Mihon metadata (details.json)'],
         ['Mode CBZ + folder pilihan: tulis details.json di folder manga berisi author, genre, type (sebagai genre), status & deskripsi supaya tampil di Mihon.', 'CBZ mode + custom folder: write details.json in the manga folder with author, genre, type (as a genre), status & description so they show in Mihon.'],
-        ['Cover Mihon (mode CBZ)', 'Mihon cover (CBZ mode)'], ['Mati', 'Off'], ['Sekali', 'Once'], ['Tiap chapter', 'Each chapter'], ['GIF', 'GIF'],
+        ['Cover Mihon (mode CBZ)', 'Mihon cover (CBZ mode)'], ['Mati', 'Off'], ['Sekali', 'Once'], ['Tiap post', 'Each post'], ['GIF', 'GIF'],
         ['Jeda ganti cover GIF (detik)', 'Cover GIF frame delay (seconds)'],
-        ['Mode GIF: halaman pertama tiap chapter jadi frame, berganti tiap beberapa detik lalu mengulang dari awal.', 'GIF mode: the first page of each chapter becomes a frame, switching every few seconds then looping back to the start.'],
+        ['Mode GIF: halaman pertama tiap post jadi frame, berganti tiap beberapa detik lalu mengulang dari awal.', 'GIF mode: the first page of each post becomes a frame, switching every few seconds then looping back to the start.'],
         ['Membuat cover GIF ({} frame)…', 'Building GIF cover ({1} frames)…'],
-        ['Perlu folder pilihan. Mihon hanya punya 1 cover per manga: “Sekali” = dari halaman pertama bila belum ada; “Tiap chapter” = ditimpa dengan halaman pertama chapter yang terakhir diunduh; “GIF” = animasi dari halaman pertama semua chapter yang diunduh dengan mode ini.', 'Needs a custom folder. Mihon has only 1 cover per manga: “Once” = from the first page if none exists; “Each chapter” = overwritten with the first page of the last chapter downloaded; “GIF” = animation from the first page of every chapter downloaded in this mode.'],
-        ['Nama Manga/Chapter 01.cbz — untuk Mihon (Local source). Otomatis memakai mode Per chapter', 'Manga Name/Chapter 01.cbz — for Mihon (Local source). Automatically uses Per chapter mode'],
+        ['Perlu folder pilihan. Mihon hanya punya 1 cover per manga: “Sekali” = dari halaman pertama bila belum ada; “Tiap post” = ditimpa dengan halaman pertama post yang terakhir diunduh; “GIF” = animasi dari halaman pertama semua post yang diunduh dengan mode ini.', 'Needs a custom folder. Mihon has only 1 cover per manga: “Once” = from the first page if none exists; “Each post” = overwritten with the first page of the last post downloaded; “GIF” = animation from the first page of every post downloaded in this mode.'],
+        ['Nama Manga/Chapter 01.cbz — untuk Mihon (Local source). Otomatis memakai mode Per post', 'Manga Name/Chapter 01.cbz — for Mihon (Local source). Automatically uses Per post mode'],
 
         // ---------- log
         ['Log aktivitas', 'Activity log'], ['Filter level', 'Filter level'], ['Cari di log…', 'Search log…'], ['Hapus log', 'Clear log'],
@@ -288,7 +288,7 @@
         ['Gambar tidak ditemukan (atur selector / host di Pengaturan)', 'No images found (set the selector / host in Settings)'],
         ['{} gambar ditemukan dalam {} (mentah {}, dibuang {})', '{1} images found in {2} (raw {3}, discarded {4})'],
         ['host: {} · selector: {} · filter host: {} · contoh: {}', 'host: {1} · selector: {2} · host filter: {3} · sample: {4}'],
-        ['Gagal membaca chapter: {} ({})', 'Failed to read chapter: {1} ({2})'],
+        ['Gagal membaca post: {} ({})', 'Failed to read post: {1} ({2})'],
         ['ZIP berisi lebih dari 65.535 file', 'ZIP contains more than 65,535 files'], ['ZIP melebihi 4 GB (kecilkan “Maks ukuran per ZIP” di Pengaturan)', 'ZIP exceeds 4 GB (lower “Max size per ZIP” in Settings)'],
         ['Kompresi PDF ({}): {}', 'PDF compression ({1}): {2}'], ['hemat {}', 'saved {1}'],
 
@@ -305,40 +305,40 @@
         ['Menyusun ZIP: {}.zip ({} file)', 'Building ZIP: {1}.zip ({2} files)'], ['ZIP gagal: {}', 'ZIP failed: {1}'],
         ['Menyusun PDF: {}.pdf ({} halaman)', 'Building PDF: {1}.pdf ({2} pages)'], ['PDF gagal: {}', 'PDF failed: {1}'],
         ['Masih ada proses berjalan', 'A process is still running'],
-        ['Antrian dimulai: {} chapter · format {} · simpan {}', 'Queue started: {1} chapters · format {2} · save {3}'],
-        ['({}/{}) Chapter selesai: "{}" · {} halaman · {}', '({1}/{2}) Chapter done: "{3}" · {4} pages · {5}'],
-        ['Dihentikan saat memproses "{}"', 'Stopped while processing "{1}"'], ['({}/{}) Chapter gagal: "{}" — {}', '({1}/{2}) Chapter failed: "{3}" — {4}'],
+        ['Antrian dimulai: {} post · format {} · simpan {}', 'Queue started: {1} posts · format {2} · save {3}'],
+        ['({}/{}) Post selesai: "{}" · {} halaman · {}', '({1}/{2}) Post done: "{3}" · {4} pages · {5}'],
+        ['Dihentikan saat memproses "{}"', 'Stopped while processing "{1}"'], ['({}/{}) Post gagal: "{}" — {}', '({1}/{2}) Post failed: "{3}" — {4}'],
         ['Dihentikan · {} selesai', 'Stopped · {1} done'], ['Selesai: {} ok, {} gagal', 'Done: {1} ok, {2} failed'], ['Selesai: {} ok', 'Done: {1} ok'],
         ['Antrian dihentikan: {} ok, {} gagal', 'Queue stopped: {1} ok, {2} failed'], ['Antrian selesai: {} ok, {} gagal', 'Queue finished: {1} ok, {2} failed'],
-        ['Gabungan dimulai: {} chapter → 1 {} · {}', 'Merge started: {1} chapters → 1 {2} · {3}'],
+        ['Gabungan dimulai: {} post → 1 {} · {}', 'Merge started: {1} posts → 1 {2} · {3}'],
         ['maks per ZIP {} MB · prefix nomor {} · simpan {}', 'max per ZIP {1} MB · number prefix {2} · save {3}'],
         ['({}/{}) Mulai: "{}"', '({1}/{2}) Start: "{3}"'], ['"{}": {} halaman akan diunduh', '"{1}": {2} pages will be downloaded'],
         ['Batas {} MB tercapai ({}) → lanjut ke file part {}', 'Limit of {1} MB reached ({2}) → continuing to file part {3}'],
         ['({}/{}) Selesai: "{}" · {} halaman · {}', '({1}/{2}) Done: "{3}" · {4} pages · {5}'], ['({}/{}) Gagal: "{}" — {}', '({1}/{2}) Failed: "{3}" — {4}'],
-        ['Dihentikan · file gabungan tidak dibuat', 'Stopped · merged file was not created'], ['Tidak ada chapter yang berhasil diunduh', 'No chapters were downloaded successfully'],
-        ['Menulis file akhir ({} chapter, {} halaman)…', 'Writing final file ({1} chapters, {2} pages)…'], ['Menyimpan file…', 'Saving file…'],
-        ['Selesai: {#} chapter', 'Done: {1} {1?chapter|chapters}'], ['Gabungan selesai: {#} chapter', 'Merge done: {1} {1?chapter|chapters}'],
+        ['Dihentikan · file gabungan tidak dibuat', 'Stopped · merged file was not created'], ['Tidak ada post yang berhasil diunduh', 'No posts were downloaded successfully'],
+        ['Menulis file akhir ({} post, {} halaman)…', 'Writing final file ({1} posts, {2} pages)…'], ['Menyimpan file…', 'Saving file…'],
+        ['Selesai: {#} post', 'Done: {1} {1?post|posts}'], ['Gabungan selesai: {#} post', 'Merge done: {1} {1?post|posts}'],
         ['Gabungan gagal: {}', 'Merge failed: {1}'], ['Gagal: {}', 'Failed: {1}'],
 
         // ---------- antrian (logika)
-        ['Tidak ada chapter untuk diantrikan', 'No chapters to queue'], ['Chapter sudah ada di antrian', 'The chapters are already in the queue'],
-        ['+{} chapter ke antrian · "{}" ({} total)', '+{1} {1?chapter|chapters} to the queue · "{2}" ({3} total)'],
-        ['Tambah {} chapter ke job existing: {}', 'Added {1} chapters to existing job: {2}'],
-        ['Antrian: "{}" · {} chapter', 'Queue: "{1}" · {2} {2?chapter|chapters}'], ['Job baru #{}: {} · {} ch · {}/{}', 'New job #{1}: {2} · {3} ch · {4}/{5}'],
-        ['Tidak ada chapter di halaman ini', 'No chapters on this page'], ['Centang chapter di sidebar dulu', 'Check chapters in the sidebar first'],
+        ['Tidak ada post untuk diantrikan', 'No posts to queue'], ['Post sudah ada di antrian', 'The posts are already in the queue'],
+        ['+{} post ke antrian · "{}" ({} total)', '+{1} {1?post|posts} to the queue · "{2}" ({3} total)'],
+        ['Tambah {} post ke job existing: {}', 'Added {1} posts to existing job: {2}'],
+        ['Antrian: "{}" · {} post', 'Queue: "{1}" · {2} {2?post|posts}'], ['Job baru #{}: {} · {} ch · {}/{}', 'New job #{1}: {2} · {3} ch · {4}/{5}'],
+        ['Tidak ada post di halaman ini', 'No posts on this page'], ['Centang post di sidebar dulu', 'Check posts in the sidebar first'],
         ['Tidak bisa hapus job yang sedang berjalan — Stop dulu', 'Cannot delete a running job — press Stop first'],
         ['Antrian selesai dibersihkan', 'Finished items cleared from the queue'], ['Stop antrian dulu', 'Stop the queue first'],
         ['Hapus semua {} job di antrian?', 'Delete all {1} jobs in the queue?'],
         ['Job #{} gagal: {}', 'Job #{1} failed: {2}'], ['Antrian sedang berjalan', 'The queue is already running'],
         ['Masih ada unduhan lain — tunggu selesai atau Stop', 'Another download is still running — wait for it to finish or press Stop'],
         ['Centang minimal 1 manga di antrian dulu', 'Check at least 1 manga in the queue first'],
-        ['Hasil edit {} chapter sudah hilang (halaman di-refresh), jadi akan diunduh TANPA edit:', 'The edits of {1} chapters were lost (page refreshed), so they will be downloaded WITHOUT edits:'],
+        ['Hasil edit {} post sudah hilang (halaman di-refresh), jadi akan diunduh TANPA edit:', 'The edits of {1} posts were lost (page refreshed), so they will be downloaded WITHOUT edits:'],
         ['Lanjut tanpa edit?', 'Continue without edits?'],
-        ['Mulai proses: {} manga · mode {} · format {}', 'Starting: {1} manga · mode {2} · format {3}'], ['Menggabungkan {} manga · {} chapter…', 'Merging {1} manga · {2} chapters…'],
-        ['Gabung {} manga ({} chapter) → 1 {} · nama "{}"', 'Merge {1} manga ({2} chapters) → 1 {3} · name "{4}"'], ['Gabung {} manga ({} chapter) → 1 {}', 'Merge {1} manga ({2} chapters) → 1 {3}'],
+        ['Mulai proses: {} manga · mode {} · format {}', 'Starting: {1} manga · mode {2} · format {3}'], ['Menggabungkan {} manga · {} post…', 'Merging {1} manga · {2} posts…'],
+        ['Gabung {} manga ({} post) → 1 {} · nama "{}"', 'Merge {1} manga ({2} posts) → 1 {3} · name "{4}"'], ['Gabung {} manga ({} post) → 1 {}', 'Merge {1} manga ({2} posts) → 1 {3}'],
         ['Antrian: {}', 'Queue: {1}'], ['Proses antrian error: {}', 'Queue process error: {1}'],
         ['Proses antrian dihentikan: {} berhasil, {} gagal', 'Queue process stopped: {1} succeeded, {2} failed'], ['Proses antrian selesai: {} berhasil, {} gagal', 'Queue process finished: {1} succeeded, {2} failed'],
-        ['{#} chapter gagal diunduh', '{1} {1?chapter|chapters} failed to download'], ['Antrian dihentikan', 'Queue stopped'], ['Antrian selesai · {} manga berhasil', 'Queue finished · {1} manga succeeded'],
+        ['{#} post gagal diunduh', '{1} {1?post|posts} failed to download'], ['Antrian dihentikan', 'Queue stopped'], ['Antrian selesai · {} manga berhasil', 'Queue finished · {1} manga succeeded'],
         ['Antrian selesai · {} manga berhasil, {} gagal', 'Queue finished · {1} manga succeeded, {2} failed'],
         ['Hapus {} manga terpilih dari antrian?', 'Remove the {1} selected manga from the queue?'],
         ['Tidak ada proses berjalan', 'Nothing is running'], ['Menghentikan antrian…', 'Stopping the queue…']
@@ -841,7 +841,8 @@
     let toastEl = null;
     function toast(msg, type) {
         log(type === 'err' ? 'err' : type === 'ok' ? 'ok' : 'info', 'ui', msg);
-        if (!toastEl) { toastEl = document.createElement('div'); toastEl.id = 'dd-toast'; document.body.appendChild(toastEl); }
+        if (!toastEl) { toastEl = document.createElement('div'); toastEl.id = 'dd-toast'; }
+        if (!toastEl.isConnected && document.body) document.body.appendChild(toastEl);
         toastEl.textContent = msg;
         toastEl.className = 'show ' + (type || '');
         clearTimeout(toast.t);
@@ -888,7 +889,8 @@
         const chips = (o.chips || []).filter(Boolean).map(c => typeof c === 'string' ? { t: c } : c);
         log(o.kind === 'ok' ? 'ok' : 'warn', 'ui', o.plain || o.title);
         toastHide();
-        if (!doneEl) { doneEl = document.createElement('div'); doneEl.id = 'dd-done'; document.body.appendChild(doneEl); }
+        if (!doneEl) { doneEl = document.createElement('div'); doneEl.id = 'dd-done'; }
+        if (!doneEl.isConnected && document.body) document.body.appendChild(doneEl);
         const where = o.where || (saveMode === 'folder' && dirHandle ? dirHandle.name : 'Downloads');
         doneEl.className = o.kind || 'ok';
         doneEl.innerHTML =
@@ -1858,23 +1860,23 @@
             let ok = 0, bad = 0;
             META_DONE.clear(); META_CACHE.clear();
             const tAll = performance.now();
-            log('info', 'job', 'Antrian dimulai: ' + jobs.length + ' chapter · format ' + (mode === 'files' ? 'IMG' : mode.toUpperCase()) + ' · simpan ' + (saveMode === 'folder' && dirHandle ? 'folder "' + dirHandle.name + '"' : 'Downloads'));
+            log('info', 'job', 'Antrian dimulai: ' + jobs.length + ' post · format ' + (mode === 'files' ? 'IMG' : mode.toUpperCase()) + ' · simpan ' + (saveMode === 'folder' && dirHandle ? 'folder "' + dirHandle.name + '"' : 'Downloads'));
             for (let i = 0; i < jobs.length; i++) {
                 if (abortFlag) break;
                 const { ch, setLabel, pre } = jobs[i];
                 const tc = performance.now();
                 toast('(' + (i + 1) + '/' + jobs.length + ') ' + ch.title, 'busy');
-                try { const n = await downloadChapter(ch, mode, setLabel, pre); ok++; setLabel('✓ Done'); log('ok', 'job', '(' + (i + 1) + '/' + jobs.length + ') Chapter selesai: "' + ch.title + '" · ' + n + ' halaman · ' + secs(tc)); }
+                try { const n = await downloadChapter(ch, mode, setLabel, pre); ok++; setLabel('✓ Done'); log('ok', 'job', '(' + (i + 1) + '/' + jobs.length + ') Post selesai: "' + ch.title + '" · ' + n + ' halaman · ' + secs(tc)); }
                 catch (e) {
                     if (abortFlag || e.message === 'aborted') { log('warn', 'job', 'Dihentikan saat memproses "' + ch.title + '"'); setLabel('Stopped'); break; }
-                    bad++; setLabel('✗ ' + e.message.slice(0, 24)); log('err', 'job', '(' + (i + 1) + '/' + jobs.length + ') Chapter gagal: "' + ch.title + '" — ' + e.message, e && e.stack); toast(ch.title + ': ' + e.message, 'err');
+                    bad++; setLabel('✗ ' + e.message.slice(0, 24)); log('err', 'job', '(' + (i + 1) + '/' + jobs.length + ') Post gagal: "' + ch.title + '" — ' + e.message, e && e.stack); toast(ch.title + ': ' + e.message, 'err');
                 }
                 await sleep(400);
             }
             if (mode === 'cbz') await mihonGifFlush();
             log(bad ? 'warn' : 'ok', 'job', 'Antrian ' + (abortFlag ? 'dihentikan' : 'selesai') + ': ' + ok + ' ok, ' + bad + ' gagal · total ' + secs(tAll));
             if (abortFlag) toast('Dihentikan · ' + ok + ' selesai', 'err');
-            else notifyDone({ kind: bad ? 'warn' : 'ok', title: bad ? 'Selesai dengan kendala' : 'Download selesai', chips: [ok + ' chapter', bad ? { t: bad + ' gagal', bad: true } : '', secs(tAll)], plain: 'Selesai: ' + ok + ' ok' + (bad ? ', ' + bad + ' gagal' : '') });
+            else notifyDone({ kind: bad ? 'warn' : 'ok', title: bad ? 'Selesai dengan kendala' : 'Download selesai', chips: [ok + ' post', bad ? { t: bad + ' gagal', bad: true } : '', secs(tAll)], plain: 'Selesai: ' + ok + ' ok' + (bad ? ', ' + bad + ' gagal' : '') });
             return { ok, bad, aborted: abortFlag };
         });
     }
@@ -1898,7 +1900,7 @@
             const mime = kind === 'pdf' ? 'application/pdf' : 'application/zip';
             const maxBytes = zipMax * 1048576;
             const tAll = performance.now();
-            log('info', 'job', 'Gabungan dimulai: ' + chs.length + ' chapter → 1 ' + ext.toUpperCase() + ' · ' + base, 'maks per ZIP ' + zipMax + ' MB · prefix nomor ' + zipPrefix + ' · simpan ' + (saveMode === 'folder' && dirHandle ? 'folder "' + dirHandle.name + '"' : 'Downloads'));
+            log('info', 'job', 'Gabungan dimulai: ' + chs.length + ' post → 1 ' + ext.toUpperCase() + ' · ' + base, 'maks per ZIP ' + zipMax + ' MB · prefix nomor ' + zipPrefix + ' · simpan ' + (saveMode === 'folder' && dirHandle ? 'folder "' + dirHandle.name + '"' : 'Downloads'));
             const openPart = (part) => openOut(base + (part > 1 ? '_part' + part : '') + '.' + ext, sub, mime);
             let part = 1, zw = null, pw = null, ok = 0, pages = 0, files = 1;
             const bad = [], badCh = [], used = new Set();
@@ -1961,18 +1963,18 @@
                 }
                 if (!ok) {
                     if (zw) await zw.abort(); if (pw) await pw.abort();
-                    toast('Tidak ada chapter yang berhasil diunduh', 'err');
+                    toast('Tidak ada post yang berhasil diunduh', 'err');
                     return { ok: 0, badCh, allFailed: true };
                 }
-                log('info', 'save', 'Menulis file akhir (' + ok + ' chapter, ' + pages + ' halaman)…');
+                log('info', 'save', 'Menulis file akhir (' + ok + ' post, ' + pages + ' halaman)…');
                 toast('Menyimpan file…', 'busy');
                 if (zw) await zw.end(); else await pw.end(multiM ? manga : (manga + ' - ' + chs[0].title + (chs.length > 1 ? ' ~ ' + chs[chs.length - 1].title : '')));
                 if (pw) cmpLog();
-                log(bad.length ? 'warn' : 'ok', 'job', 'Gabungan selesai: ' + ok + '/' + chs.length + ' chapter · ' + pages + ' halaman · ' + files + ' file · ' + secs(tAll) + (bad.length ? ' · gagal: ' + bad.join(', ') : ''));
+                log(bad.length ? 'warn' : 'ok', 'job', 'Gabungan selesai: ' + ok + '/' + chs.length + ' post · ' + pages + ' halaman · ' + files + ' file · ' + secs(tAll) + (bad.length ? ' · gagal: ' + bad.join(', ') : ''));
                 notifyDone({
                     kind: bad.length ? 'warn' : 'ok', title: bad.length ? 'Selesai dengan kendala' : 'Download selesai', sub: manga,
-                    chips: [ok + ' chapter', pages + ' halaman', files > 1 ? files + ' file ZIP' : '', (pw && pdfComp !== 'off' && cmpStat.inB) ? 'hemat ' + Math.max(0, Math.round((1 - cmpStat.outB / cmpStat.inB) * 100)) + '%' : '', bad.length ? { t: bad.length + ' gagal', bad: true } : '', secs(tAll)],
-                    plain: 'Selesai: ' + ok + ' chapter · ' + pages + ' halaman' + (files > 1 ? ' · ' + files + ' file ZIP' : '') + (pw ? cmpNote() : '') + (bad.length ? ' · gagal: ' + bad.length : '')
+                    chips: [ok + ' post', pages + ' halaman', files > 1 ? files + ' file ZIP' : '', (pw && pdfComp !== 'off' && cmpStat.inB) ? 'hemat ' + Math.max(0, Math.round((1 - cmpStat.outB / cmpStat.inB) * 100)) + '%' : '', bad.length ? { t: bad.length + ' gagal', bad: true } : '', secs(tAll)],
+                    plain: 'Selesai: ' + ok + ' post · ' + pages + ' halaman' + (files > 1 ? ' · ' + files + ' file ZIP' : '') + (pw ? cmpNote() : '') + (bad.length ? ' · gagal: ' + bad.length : '')
                 });
                 return { ok, badCh, pages, files };
             } catch (e) {
@@ -2050,8 +2052,8 @@
         });
         return { start, end, total, offs };
     }
-    function pageUrlAt(off) {
-        const u = new URL(location.href);
+    function pageUrlAt(off, base) {
+        const u = new URL(base || location.href);
         u.hash = '';
         if (off > 0) u.searchParams.set('o', String(off)); else u.searchParams.delete('o');
         return u.href;
@@ -2063,7 +2065,7 @@
         const ck = (() => { const x = new URL(location.href); x.hash = ''; x.searchParams.delete('o'); return x.href; })();
         const hit = PAGE_CACHE.get(ck);
         if (hit && Date.now() - hit.t < 10 * 60 * 1000) {
-            log('info', 'scan', 'Daftar chapter dari cache: ' + hit.raw.length + ' chapter', ck);
+            log('info', 'scan', 'Daftar post dari cache: ' + hit.raw.length + ' post', ck);
             return finalizeChapters(hit.raw.map(c => ({ url: c.url, title: c.title })));
         }
         const info = pagerInfo(document);
@@ -2076,6 +2078,8 @@
             return collectChapters();
         }
         scanBusy = true;
+        const scanHref = location.href, scanPath = location.pathname;   // pindah halaman (SPA) di tengah pemindaian = batalkan
+        const moved = () => location.pathname !== scanPath;
         const t0 = performance.now();
         const raw = [], seen = new Set();
         let n = 0, failed = 0;
@@ -2084,12 +2088,13 @@
         try {
             for (let off = 0; n < 300; off += size, n++) {
                 if (known && n >= known) break;
+                if (moved()) break;
                 let doc = null;
                 if (off === curOff) doc = document;
                 else {
                     for (let tryN = 0; tryN < 2 && !doc; tryN++) {
                         try {
-                            const r = await fetch(pageUrlAt(off), { credentials: 'same-origin' });
+                            const r = await fetch(pageUrlAt(off, scanHref), { credentials: 'same-origin' });
                             if (!r.ok) throw new Error('HTTP ' + r.status);
                             doc = new DOMParser().parseFromString(await r.text(), 'text/html');
                         } catch (e) {
@@ -2101,19 +2106,20 @@
                 }
                 let fresh = 0;
                 if (doc) collectChaptersFrom(doc, st).forEach(c => { const k = norm(c.url); if (!seen.has(k)) { seen.add(k); raw.push({ url: c.url, title: c.title }); fresh++; } });
-                toast('Memindai daftar chapter ' + (n + 1) + '/' + (known || '?') + ' · ' + raw.length + ' chapter ditemukan', 'busy');
-                log('debug', 'scan', 'Halaman daftar o=' + off + ': +' + fresh + ' chapter');
+                toast('Memindai daftar post ' + (n + 1) + '/' + (known || '?') + ' · ' + raw.length + ' post ditemukan', 'busy');
+                log('debug', 'scan', 'Halaman daftar o=' + off + ': +' + fresh + ' post');
                 if (!known && !fresh) break;   // total tidak diketahui: berhenti saat halaman kosong
             }
         } catch (e) {
             log('err', 'scan', 'Pemindaian daftar gagal — ' + (e && e.message), e && e.stack);
         } finally { scanBusy = false; }
+        if (moved()) { toastHide(); log('warn', 'scan', 'Pemindaian daftar dibatalkan: pindah halaman'); return []; }
         if (!raw.length) { toastHide(); return collectChapters(); }
         if (st.skipped) log('info', 'scan', st.skipped + ' post tanpa lampiran dilewati');
         PAGE_CACHE.set(ck, { t: Date.now(), raw });
-        log(failed ? 'warn' : 'ok', 'scan', raw.length + ' chapter dari ' + n + ' halaman daftar · ' + secs(t0) + (failed ? ' · ' + failed + ' halaman gagal' : ''));
-        if (failed) toast(raw.length + ' chapter ditemukan · ' + failed + ' halaman daftar gagal dibaca', 'err');
-        else toast(raw.length + ' chapter ditemukan dari ' + n + ' halaman daftar' + (st.skipped ? ' · ' + st.skipped + ' tanpa lampiran dilewati' : ''), 'ok');
+        log(failed ? 'warn' : 'ok', 'scan', raw.length + ' post dari ' + n + ' halaman daftar · ' + secs(t0) + (failed ? ' · ' + failed + ' halaman gagal' : ''));
+        if (failed) toast(raw.length + ' post ditemukan · ' + failed + ' halaman daftar gagal dibaca', 'err');
+        else toast(raw.length + ' post ditemukan dari ' + n + ' halaman daftar' + (st.skipped ? ' · ' + st.skipped + ' tanpa lampiran dilewati' : ''), 'ok');
         return finalizeChapters(raw.map(c => ({ url: c.url, title: c.title })));
     }
     const labelFn = (ch0) => (t) => {
@@ -2159,7 +2165,7 @@
         if (!c || Q.running || busy || job.status === 'running') return;
         if (c.mergeTo) delete c.mergeTo;
         else {
-            if (k < 1) { toast('Tidak ada chapter di atasnya', 'err'); return; }
+            if (k < 1) { toast('Tidak ada post di atasnya', 'err'); return; }
             const r = qRoot(job, job.chapters[k - 1]);
             if (r === c) return;
             c.mergeTo = r.url;
@@ -2225,7 +2231,7 @@
         ['dd-fab-q', 'dd-pv-qdot', 'dd-q-count'].forEach(id => {
             const el = $(id);
             if (!el) return;
-            if (id === 'dd-q-count') { el.textContent = Q.items.length ? (Q.items.length + ' manga · ' + Q.items.reduce((a, j) => a + j.chapters.length, 0) + ' chapter') : 'Kosong'; return; }
+            if (id === 'dd-q-count') { el.textContent = Q.items.length ? (Q.items.length + ' manga · ' + Q.items.reduce((a, j) => a + j.chapters.length, 0) + ' post') : 'Kosong'; return; }
             if (id === 'dd-pv-qdot') { el.hidden = !n; return; }
             el.textContent = n ? String(n) : '';
             el.hidden = !n;
@@ -2260,16 +2266,16 @@
         return { q: sum(all.filter(j => j.status !== 'done')), d: sum(all.filter(j => j.status === 'done')), total: want.size };
     }
     function queueDupAsk(manga, dup) {   // Promise<boolean>: true = lanjut tambahkan
-        const part = (x) => x.ov ? tr(x.ov + ' dari ' + dup.total + ' chapter yang akan ditambah sudah ada') : tr('chapter-nya berbeda');
+        const part = (x) => x.ov ? tr(x.ov + ' dari ' + dup.total + ' post yang akan ditambah sudah ada') : tr('post-nya berbeda');
         const L = [];
-        if (dup.q) L.push(tr('• Di antrian: ' + dup.q.ch + ' chapter') + ' — ' + part(dup.q));
-        if (dup.d) L.push(tr('• Sudah selesai di-download: ' + dup.d.ch + ' chapter') + ' — ' + part(dup.d));
+        if (dup.q) L.push(tr('• Di antrian: ' + dup.q.ch + ' post') + ' — ' + part(dup.q));
+        if (dup.d) L.push(tr('• Sudah selesai di-download: ' + dup.d.ch + ' post') + ' — ' + part(dup.d));
         return ddConfirm(L.join('\n'), { title: 'Manga ini sudah ada', head: manga, ok: 'Tetap tambahkan', kind: 'warn' });
     }
     async function queueAdd(manga, mangaUrl, chapters, opts) {
         opts = opts || {};
         chapters = (chapters || []).map(c => { const o = { url: c.url, title: c.title || 'chapter', on: true, skip: Array.isArray(c.skip) ? c.skip.slice() : [], mergeTo: c.mergeTo || '' }; if (Array.isArray(c.pre) && c.pre.length) o.pre = c.pre.map(x => ({ url: x.url, w: x.w, h: x.h, checked: x.checked !== false, edited: !!x.edited })); return o; }).filter(c => c.url);
-        if (!chapters.length) { toast('Tidak ada chapter untuk diantrikan', 'err'); return null; }
+        if (!chapters.length) { toast('Tidak ada post untuk diantrikan', 'err'); return null; }
         const dup = queueDupInfo(manga, mangaUrl, chapters);
         if ((dup.q || dup.d) && !opts.force && !(await queueDupAsk(manga || 'manga', dup))) {
             toast('Dibatalkan — manga tidak ditambahkan');
@@ -2294,14 +2300,14 @@
                 }
             });
             if (upd) { keepRebuild(); editRevokeOrphans(oldU); }
-            if (!add && !upd) { toast('Chapter sudah ada di antrian', 'err'); return job; }
+            if (!add && !upd) { toast('Post sudah ada di antrian', 'err'); return job; }
             if (!add) { queueSave(); queueBadge(); queueRender(); toast('Daftar halaman diperbarui di antrian · \"' + job.manga + '\"', 'ok'); return job; }
             job.mode = mode; job.sel = true;
             if (job.chapters.length > 1) job.multi = opts.multi || job.multi || multi || 'sep';
             keepRebuild();
             queueSave(); queueBadge(); queueRender();
-            toast('+' + add + ' chapter ke antrian · "' + job.manga + '" (' + job.chapters.length + ' total)', 'ok');
-            log('ok', 'queue', 'Tambah ' + add + ' chapter ke job existing: ' + job.manga);
+            toast('+' + add + ' post ke antrian · "' + job.manga + '" (' + job.chapters.length + ' total)', 'ok');
+            log('ok', 'queue', 'Tambah ' + add + ' post ke job existing: ' + job.manga);
             return job;
         }
         job = {
@@ -2319,14 +2325,14 @@
         Q.items.push(job);
         keepRebuild();
         queueSave(); queueBadge(); queueRender();
-        toast('Antrian: "' + job.manga + '" · ' + job.chapters.length + ' chapter', 'ok');
-        log('ok', 'queue', 'Job baru #' + job.id + ': ' + job.manga + ' · ' + job.chapters.length + ' ch · ' + job.multi + '/' + job.mode);
+        toast('Antrian: "' + job.manga + '" · ' + job.chapters.length + ' post', 'ok');
+        log('ok', 'queue', 'Job baru #' + job.id + ': ' + job.manga + ' · ' + job.chapters.length + ' post · ' + job.multi + '/' + job.mode);
         return job;
     }
     async function queueAddFromPage() {
         if (scanBusy) return;
         const list = await collectChaptersAll();
-        if (!list.length) { toast('Tidak ada chapter di halaman ini', 'err'); return; }
+        if (!list.length) { toast('Tidak ada post di halaman ini', 'err'); return; }
         const title = mangaTitle();
         queueAdd(title, location.href, list.map(c => ({ url: c.url, title: c.title })), {
             mode: fmt,
@@ -2338,11 +2344,11 @@
         if (!P || P.qjob) { queueAddFromPage(); return; }
         const isTg = (u) => { const t = P.chapters.find(x => x.url === u); return !!(t && t.checked); };
         const sel = P.chapters.filter(c => c.checked || (P.merge && P.merge.has(c.url) && isTg(P.merge.get(c.url))));   // + chapter sumber gabungan dari target yang dicentang
-        if (!sel.length) { toast('Centang chapter di sidebar dulu', 'err'); return; }
+        if (!sel.length) { toast('Centang post di sidebar dulu', 'err'); return; }
         const list = sel.map(c => ({ url: c.url, title: c.title, skip: Array.from((P.skip && P.skip.get(c.url)) || []), mergeTo: (P.merge && P.merge.has(c.url) && isTg(P.merge.get(c.url))) ? P.merge.get(c.url) : '', pre: pvCustomPre(c) }))
             .filter(c => !(c.pre && !c.pre.length));   // chapter yang sudah dikosongkan tidak ikut
-        if (list.length < sel.length) toast((sel.length - list.length) + ' chapter kosong dilewati');
-        if (!list.length) { toast('Tidak ada chapter berisi halaman untuk diantrikan', 'err'); return; }
+        if (list.length < sel.length) toast((sel.length - list.length) + ' post kosong dilewati');
+        if (!list.length) { toast('Tidak ada post berisi halaman untuk diantrikan', 'err'); return; }
         queueAdd(P.manga || mangaTitle(), location.href, list, {
             mode: fmt,
             multi: list.length > 1 ? multi : 'sep'
@@ -2375,10 +2381,10 @@
             if (k < to) to--;
             src.chapters.splice(to, 0, c);
             queueSave(); queueRender();
-            log('info', 'queue', 'Urutan chapter diubah di "' + src.manga + '": ' + c.title + ' → posisi ' + (to + 1));
+            log('info', 'queue', 'Urutan post diubah di "' + src.manga + '": ' + c.title + ' → posisi ' + (to + 1));
             return;
         }
-        if (dst.chapters.some(x => norm(x.url) === norm(c.url))) { toast('Chapter itu sudah ada di "' + dst.manga + '"', 'err'); return; }
+        if (dst.chapters.some(x => norm(x.url) === norm(c.url))) { toast('Post itu sudah ada di "' + dst.manga + '"', 'err'); return; }
         src.chapters.splice(k, 1);
         const to = (at == null || at < 0 || at > dst.chapters.length) ? dst.chapters.length : at;
         dst.chapters.splice(to, 0, c);
@@ -2390,8 +2396,8 @@
         if (!src.chapters.length) { Q.items.splice(Q.items.indexOf(src), 1); Q.open.delete(src.id); queueRelease([src]); emptied = true; }
         else keepRebuild();
         queueSave(); queueBadge(); queueRender();
-        toast('"' + c.title + '" → ' + dst.manga + ' (chapter ' + (to + 1) + ')' + (emptied ? ' · manga asal dihapus karena kosong' : ''), 'ok');
-        log('ok', 'queue', 'Chapter dipindah: "' + c.title + '" dari "' + src.manga + '" ke "' + dst.manga + '" (posisi ' + (to + 1) + ')' + (emptied ? ' · job asal kosong, dihapus' : ''));
+        toast('"' + c.title + '" → ' + dst.manga + ' (post ' + (to + 1) + ')' + (emptied ? ' · manga asal dihapus karena kosong' : ''), 'ok');
+        log('ok', 'queue', 'Post dipindah: "' + c.title + '" dari "' + src.manga + '" ke "' + dst.manga + '" (posisi ' + (to + 1) + ')' + (emptied ? ' · job asal kosong, dihapus' : ''));
     }
     // Gabung SEMUA chapter manga asal ke manga tujuan (ditaruh di akhir), lalu hapus job asal
     function queueMergeJob(srcId, dstId) {
@@ -2400,7 +2406,7 @@
         const seen = new Set(dst.chapters.map(c => norm(c.url)));
         let add = 0, dup = 0;
         src.chapters.forEach(c => { if (seen.has(norm(c.url))) dup++; else { dst.chapters.push(c); seen.add(norm(c.url)); add++; } });
-        if (!add) { toast('Semua chapter itu sudah ada di "' + dst.manga + '"', 'err'); return; }
+        if (!add) { toast('Semua post itu sudah ada di "' + dst.manga + '"', 'err'); return; }
         src.chapters = [];
         dst.sel = true;
         if (dst.status === 'done' || dst.status === 'error') { dst.status = 'pending'; dst.progress = ''; dst.err = ''; }
@@ -2408,8 +2414,8 @@
         Q.items.splice(Q.items.indexOf(src), 1);
         queueRelease([src]);
         queueSave(); queueBadge(); queueRender();
-        toast(add + ' chapter dari "' + src.manga + '" digabung ke "' + dst.manga + '"' + (dup ? ' (' + dup + ' dobel dilewati)' : ''), 'ok');
-        log('ok', 'queue', 'Manga digabung: "' + src.manga + '" → "' + dst.manga + '" · +' + add + ' chapter' + (dup ? ', ' + dup + ' dobel dilewati' : ''));
+        toast(add + ' post dari "' + src.manga + '" digabung ke "' + dst.manga + '"' + (dup ? ' (' + dup + ' dobel dilewati)' : ''), 'ok');
+        log('ok', 'queue', 'Manga digabung: "' + src.manga + '" → "' + dst.manga + '" · +' + add + ' post' + (dup ? ', ' + dup + ' dobel dilewati' : ''));
     }
     async function queueRequeue(id) {
         const j = Q.items.find(x => x.id === id);
@@ -2446,7 +2452,7 @@
     function queueProg(job, ch, t) {
         if (/^✓/.test(t)) job._done = (job._done || 0) + 1;
         const tot = jobEff(job).length || 1;
-        job.progress = (job._done || 0) + '/' + tot + ' chapter' + (ch ? ' · ' + ch.title : '') + ' · ' + t;
+        job.progress = (job._done || 0) + '/' + tot + ' post' + (ch ? ' · ' + ch.title : '') + ' · ' + t;
         const row = document.querySelector('#dd-q .q-item[data-id="' + job.id + '"]');
         if (!row) return;
         const pc = Math.min(100, Math.round((job._done || 0) / tot * 100));
@@ -2459,8 +2465,8 @@
         const tot = jobEff(job).length;
         if (r.cancel) { job.status = 'pending'; job.progress = ''; job.err = ''; }
         else if (r.aborted) { job.status = 'pending'; job.progress = 'Dihentikan'; job.err = ''; }
-        else if (r.error || (r.failed && r.failed >= tot)) { job.status = 'error'; job.err = r.error || 'Semua chapter gagal'; job.progress = 'Gagal'; log('err', 'queue', 'Job #' + job.id + ' gagal: ' + job.err); }
-        else { job.status = 'done'; job.progress = 'Selesai'; job.err = r.failed ? r.failed + ' chapter gagal diunduh' : ''; job.sel = false; job.doneAt = Date.now(); }
+        else if (r.error || (r.failed && r.failed >= tot)) { job.status = 'error'; job.err = r.error || 'Semua post gagal'; job.progress = 'Gagal'; log('err', 'queue', 'Job #' + job.id + ' gagal: ' + job.err); }
+        else { job.status = 'done'; job.progress = 'Selesai'; job.err = r.failed ? r.failed + ' post gagal diunduh' : ''; job.sel = false; job.doneAt = Date.now(); }
     }
     async function queueProcess() {
         if (Q.running) { toast('Antrian sedang berjalan', 'err'); return; }
@@ -2473,7 +2479,7 @@
         const lostCh = [];
         picks.forEach(j => jobChs(j).forEach(c => { if (c.lost && !(c.pre && c.pre.length)) lostCh.push(j.manga + ' — ' + c.title); }));
         if (lostCh.length) {
-            if (!(await ddConfirm('Hasil edit ' + lostCh.length + ' chapter sudah hilang (halaman di-refresh), jadi akan diunduh TANPA edit:\n\n' + lostCh.slice(0, 6).join('\n') + (lostCh.length > 6 ? '\n…' : ''), { title: 'Hasil edit hilang', ok: 'Lanjut tanpa edit' }))) return;
+            if (!(await ddConfirm('Hasil edit ' + lostCh.length + ' post sudah hilang (halaman di-refresh), jadi akan diunduh TANPA edit:\n\n' + lostCh.slice(0, 6).join('\n') + (lostCh.length > 6 ? '\n…' : ''), { title: 'Hasil edit hilang', ok: 'Lanjut tanpa edit' }))) return;
             picks.forEach(j => j.chapters.forEach(c => { if (!c.pre) c.lost = false; }));
             queueSave(); queueRender();
         }
@@ -2505,8 +2511,8 @@
                 const name = (QO.name || '').trim();
                 const multiM = picks.length > 1 || !!name;
                 mangaOverride = picks[0].manga;
-                toast('Menggabungkan ' + picks.length + ' manga · ' + chs.length + ' chapter…', 'busy');
-                log('info', 'queue', 'Gabung ' + picks.length + ' manga (' + chs.length + ' chapter) → 1 ' + kind.toUpperCase() + (name ? ' · nama "' + name + '"' : ''));
+                toast('Menggabungkan ' + picks.length + ' manga · ' + chs.length + ' post…', 'busy');
+                log('info', 'queue', 'Gabung ' + picks.length + ' manga (' + chs.length + ' post) → 1 ' + kind.toUpperCase() + (name ? ' · nama "' + name + '"' : ''));
                 const res = await runCombined(chs, kind, { multiManga: multiM, title: name || (multiM ? 'Gabungan ' + picks.length + ' manga' : ''), onLabel });
                 picks.forEach(j => {
                     if (!res) { queueFinish(j, { cancel: true }); return; }
@@ -2518,7 +2524,7 @@
                     start(j); queueRender(); queueBadge();
                     mangaOverride = j.manga;
                     toast('Antrian: ' + j.manga, 'busy');
-                    log('info', 'queue', 'Job #' + j.id + ' · ' + j.manga + ' · ' + jobChs(j).length + ' ch · ' + mode + '/' + f);
+                    log('info', 'queue', 'Job #' + j.id + ' · ' + j.manga + ' · ' + jobChs(j).length + ' post · ' + mode + '/' + f);
                     const chs = mkChs(j);
                     let res;
                     try {
@@ -2550,7 +2556,7 @@
             if (abortFlag) toast('Antrian dihentikan', 'err');
             else notifyDone({
                 final: true, kind: errN ? 'warn' : 'ok', title: errN ? 'Antrian selesai dengan kendala' : 'Antrian selesai',
-                chips: [okN + ' manga', picks.filter(j => j.status === 'done').reduce((a, j) => a + jobChs(j).length, 0) + ' chapter', errN ? { t: errN + ' gagal', bad: true } : '', secs(tQ)],
+                chips: [okN + ' manga', picks.filter(j => j.status === 'done').reduce((a, j) => a + jobChs(j).length, 0) + ' post', errN ? { t: errN + ' gagal', bad: true } : '', secs(tQ)],
                 plain: 'Antrian selesai · ' + okN + ' manga berhasil' + (errN ? ', ' + errN + ' gagal' : '')
             });
         }
@@ -2593,23 +2599,23 @@
         const cr = $('dd-q-comprow'); if (cr) cr.hidden = QO.fmt !== 'pdf';
         root.querySelectorAll('[data-comp]').forEach(b => b.classList.toggle('on', b.dataset.comp === pdfComp));
         const nmw = $('dd-q-namew'); if (nmw) nmw.hidden = QO.mode !== 'merge';
-        const nm = $('dd-q-name'); if (nm) nm.placeholder = n > 1 ? 'Gabungan ' + n + ' manga' : 'Otomatis (nama manga + rentang chapter)';
+        const nm = $('dd-q-name'); if (nm) nm.placeholder = n > 1 ? 'Gabungan ' + n + ' manga' : 'Otomatis (nama manga + rentang post)';
         const F = QO.fmt === 'zip' ? 'ZIP' : QO.fmt === 'files' ? 'gambar (IMG)' : QO.fmt === 'cbz' ? 'CBZ' : 'PDF';
         let d;
         if (QO.mode === 'merge') {
-            d = (n > 1 ? 'Semua chapter dari ' + n + ' manga digabung jadi 1 ' + F : 'Chapter manga terpilih digabung jadi 1 ' + F) +
-                (QO.fmt === 'zip' ? ' (folder manga › chapter; dipecah otomatis bila lebih dari ' + zipMax + ' MB).' : ', dengan bookmark per chapter.');
+            d = (n > 1 ? 'Semua post dari ' + n + ' manga digabung jadi 1 ' + F : 'Post manga terpilih digabung jadi 1 ' + F) +
+                (QO.fmt === 'zip' ? ' (folder manga › post; dipecah otomatis bila lebih dari ' + zipMax + ' MB).' : ', dengan bookmark per post.');
         } else if (QO.mode === 'manga') {
             d = 'Tiap manga dibuat 1 file ' + F + (n ? ' → ' + n + ' file.' : '.');
         } else {
-            d = 'Tiap chapter dibuat ' + (QO.fmt === 'files' ? 'sebagai gambar terpisah.' : QO.fmt === 'cbz' ? 'sebagai file CBZ “Chapter 01.cbz” di folder nama manga' + (saveMode === 'folder' && dirHandle ? ' (+ cover & details.json), siap untuk Mihon › Local source.' : ' — pilih folder simpan di Pengaturan agar jadi Nama Manga/Chapter 01.cbz.') : 'sebagai file ' + F + ' sendiri.');
+            d = 'Tiap post dibuat ' + (QO.fmt === 'files' ? 'sebagai gambar terpisah.' : QO.fmt === 'cbz' ? 'sebagai file CBZ “Chapter 01.cbz” di folder nama manga' + (saveMode === 'folder' && dirHandle ? ' (+ cover & details.json), siap untuk Mihon › Local source.' : ' — pilih folder simpan di Pengaturan agar jadi Nama Manga/Chapter 01.cbz.') : 'sebagai file ' + F + ' sendiri.');
         }
         if (QO.fmt === 'pdf' && PDFC[pdfComp]) d += ' Kompresi ' + PDFL[pdfComp] + ': lebar maks ' + PDFC[pdfComp].w + ' px, kualitas ' + Math.round(PDFC[pdfComp].q * 100) + '%.';
         const de = $('dd-q-desc'); if (de) de.textContent = d;
         const run = Q.running || busy;
         const go = $('dd-q-start'), gt = $('dd-q-go-t');
         if (go) go.disabled = run || !n;
-        if (gt) gt.textContent = n ? (QO.mode === 'merge' && n > 1 ? 'Gabung & download ' + n + ' manga' : 'Download ' + n + ' manga') + ' · ' + nCh + ' ch' : (Q.items.some(x => x.sel && x.status !== 'running' && !jobChs(x).length) ? 'Aktifkan chapter dulu' : 'Pilih manga dulu');
+        if (gt) gt.textContent = n ? (QO.mode === 'merge' && n > 1 ? 'Gabung & download ' + n + ' manga' : 'Download ' + n + ' manga') + ' · ' + nCh + ' post' : (Q.items.some(x => x.sel && x.status !== 'running' && !jobChs(x).length) ? 'Aktifkan post dulu' : 'Pilih manga dulu');
     }
     const qHue = (t) => { let h = 0; String(t || '').split('').forEach(ch => { h = (h * 31 + ch.charCodeAt(0)) % 360; }); return h; };
     function queueRender() {
@@ -2634,7 +2640,7 @@
         if (hid) { hid.hidden = !hidN; hid.textContent = hidN + ' tersembunyi oleh pencarian'; }
         const sum = $('dd-q-sum');
         const noCh = Q.items.some(x => x.sel && x.status !== 'running' && !jobChs(x).length);
-        if (sum) sum.textContent = picks.length ? picks.length + ' manga · ' + nCh + ' chapter dipilih' : (noCh ? 'Manga dipilih tapi tidak ada chapter aktif' : 'Belum ada yang dipilih');
+        if (sum) sum.textContent = picks.length ? picks.length + ' manga · ' + nCh + ' post dipilih' : (noCh ? 'Manga dipilih tapi tidak ada post aktif' : 'Belum ada yang dipilih');
         const all = $('dd-q-all');
         if (all) {
             const sel = visQ.filter(x => x.sel).length;
@@ -2675,13 +2681,13 @@
             return '<div class="q-item st-' + st + (job.sel ? ' sel' : '') + (open ? ' open' : '') + '" data-id="' + job.id + '">' +
                 '<div class="q-row">' +
                 (ro ? '<span class="q-dck" title="Selesai di-download">' + IC('check') + '</span>' : '<label class="q-ck" title="Pilih manga ini"><input type="checkbox" data-a="sel"' + (job.sel ? ' checked' : '') + (lock ? ' disabled' : '') + '></label>') +
-                '<div class="q-av" style="--h:' + hue + '"' + (lock || ro || Q.running ? '' : ' draggable="true" title="Seret ke manga lain untuk menggabung semua chapternya"') + '>' + esc(letter) + '</div>' +
-                '<div class="q-main" data-a="tgl" title="Klik untuk lihat / pilih chapter">' +
+                '<div class="q-av" style="--h:' + hue + '"' + (lock || ro || Q.running ? '' : ' draggable="true" title="Seret ke manga lain untuk menggabung semua postnya"') + '>' + esc(letter) + '</div>' +
+                '<div class="q-main" data-a="tgl" title="Klik untuk lihat / pilih post">' +
                 '<div class="q-title" title="' + esc(job.manga) + '">' + qHl(job.manga) + '</div>' +
                 '<div class="q-meta">' +
-                (on ? '<span class="q-chip">' + on + (on !== tot ? ' / ' + tot : '') + ' chapter</span>' : '<span class="q-chip bad">Tidak ada chapter aktif</span>') +
+                (on ? '<span class="q-chip">' + on + (on !== tot ? ' / ' + tot : '') + ' post</span>' : '<span class="q-chip bad">Tidak ada post aktif</span>') +
                 (skN ? '<span class="q-chip warn" title="Halaman yang di-uncheck di preview">−' + skN + ' halaman</span>' : '') +
-                (edN ? '<span class="q-chip ed" title="Chapter dengan hasil edit (gabung/split/potong) — hanya tersimpan selama halaman tidak di-refresh">✎ ' + edN + ' diedit</span>' : '') +
+                (edN ? '<span class="q-chip ed" title="Post dengan hasil edit (gabung/split/potong) — hanya tersimpan selama halaman tidak di-refresh">✎ ' + edN + ' diedit</span>' : '') +
                 (lostN ? '<span class="q-chip warn" title="Hasil edit hilang karena halaman di-refresh — edit ulang lewat tombol preview">⚠ ' + lostN + ' edit hilang</span>' : '') +
                 (ro && job.doneAt ? '<span class="q-chip ok" title="Waktu selesai">' + esc(new Date(job.doneAt).toLocaleString(lang === 'en' ? 'en-GB' : 'id-ID', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })) + '</span>' : '') +
                 '</div></div>' +
@@ -2692,19 +2698,19 @@
                 (ro ? '' : '<button type="button" class="q-ib" data-a="up" title="Naikkan"' + (idx === 0 ? ' disabled' : '') + '>' + IC('chevron') + '</button>' +
                 '<button type="button" class="q-ib q-dn" data-a="down" title="Turunkan"' + (idx === vis.length - 1 ? ' disabled' : '') + '>' + IC('chevron') + '</button>') +
                 (ro ? '' : '</span>') +
-                '<button type="button" class="q-ib q-tg' + (open ? ' open' : '') + '" data-a="tgl" title="Chapter">' + IC('chevron') + '</button>' +
+                '<button type="button" class="q-ib q-tg' + (open ? ' open' : '') + '" data-a="tgl" title="Post">' + IC('chevron') + '</button>' +
                 '<button type="button" class="q-ib q-rm" data-a="rm" title="Hapus dari antrian"' + (lock ? ' disabled' : '') + '>' + IC('trash') + '</button>' +
                 '</div></div>' +
                 (lock ? '<div class="q-pb"><i style="width:' + pct + '%"></i></div><div class="q-prog"><span>' + esc(job.progress || '') + '</span><b>' + pct + '%</b></div>' : '') +
                 (!lock && job.err ? '<div class="q-err ' + (st === 'done' ? 'warn' : '') + '">' + esc(job.err) + '</div>' : '') +
-                (open ? '<div class="q-chs"><div class="q-chs-h"><b>Chapter</b><span>' + on + ' dari ' + tot + ' dipilih</span>' +
+                (open ? '<div class="q-chs"><div class="q-chs-h"><b>Posts</b><span>' + on + ' dari ' + tot + ' dipilih</span>' +
                     (ro ? '' : '<button type="button" class="q-link" data-a="chall"' + (lock ? ' disabled' : '') + '>Semua</button>' +
                     '<button type="button" class="q-link" data-a="chnone"' + (lock ? ' disabled' : '') + '>Kosongkan</button>') + '</div>' +
                     '<div class="q-chl">' + job.chapters.map((c, k) =>
                         '<div class="q-chi' + (c.on !== false ? ' on' : '') + (qMergedInto(job, c) ? ' mg' : '') + '" data-k="' + k + '"' + (lock || ro || Q.running ? '' : ' draggable="true"') + '><label><input type="checkbox" data-a="ch" data-k="' + k + '"' + (c.on !== false ? ' checked' : '') + (lock || ro ? ' disabled' : '') + '><i class="q-cn">' + (k + 1) + '</i><span title="' + esc(c.title) + '">' + esc(c.title) + '</span></label>' +
-                        (() => { const tg = qMergedInto(job, c); if (tg) return '<em class="q-sk q-mg" title="Gambar chapter ini dimasukkan ke akhir chapter #' + (job.chapters.indexOf(tg) + 1) + '">→ #' + (job.chapters.indexOf(tg) + 1) + '</em>'; const n = job.chapters.filter(x => qMergedInto(job, x) === c).length; return n ? '<em class="q-sk q-mg" title="Chapter lain digabung ke chapter ini">+' + n + ' digabung</em>' : ''; })() +
-                        (c.pre && c.pre.length ? '<em class="q-sk q-ed" title="Chapter sudah diedit — jumlah halaman yang akan diunduh">✎ ' + c.pre.filter(x => x.checked).length + ' hal.</em>' : (c.lost ? '<em class="q-sk" title="Hasil edit hilang karena halaman di-refresh">⚠ edit hilang</em>' : (c.skip && c.skip.length ? '<em class="q-sk" title="Halaman yang di-uncheck">−' + c.skip.length + ' hal.</em>' : ''))) +
-                        (ro ? '' : '<button type="button" class="q-ib sm q-mgb' + (c.mergeTo ? ' on' : '') + '" data-a="mg" data-k="' + k + '" title="' + (c.mergeTo ? 'Pisahkan dari gabungan' : 'Gabung ke chapter di atasnya (gambarnya dimasukkan ke akhir chapter itu)') + '"' + (lock || k < 1 && !c.mergeTo ? ' disabled' : '') + '>' + (c.mergeTo ? '↺' : '⤴') + '</button><button type="button" class="q-ib sm" data-a="pk" data-k="' + k + '" title="Preview & pilih gambar di panel utama"' + (lock ? ' disabled' : '') + '>' + IC('eye') + '</button>') + '</div>').join('') +
+                        (() => { const tg = qMergedInto(job, c); if (tg) return '<em class="q-sk q-mg" title="Gambar post ini dimasukkan ke akhir post #' + (job.chapters.indexOf(tg) + 1) + '">→ #' + (job.chapters.indexOf(tg) + 1) + '</em>'; const n = job.chapters.filter(x => qMergedInto(job, x) === c).length; return n ? '<em class="q-sk q-mg" title="Post lain digabung ke post ini">+' + n + ' digabung</em>' : ''; })() +
+                        (c.pre && c.pre.length ? '<em class="q-sk q-ed" title="Post sudah diedit — jumlah halaman yang akan diunduh">✎ ' + c.pre.filter(x => x.checked).length + ' hal.</em>' : (c.lost ? '<em class="q-sk" title="Hasil edit hilang karena halaman di-refresh">⚠ edit hilang</em>' : (c.skip && c.skip.length ? '<em class="q-sk" title="Halaman yang di-uncheck">−' + c.skip.length + ' hal.</em>' : ''))) +
+                        (ro ? '' : '<button type="button" class="q-ib sm q-mgb' + (c.mergeTo ? ' on' : '') + '" data-a="mg" data-k="' + k + '" title="' + (c.mergeTo ? 'Pisahkan dari gabungan' : 'Gabung ke post di atasnya (gambarnya dimasukkan ke akhir post itu)') + '"' + (lock || k < 1 && !c.mergeTo ? ' disabled' : '') + '>' + (c.mergeTo ? '↺' : '⤴') + '</button><button type="button" class="q-ib sm" data-a="pk" data-k="' + k + '" title="Preview & pilih gambar di panel utama"' + (lock ? ' disabled' : '') + '>' + IC('eye') + '</button>') + '</div>').join('') +
                     '</div></div>' : '') +
                 '</div>';
         }).join('');
@@ -2833,7 +2839,7 @@
             '<div class="q-top" title="Tarik untuk menggeser · klik ganda untuk memperbesar">' +
             '<div class="q-logo" role="img" aria-label="Antrian" style="background-image:url(' + LOGO_Q_IMG + ')"></div>' +
             '<div class="q-ht"><b>Antrian download</b><small id="dd-q-count">Kosong</small></div>' +
-            '<button type="button" class="q-btn" id="dd-q-add" title="Tambah manga + chapter dari halaman yang sedang dibuka">' + IC('queue') + '<span>Tambah halaman ini</span></button>' +
+            '<button type="button" class="q-btn" id="dd-q-add" title="Tambah manga + post dari halaman yang sedang dibuka">' + IC('queue') + '<span>Tambah halaman ini</span></button>' +
             '<button type="button" class="q-ib" id="dd-q-x" title="Tutup (Esc)">' + IC('x') + '</button>' +
             '</div>' +
             '<div class="q-bar">' +
@@ -2850,7 +2856,7 @@
             '<label class="q-ck"><input type="checkbox" id="dd-q-all"><span>Pilih semua</span></label>' +
             '<span class="q-sum" id="dd-q-sum">Belum ada yang dipilih</span>' +
             '<span class="q-chip warn q-hid" id="dd-q-hid" hidden></span>' +
-            '<span class="q-hint" id="dd-q-hint" hidden>Seret chapter / avatar manga ke manga lain untuk menggabung</span>' +
+            '<span class="q-hint" id="dd-q-hint" hidden>Seret post / avatar manga ke manga lain untuk menggabung</span>' +
             '<button type="button" class="q-link dng" id="dd-q-rmsel">Hapus terpilih</button>' +
             '</div>' +
             '<div class="q-list" id="dd-q-list"></div>' +
@@ -2858,13 +2864,13 @@
             '<div class="q-sec"><span class="q-ol">Hasil</span><div class="q-seg q-tiles">' +
             '<button type="button" data-mode="merge" title="Semua manga yang dicentang digabung jadi satu file"><b>Gabung jadi 1 file</b><small>Semua manga jadi satu</small></button>' +
             '<button type="button" data-mode="manga" title="Tiap manga satu file"><b>1 file per manga</b><small>Tiap manga terpisah</small></button>' +
-            '<button type="button" data-mode="chapter" title="Tiap chapter file sendiri"><b>Per chapter</b><small>Tiap chapter terpisah</small></button></div></div>' +
+            '<button type="button" data-mode="post" title="Tiap post file sendiri"><b>Per post</b><small>Tiap post terpisah</small></button></div></div>' +
             '<div class="q-two">' +
             '<div class="q-sec"><span class="q-ol">Format</span><div class="q-seg">' +
             '<button type="button" data-fmt="pdf">PDF</button>' +
             '<button type="button" data-fmt="zip">ZIP</button>' +
             '<button type="button" data-fmt="files" hidden>IMG</button>' +
-            '<button type="button" data-fmt="cbz" title="Nama Manga/Chapter 01.cbz — untuk Mihon (Local source). Otomatis memakai mode Per chapter">CBZ Mihon</button></div></div>' +
+            '<button type="button" data-fmt="cbz" title="Nama Manga/Chapter 01.cbz — untuk Mihon (Local source). Otomatis memakai mode Per post">CBZ Mihon</button></div></div>' +
             '<div class="q-sec" id="dd-q-comprow"><span class="q-ol">Kompres</span><div class="q-seg">' +
             [['off', 'Asli'], ['low', 'Ringan'], ['med', 'Sedang'], ['high', 'Kuat']].map(o => '<button type="button" data-comp="' + o[0] + '">' + o[1] + '</button>').join('') + '</div></div>' +
             '</div>' +
@@ -3602,7 +3608,7 @@
         const entry = UNDO.stack.pop();
         const cur = P.chapters[P.cur];
         if (entry.chUrl && cur && norm(entry.chUrl) !== norm(cur.url)) {
-            toast('Undo hanya untuk chapter yang sama', 'err');
+            toast('Undo hanya untuk post yang sama', 'err');
             editRevokeOrphans((entry.items || []).map(it => it.url));
             const b = $('dd-pv-undo');
             if (b) b.disabled = !UNDO.stack.length;
@@ -4294,22 +4300,22 @@
         return sel;
     }
     function multiHint() {
-        if (multi === 'onezip') return 'Semua chapter terpilih jadi 1 file ZIP · tiap chapter di foldernya sendiri.';
-        if (multi === 'onepdf') return 'Semua chapter terpilih jadi 1 file PDF berurutan (ada bookmark per chapter).';
-        return 'Tiap chapter terpilih jadi file sendiri (format ' + (fmt === 'files' ? 'IMG' : fmt.toUpperCase()) + ').';
+        if (multi === 'onezip') return 'Semua post terpilih jadi 1 file ZIP · tiap post di foldernya sendiri.';
+        if (multi === 'onepdf') return 'Semua post terpilih jadi 1 file PDF berurutan (ada bookmark per post).';
+        return 'Tiap post terpilih jadi file sendiri (format ' + (fmt === 'files' ? 'IMG' : fmt.toUpperCase()) + ').';
     }
     // ---- satu menu mode download: lingkup (chapter dibuka / terpilih) + format digabung
     const MODES = [
-        { k: 'cur:zip', b: 'ZIP', g: 'Chapter yang dibuka', t: 'ZIP', s: 'ZIP', d: 'Halaman yang dicentang jadi 1 file ZIP' },
-        { k: 'cur:pdf', b: 'PDF', g: 'Chapter yang dibuka', t: 'PDF', s: 'PDF', d: 'Halaman yang dicentang jadi 1 file PDF' },
-        { k: 'cur:files', b: 'IMG', g: 'Chapter yang dibuka', t: 'Gambar (IMG)', s: 'IMG', d: 'Tiap halaman disimpan sebagai file gambar' },
-        { k: 'cur:cbz', b: 'CBZ', g: 'Chapter yang dibuka', t: 'CBZ untuk Mihon', s: 'CBZ Mihon', d: 'Nama Manga › Chapter.cbz (+ cover.jpg), siap dibaca di Mihon' },
-        { k: 'sep:zip', b: 'ZIP', g: 'Chapter terpilih (sidebar)', t: 'ZIP terpisah', s: 'ZIP terpisah', d: 'Tiap chapter jadi 1 file ZIP sendiri' },
-        { k: 'sep:pdf', b: 'PDF', g: 'Chapter terpilih (sidebar)', t: 'PDF terpisah', s: 'PDF terpisah', d: 'Tiap chapter jadi 1 file PDF sendiri' },
-        { k: 'sep:files', b: 'IMG', g: 'Chapter terpilih (sidebar)', t: 'Gambar terpisah', s: 'IMG terpisah', d: 'Gambar tiap chapter di foldernya sendiri' },
-        { k: 'sep:cbz', b: 'CBZ', g: 'Chapter terpilih (sidebar)', t: 'CBZ untuk Mihon', s: 'CBZ Mihon', d: 'Tiap chapter 1 file .cbz di folder nama manga (+ cover.jpg)' },
-        { k: 'onezip', b: 'ZIP', g: 'Chapter terpilih (sidebar)', t: '1 ZIP gabungan', s: '1 ZIP', d: 'Semua chapter dalam 1 ZIP, folder per chapter' },
-        { k: 'onepdf', b: 'PDF', g: 'Chapter terpilih (sidebar)', t: '1 PDF gabungan', s: '1 PDF', d: 'Semua chapter berurutan, bookmark per chapter' }
+        { k: 'cur:zip', b: 'ZIP', g: 'Post yang dibuka', t: 'ZIP', s: 'ZIP', d: 'Halaman yang dicentang jadi 1 file ZIP' },
+        { k: 'cur:pdf', b: 'PDF', g: 'Post yang dibuka', t: 'PDF', s: 'PDF', d: 'Halaman yang dicentang jadi 1 file PDF' },
+        { k: 'cur:files', b: 'IMG', g: 'Post yang dibuka', t: 'Gambar (IMG)', s: 'IMG', d: 'Tiap halaman disimpan sebagai file gambar' },
+        { k: 'cur:cbz', b: 'CBZ', g: 'Post yang dibuka', t: 'CBZ untuk Mihon', s: 'CBZ Mihon', d: 'Nama Manga › Chapter.cbz (+ cover.jpg), siap dibaca di Mihon' },
+        { k: 'sep:zip', b: 'ZIP', g: 'Post terpilih (sidebar)', t: 'ZIP terpisah', s: 'ZIP terpisah', d: 'Tiap post jadi 1 file ZIP sendiri' },
+        { k: 'sep:pdf', b: 'PDF', g: 'Post terpilih (sidebar)', t: 'PDF terpisah', s: 'PDF terpisah', d: 'Tiap post jadi 1 file PDF sendiri' },
+        { k: 'sep:files', b: 'IMG', g: 'Post terpilih (sidebar)', t: 'Gambar terpisah', s: 'IMG terpisah', d: 'Gambar tiap post di foldernya sendiri' },
+        { k: 'sep:cbz', b: 'CBZ', g: 'Post terpilih (sidebar)', t: 'CBZ untuk Mihon', s: 'CBZ Mihon', d: 'Tiap post 1 file .cbz di folder nama manga (+ cover.jpg)' },
+        { k: 'onezip', b: 'ZIP', g: 'Post terpilih (sidebar)', t: '1 ZIP gabungan', s: '1 ZIP', d: 'Semua post dalam 1 ZIP, folder per post' },
+        { k: 'onepdf', b: 'PDF', g: 'Post terpilih (sidebar)', t: '1 PDF gabungan', s: '1 PDF', d: 'Semua post berurutan, bookmark per post' }
     ];
     const isMultiCtx = () => !!(pv && pv.chapters.length > 1);
     const modeOk = (k, multiCtx) => MODES.some(m => m.k === k) && (multiCtx || k.indexOf('cur:') === 0);
@@ -4333,7 +4339,7 @@
         if (k.indexOf('cur:') === 0) { modeS = k; sv('dd_mode_s', k); }
         applyMode(k);
         sv('dd_scope', dlScope); sv('dd_fmt', fmt); sv('dd_multi', multi);
-        log('debug', 'ui', 'Mode download: ' + k + (mc ? ' (banyak chapter)' : ' (1 chapter)'));
+        log('debug', 'ui', 'Mode download: ' + k + (mc ? ' (banyak post)' : ' (1 post)'));
     }
     function modeMenuHtml() {
         const multiCh = pv && pv.chapters.length > 1;
@@ -4381,11 +4387,11 @@
         $('dd-ch-sel').textContent = sc + ' dipilih';
         const cur = effScope() === 'cur', mk = modeKey(), mo = MODES.find(m => m.k === mk) || MODES[0];
         $('dd-pv-dl').disabled = cur ? (!n || busy || P.scanning) : (!dsc || busy);
-        $('dd-pv-dl-t').textContent = (cur ? 'Download chapter ini' : 'Download ' + dsc + ' chapter') + ' · ' + mo.s;
-        $('dd-pv-dl').title = cur ? 'Download halaman yang dicentang di chapter yang dibuka' : multiHint();
+        $('dd-pv-dl-t').textContent = (cur ? 'Download post ini' : 'Download ' + dsc + ' post') + ' · ' + mo.s;
+        $('dd-pv-dl').title = cur ? 'Download halaman yang dicentang di post yang dibuka' : multiHint();
         $('dd-pv-mode').disabled = busy;
         $('dd-pv-mm').querySelectorAll('.mm-i').forEach(b => { const on = b.dataset.m === mk; b.classList.toggle('on', on); b.setAttribute('aria-checked', on ? 'true' : 'false'); });
-        $('dd-pv-mm').querySelectorAll('.mm-hc').forEach(e => { const c = e.dataset.c === 'cur' ? n : sc; e.textContent = c + (e.dataset.c === 'cur' ? ' halaman' : ' chapter'); e.classList.toggle('z', !c); });
+        $('dd-pv-mm').querySelectorAll('.mm-hc').forEach(e => { const c = e.dataset.c === 'cur' ? n : sc; e.textContent = c + (e.dataset.c === 'cur' ? ' halaman' : ' post'); e.classList.toggle('z', !c); });
     }
     function pvMarkCur() {
         const P = pv;
@@ -4405,13 +4411,103 @@
             const r = document.createElement('div');
             r.className = 'ch' + (k === P.cur ? ' cur' : '');
             r.dataset.k = k;
-            r.innerHTML = '<input type="checkbox"' + (c.checked ? ' checked' : '') + '><span class="cn">' + (k + 1) + '</span><span class="cb"><span class="ct" title="' + esc(c.title) + '">' + esc(c.title) + '</span><span class="cm" hidden></span><span class="cs">' + esc(c.st || '') + '</span></span><button type="button" class="cx" title="Sembunyikan chapter ini" aria-label="Sembunyikan chapter ini">×</button>';
+            r.innerHTML = '<input type="checkbox"' + (c.checked ? ' checked' : '') + '><span class="cn">' + (k + 1) + '</span><span class="cp"></span><span class="cb"><span class="ct" title="' + esc(c.title) + '">' + esc(c.title) + '</span><span class="cm" hidden></span><span class="cs">' + esc(c.st || '') + '</span></span><button type="button" class="cx" title="Sembunyikan post ini" aria-label="Sembunyikan post ini">×</button>';
             r.hidden = !!c.hidden;
             P.rows[k] = r; frag.appendChild(r);
         });
         box.appendChild(frag);
         pvHideRefresh();
         pvMergeRefresh();
+        pvCoverInit();
+    }
+    // ---------- preview gambar ke-1 tiap chapter (sidebar) ----------
+    // Dimuat malas (lazy): hanya baris yang terlihat. Sumber: cache chapter yang sudah dibuka -> fetch post (tanpa memuat reader).
+    // Memakai thumbnail (/thumbnail/...), bukan file asli. Antrean 2 request, jeda 250 ms agar situs tidak terbebani.
+    function pvCoverInit() {
+        const P = pv, box = $('dd-pv-chs');
+        if (!P || !box || !P.rows) return;
+        if (P.cio) P.cio.disconnect();
+        if (!P.cov) { P.cov = new Map(); P.covQ = []; P.covRun = 0; }
+        P.cio = new IntersectionObserver((es) => {
+            es.forEach(e => {
+                if (!e.isIntersecting) return;
+                P.cio.unobserve(e.target);
+                const k = +e.target.dataset.k, c = P.chapters[k];
+                if (c) pvCoverQueue(c, e.target);
+            });
+        }, { root: box, rootMargin: '300px 0px' });
+        P.rows.forEach(r => {
+            const c = P.chapters[+r.dataset.k];
+            pvCoverPaint(r, c ? P.cov.get(c.url) : undefined);
+            P.cio.observe(r);
+        });
+    }
+    function pvCoverPaint(r, v) {
+        const cp = r.querySelector('.cp'); if (!cp) return;
+        if (v === undefined) { cp.className = 'cp ld'; cp.innerHTML = ''; return; }
+        if (v === 0) { cp.className = 'cp em'; cp.textContent = '\u2205'; return; }
+        if (v === -1) { cp.className = 'cp em'; cp.textContent = '!'; return; }
+        cp.className = 'cp';
+        cp.innerHTML = '';
+        const im = new Image(); im.alt = ''; im.decoding = 'async'; im.draggable = false; im.src = v;
+        cp.appendChild(im);
+    }
+    function pvCoverQueue(c, row) {
+        const P = pv; if (!P || !P.cov) return;
+        if (P.cov.has(c.url)) { pvCoverPaint(row, P.cov.get(c.url)); return; }
+        if (P.covQ.some(x => x.c === c)) return;
+        P.covQ.push({ c, row }); pvCoverPump();
+    }
+    async function pvCoverFirst(c) {
+        const P = pv;
+        const its = P.cache.get(c.url);   // chapter sudah dibuka / hasil edit
+        if (its) {
+            const it = its.find(x => x && x.url && !x.dead) || its[0];
+            if (!it) return 0;
+            return it.thumb || (String(it.url).startsWith('blob:') ? it.url : thumbOf(it.url));
+        }
+        const jc = P.qjob && P.qjob.chapters[c.idx];
+        if (jc && jc.url === c.url && jc.pre && jc.pre.length) return thumbOf(jc.pre[0].url);
+        let doc;
+        if (norm(c.url) === norm(location.href)) doc = document;
+        else {
+            const r = await fetch(c.url, { credentials: 'same-origin' });
+            if (!r.ok) { if (r.status === 404 || r.status === 410) return 0; throw new Error('HTTP ' + r.status); }
+            doc = new DOMParser().parseFromString(await r.text(), 'text/html');
+        }
+        const items = postImages(doc, c.url);
+        return items.length ? thumbOf(items[0].url) : 0;
+    }
+    function pvCoverPump() {
+        const P = pv; if (!P || !P.cov) return;
+        while (P.covRun < 2 && P.covQ.length) {
+            const job = P.covQ.shift(); P.covRun++;
+            (async () => {
+                let v = -1;
+                try {
+                    const u = await pvCoverFirst(job.c);
+                    if (pv !== P) return;
+                    if (u === 0) v = 0;
+                    else if (/^blob:/.test(u)) v = u;
+                    else v = await scaledUrl(u, 160, 0, 0, 0.7);   // diperkecil -> object URL
+                } catch (e) { v = -1; }
+                if (pv !== P) { if (typeof v === 'string' && v.startsWith('blob:')) { try { URL.revokeObjectURL(v); } catch (e) {} } return; }
+                P.cov.set(job.c.url, v);
+                const k = P.chapters.indexOf(job.c);
+                if (P.rows[k]) pvCoverPaint(P.rows[k], v);
+                await sleep(250);
+            })().finally(() => { P.covRun--; pvCoverPump(); });
+        }
+    }
+    function pvCoverDrop(P) {
+        if (P.cio) { P.cio.disconnect(); P.cio = null; }
+        if (P.covQ) P.covQ.length = 0;
+        if (P.cov) {
+            const keep = new Set();
+            P.cache.forEach(its => its.forEach(it => { if (it.url) keep.add(it.url); if (it.thumb) keep.add(it.thumb); }));
+            P.cov.forEach(v => { if (typeof v === 'string' && v.startsWith('blob:') && !keep.has(v)) { try { URL.revokeObjectURL(v); } catch (e) {} } });
+            P.cov.clear();
+        }
     }
     // ---------- sembunyikan chapter (mis. chapter yang gambarnya sudah tidak ada) ----------
     // Chapter hanya disembunyikan dari daftar + dilepas dari pilihan (tidak ikut diunduh); bisa ditampilkan lagi. Indeks chapter tidak berubah.
@@ -4470,8 +4566,8 @@
         if (!n) return;
         P.chapters.forEach(c => { c.hidden = false; });
         pvHideRefresh(); pvHideSave(); pvUpdate();
-        toast(n + ' chapter ditampilkan lagi (belum dicentang)', 'ok');
-        log('ok', 'ui', n + ' chapter ditampilkan lagi');
+        toast(n + ' post ditampilkan lagi (belum dicentang)', 'ok');
+        log('ok', 'ui', n + ' post ditampilkan lagi');
     }
     // chapter yang sudah diketahui kosong: 0 halaman (hasil edit / cache), dikosongkan di antrian, atau post-nya tidak punya gambar
     function pvEmptyKnown() {
@@ -4492,7 +4588,7 @@
         const btn = $('dd-ch-hide'), lab = btn ? btn.textContent : '';
         const known = new Set(pvEmptyKnown());
         const unk = P.chapters.filter(c => !c.hidden && !known.has(c) && !P.cache.has(c.url) && !(P.empty && P.empty.has(c.url)) && !(P.full && P.full.has(c.url)));
-        if (unk.length && (await ddConfirm(unk.length + ' chapter belum pernah dibuka. Periksa satu per satu apakah gambarnya masih ada?\nTiap chapter 1 request ke situs, jadi bisa agak lama. Pilih Lewati untuk hanya memakai chapter yang sudah diketahui kosong.', { title: 'Cari chapter kosong', ok: 'Periksa', cancel: 'Lewati' })) && pv === P) {
+        if (unk.length && (await ddConfirm(unk.length + ' post belum pernah dibuka. Periksa satu per satu apakah gambarnya masih ada?\nTiap post 1 request ke situs, jadi bisa agak lama. Pilih Lewati untuk hanya memakai post yang sudah diketahui kosong.', { title: 'Cari post kosong', ok: 'Periksa', cancel: 'Lewati' })) && pv === P) {
             const sc = P.hscan = { stop: false };
             let done = 0;
             for (const c of unk) {
@@ -4513,20 +4609,20 @@
         }
         if (pv !== P) return;
         const list = pvEmptyKnown();
-        if (!list.length) { toast('Tidak ada chapter kosong yang ditemukan', 'ok'); return; }
+        if (!list.length) { toast('Tidak ada post kosong yang ditemukan', 'ok'); return; }
         const nums = list.map(c => '#' + (P.chapters.indexOf(c) + 1));
         const head = nums.length > 12 ? nums.slice(0, 12).join(', ') + ' … +' + (nums.length - 12) : nums.join(', ');
-        if (!(await ddConfirm('Sembunyikan ' + list.length + ' chapter yang tidak ada gambarnya?\n' + head + '\nChapter hanya disembunyikan dari daftar dan tidak ikut diunduh. Bisa ditampilkan lagi lewat tombol Tampilkan di sidebar.', { title: 'Sembunyikan chapter kosong', ok: 'Sembunyikan' })) || pv !== P) return;
+        if (!(await ddConfirm('Sembunyikan ' + list.length + ' post yang tidak ada gambarnya?\n' + head + '\nPost hanya disembunyikan dari daftar dan tidak ikut diunduh. Bisa ditampilkan lagi lewat tombol Tampilkan di sidebar.', { title: 'Sembunyikan post kosong', ok: 'Sembunyikan' })) || pv !== P) return;
         const n = pvHideCh(list);
-        toast(n + ' chapter kosong disembunyikan', 'ok');
-        log('ok', 'ui', n + ' chapter kosong disembunyikan: ' + head);
+        toast(n + ' post kosong disembunyikan', 'ok');
+        log('ok', 'ui', n + ' post kosong disembunyikan: ' + head);
     }
     // ---------- gabung chapter (sumber → target) ----------
     function pvMergeText(c) {
         const P = pv; if (!P || !P.merge) return '';
         let t = '';
         if (P.merge.has(c.url)) t = '→ digabung ke #' + (P.chapters.findIndex(x => x.url === P.merge.get(c.url)) + 1);
-        else if (c.extra && c.extra.length) t = '+ ' + c.extra.length + ' chapter digabung';
+        else if (c.extra && c.extra.length) t = '+ ' + c.extra.length + ' post digabung';
         if (P.dirty && P.dirty.has(c.url)) { const l = P.cache.get(c.url); t += (t ? ' · ' : '') + '✎ diubah' + (l ? ' · ' + l.length + ' hal.' : ''); }
         return t;
     }
@@ -4546,11 +4642,11 @@
     async function pvMergeChapters() {
         const P = pv; if (!P || busy) return;
         const chs = P.chapters.filter(c => c.checked);
-        if (chs.length < 2) { toast('Centang minimal 2 chapter dulu', 'err'); return; }
+        if (chs.length < 2) { toast('Centang minimal 2 post dulu', 'err'); return; }
         const rootOf = (c) => { let u = c.url; const seen = new Set(); while (P.merge.has(u) && !seen.has(u)) { seen.add(u); u = P.merge.get(u); } return P.chapters.find(x => x.url === u) || c; };
         const tg = rootOf(chs[0]);
         const others = chs.filter(c => c !== tg);
-        if (!(await ddConfirm('Gabung ' + others.length + ' chapter ke \"' + tg.title + '\"?\nSaat download, halaman chapter lain dimasukkan ke akhir chapter ini jadi 1 chapter (1 file CBZ / ZIP / PDF). Bisa dipisah lagi lewat tombol Pisah.', { title: 'Gabung chapter', ok: 'Gabung' }))) return;
+        if (!(await ddConfirm('Gabung ' + others.length + ' post ke \"' + tg.title + '\"?\nSaat download, halaman post lain dimasukkan ke akhir post ini jadi 1 post (1 file CBZ / ZIP / PDF). Bisa dipisah lagi lewat tombol Pisah.', { title: 'Gabung post', ok: 'Gabung' }))) return;
         tg.extra = tg.extra || [];
         for (const c of others) {
             const moved = [c].concat(c.extra || []); c.extra = [];
@@ -4558,8 +4654,8 @@
             c.checked = false; const k = P.chapters.indexOf(c); if (P.rows[k]) P.rows[k].firstChild.checked = false;
         }
         tg.extra.sort((a, b) => P.chapters.indexOf(a) - P.chapters.indexOf(b));
-        log('ok', 'ui', 'Gabung chapter: ' + others.length + ' → \"' + tg.title + '\"');
-        toast(others.length + ' chapter digabung ke \"' + tg.title + '\"', 'ok');
+        log('ok', 'ui', 'Gabung post: ' + others.length + ' → \"' + tg.title + '\"');
+        toast(others.length + ' post digabung ke \"' + tg.title + '\"', 'ok');
         pvMergeRefresh(); pvUpdate();
     }
     function pvUnmergeChapters() {
@@ -4573,8 +4669,8 @@
             (c.extra || []).slice().forEach(drop);
             c.extra = [];
         }
-        if (!n) { toast('Centang chapter yang digabung (target atau sumbernya) dulu', 'err'); return; }
-        toast(n + ' chapter dipisah lagi', 'ok'); log('info', 'ui', 'Pisah gabungan: ' + n + ' chapter');
+        if (!n) { toast('Centang post yang digabung (target atau sumbernya) dulu', 'err'); return; }
+        toast(n + ' post dipisah lagi', 'ok'); log('info', 'ui', 'Pisah gabungan: ' + n + ' post');
         pvMergeRefresh(); pvUpdate();
     }
 
@@ -4591,7 +4687,7 @@
     function scanCardHtml(P) {
         const ch = P.chapters[P.cur];
         return '<div class="pv-msg"><div class="sc-card" id="dd-sc">' +
-            '<div class="sc-head"><div class="pv-spin sc-spin"></div><div class="sc-ht"><b>Membaca chapter</b><small>' + esc(ch ? ch.title : '') + '</small></div></div>' +
+            '<div class="sc-head"><div class="pv-spin sc-spin"></div><div class="sc-ht"><b>Membaca post</b><small>' + esc(ch ? ch.title : '') + '</small></div></div>' +
             '<ol class="sc-steps">' + SCAN_STEPS.map((x, i) => '<li data-p="' + x[0] + '"><i>' + (i + 1) + '</i><span>' + x[1] + '</span></li>').join('') + '</ol>' +
             '<div class="sc-count"><b id="dd-sc-n">0</b><span>halaman ditemukan</span></div>' +
             '<div class="sc-bar"><i id="dd-sc-bar"></i></div>' +
@@ -4635,7 +4731,7 @@
     //  • lepas di chapter lain (sidebar) → halaman pindah ke akhir chapter itu (jadi 1 chapter)
     // Yang ikut terseret = semua halaman tercentang bila halaman yang dipegang ikut tercentang; kalau tidak, hanya halaman itu.
     // Chapter yang daftarnya diubah masuk P.dirty → daftar buatan sendiri itu yang dipakai saat download & antrian.
-    const GRIP_HTML = '<span class="gr" title="Seret untuk mengubah urutan, atau lepas di chapter lain (sidebar) untuk memindahkan"><svg viewBox="0 0 24 12"><circle cx="6" cy="3" r="1.6"/><circle cx="12" cy="3" r="1.6"/><circle cx="18" cy="3" r="1.6"/><circle cx="6" cy="9" r="1.6"/><circle cx="12" cy="9" r="1.6"/><circle cx="18" cy="9" r="1.6"/></svg></span>';
+    const GRIP_HTML = '<span class="gr" title="Seret untuk mengubah urutan, atau lepas di post lain (sidebar) untuk memindahkan"><svg viewBox="0 0 24 12"><circle cx="6" cy="3" r="1.6"/><circle cx="12" cy="3" r="1.6"/><circle cx="18" cy="3" r="1.6"/><circle cx="6" cy="9" r="1.6"/><circle cx="12" cy="9" r="1.6"/><circle cx="18" cy="9" r="1.6"/></svg></span>';
     function pvChForce(url, on) {
         const P = pv; if (!P || !url) return;
         const k = P.chapters.findIndex(c => c.url === url);
@@ -4719,22 +4815,22 @@
         try {
             let dl = P.cache.get(dst.url);
             if (!dl) {
-                pvStatus('Memuat chapter tujuan…', 'busy');
-                toast('Memuat chapter tujuan…', 'busy');
+                pvStatus('Memuat post tujuan…', 'busy');
+                toast('Memuat post tujuan…', 'busy');
                 try { dl = await pvLoadList(dst); }
                 catch (e) {
                     if (pv !== P) return;
-                    log('err', 'edit', 'Chapter tujuan gagal dimuat: "' + dst.title + '" — ' + (e && e.message), e && e.stack);
-                    pvStatus('', ''); toast('Chapter tujuan gagal dimuat: ' + (e && e.message), 'err');
+                    log('err', 'edit', 'Post tujuan gagal dimuat: "' + dst.title + '" — ' + (e && e.message), e && e.stack);
+                    pvStatus('', ''); toast('Post tujuan gagal dimuat: ' + (e && e.message), 'err');
                     return;
                 }
                 if (!dl || pv !== P) return;
             }
-            if (P.cur !== cur || P.items !== srcItems) { pvStatus('', ''); toast('Dibatalkan — chapter berubah saat memuat', 'err'); return; }
+            if (P.cur !== cur || P.items !== srcItems) { pvStatus('', ''); toast('Dibatalkan — post berubah saat memuat', 'err'); return; }
             const have = new Set(dl.map(x => x.url)), go = [];
             let dup = 0;
             mv.forEach(it => { if (have.has(it.url)) dup++; else { go.push(it); have.add(it.url); } });
-            if (!go.length) { pvStatus('', ''); toast('Semua halaman sudah ada di chapter tujuan', 'err'); return; }
+            if (!go.length) { pvStatus('', ''); toast('Semua halaman sudah ada di post tujuan', 'err'); return; }
             const skS = P.skip.get(src.url);
             let skD = P.skip.get(dst.url);
             const skips = {}; skips[src.url] = Array.from(skS || []); skips[dst.url] = Array.from(skD || []);
@@ -4751,7 +4847,7 @@
             P.dirty.add(src.url); P.dirty.add(dst.url);   // lindungi dari pembuangan cache sebelum cachePut
             cachePut(P, dst.url, dl.concat(go));
             pvChForce(dst.url, true);
-            if (!rest.length) { pvChForce(src.url, false); toast('Chapter ini sekarang kosong — dilepas dari pilihan chapter', 'ok'); }
+            if (!rest.length) { pvChForce(src.url, false); toast('Post ini sekarang kosong — dilepas dari pilihan post', 'ok'); }
             P.last = -1;
             pvRender(true); pvUpdate(); pvMergeRefresh();
             pvFlashRow(dst.url);
@@ -4931,7 +5027,7 @@
         if (!ch) return;
         if (P.cur !== k) editClearUndo();
         if (force && P.dirty && P.dirty.has(ch.url)) {
-            if (!(await ddConfirm('Muat ulang akan membuang hasil edit chapter ini.', { title: 'Muat ulang chapter', ok: 'Muat ulang', danger: true })) || pv !== P) return;
+            if (!(await ddConfirm('Muat ulang akan membuang hasil edit post ini.', { title: 'Muat ulang post', ok: 'Muat ulang', danger: true })) || pv !== P) return;
             P.dirty.delete(ch.url); P.skip.delete(ch.url);
             const jc = P.qjob && P.qjob.chapters[ch.idx];
             if (jc && jc.pre) { delete jc.pre; jc.skip = []; keepRebuild(); queueSave(); }
@@ -4950,9 +5046,9 @@
         pvMarkCur();
         $('dd-pv-title').textContent = ch.title;
         $('dd-pv-sub').textContent = P.manga;
-        if (hit) { log('debug', 'preview', 'Chapter dari cache: "' + ch.title + '" (' + hit.length + ' halaman)'); P.items = hit; pvStatus(hit.length + ' halaman', 'ok'); pvRender(); return; }
+        if (hit) { log('debug', 'preview', 'Post dari cache: "' + ch.title + '" (' + hit.length + ' halaman)'); P.items = hit; pvStatus(hit.length + ' halaman', 'ok'); pvRender(); return; }
         const tOpen = performance.now();
-        log('info', 'preview', 'Membuka chapter "' + ch.title + '"' + (force ? ' (muat ulang)' : ''), ch.url);
+        log('info', 'preview', 'Membuka post "' + ch.title + '"' + (force ? ' (muat ulang)' : ''), ch.url);
         P.items = []; P.scanning = true;
         P.scan = { phase: 'open', count: 0, pct: 2, shown: 0, t0: Date.now() };
         P.scanTick = setInterval(() => { if (pv === P && P.tok === tok) pvScanPaint(); else clearInterval(P.scanTick); }, 400);
@@ -5008,6 +5104,7 @@
         P.tok++;
         if (P.scanTick) clearInterval(P.scanTick);
         if (P.io) P.io.disconnect();
+        pvCoverDrop(P);
         hideHover(); viewClose(); editClose(); stopThumbs();
         editClearUndo();
         P.cache.forEach(its => its.forEach(killItem));
@@ -5018,12 +5115,22 @@
         if (P.qjob && P.qReopen !== false) queueOpen();   // kembali ke antrian
     }
 
+    // Panel yang elemennya sudah terlepas dari DOM (situs mengganti <body> saat pindah halaman) = state basi: bersihkan agar bisa dibuka lagi
+    function pvEnsureAlive() {
+        if (pv && pv.el && !pv.el.isConnected) {
+            log('warn', 'panel', 'Panel basi (elemen terlepas saat pindah halaman) — dibersihkan');
+            pv.qReopen = false;
+            try { closePanel(); } catch (e) { pv = null; }
+        }
+    }
     async function openPanel(opts) {
         opts = opts || {};
+        pvEnsureAlive();
         if (pv || opts.qjob || opts.list || !scanAll || isReader()) return openPanel0(opts);
-        if (scanBusy) return;   // pemindaian masih berjalan
+        if (scanBusy) { toast('Masih memindai daftar post… coba lagi sebentar', 'busy'); return; }   // pemindaian masih berjalan
         const list = await collectChaptersAll();
         if (pv) return;   // panel sudah terbuka selama menunggu
+        if (!list || !list.length) return;   // dibatalkan (pindah halaman)
         return openPanel0(Object.assign({}, opts, { list }));
     }
     function openPanel0(opts) {
@@ -5034,7 +5141,7 @@
         }
         const qjob = opts.qjob || null;
         const list = qjob ? qjob.chapters.map((c, i) => ({ url: c.url, title: c.title, idx: i, checked: c.on !== false, st: '' })) : (opts.list || collectChapters());
-        if (!list.length) { toast('Buka halaman manga (list chapter) atau halaman reader dulu', 'err'); return; }
+        if (!list.length) { toast('Buka halaman manga (list post) atau halaman reader dulu', 'err'); return; }
         let cur = qjob ? Math.max(0, Math.min(list.length - 1, opts.cur || 0)) : 0;
         const want = qjob ? '' : (opts.url || (isReader() ? location.href : ''));
         if (want) { const k = list.findIndex(c => norm(c.url) === norm(want)); if (k >= 0) cur = k; }
@@ -5044,7 +5151,7 @@
         el.innerHTML = (
             '<div class="pv-win"><div class="pv-box' + (list.length < 2 ? ' nosd' : '') + '">' +
             '<header class="pv-top" title="Seret untuk memindahkan · klik 2× untuk memperbesar / mengembalikan">' +
-            '<button type="button" class="pv-ib pv-tog" id="dd-pv-tog" title="Daftar chapter">' + IC('menu') + '</button>' +
+            '<button type="button" class="pv-ib pv-tog" id="dd-pv-tog" title="Daftar post">' + IC('menu') + '</button>' +
             '<div class="pv-logo" role="img" aria-label="DD" style="background-image:url(' + LOGO_IMG + ')"></div>' +
             '<div class="t"><b id="dd-pv-title"></b><small id="dd-pv-sub"></small></div>' +
             '<span class="pv-qtag" id="dd-pv-qtag" hidden>Pilih halaman untuk antrian</span>' +
@@ -5061,10 +5168,10 @@
             '<div class="pv-main">' +
             '<aside class="pv-side" id="dd-pv-side">' +
             '<div class="pv-side-h">' +
-            '<div class="pv-side-t"><b>Chapter</b><span class="badge" id="dd-ch-total"></span><span class="sel-n" id="dd-ch-sel"></span><button type="button" class="pv-link" id="dd-ch-all">Pilih semua</button></div>' +
-            '<span class="pv-rng"><input type="text" id="dd-ch-range" placeholder="mis. 1-5,8" title="Pilih chapter, mis. 1-5 atau 2,4,6" spellcheck="false"><button type="button" id="dd-ch-go">Pilih</button></span>' +
-            '<div class="pv-chm" id="dd-ch-mbox"><button type="button" id="dd-ch-mrg" title="Gabung chapter yang dicentang jadi 1 chapter: halaman chapter ke-2 dst dimasukkan ke akhir chapter pertama yang dicentang">Gabung chapter</button><button type="button" id="dd-ch-unm" title="Pisahkan lagi chapter yang digabung (centang target / sumbernya)">Pisah</button></div>' +
-            '<div class="pv-chm pv-chh" id="dd-ch-hbox"><button type="button" id="dd-ch-hide" title="Sembunyikan chapter yang tidak ada gambarnya (yang sudah dibuka / diperiksa). Bisa juga periksa chapter lain yang belum dibuka.">Sembunyikan kosong</button><button type="button" id="dd-ch-show" hidden title="Tampilkan lagi semua chapter yang disembunyikan">Tampilkan (0)</button></div>' +
+            '<div class="pv-side-t"><b>Posts</b><span class="badge" id="dd-ch-total"></span><span class="sel-n" id="dd-ch-sel"></span><button type="button" class="pv-link" id="dd-ch-all">Pilih semua</button></div>' +
+            '<span class="pv-rng"><input type="text" id="dd-ch-range" placeholder="mis. 1-5,8" title="Pilih post, mis. 1-5 atau 2,4,6" spellcheck="false"><button type="button" id="dd-ch-go">Pilih</button></span>' +
+            '<div class="pv-chm" id="dd-ch-mbox"><button type="button" id="dd-ch-mrg" title="Gabung post yang dicentang jadi 1 post: halaman post ke-2 dst dimasukkan ke akhir post pertama yang dicentang">Gabung post</button><button type="button" id="dd-ch-unm" title="Pisahkan lagi post yang digabung (centang target / sumbernya)">Pisah</button></div>' +
+            '<div class="pv-chm pv-chh" id="dd-ch-hbox"><button type="button" id="dd-ch-hide" title="Sembunyikan post yang tidak ada gambarnya (yang sudah dibuka / diperiksa). Bisa juga periksa post lain yang belum dibuka.">Sembunyikan kosong</button><button type="button" id="dd-ch-show" hidden title="Tampilkan lagi semua post yang disembunyikan">Tampilkan (0)</button></div>' +
             '</div>' +
             '<div class="pv-chs" id="dd-pv-chs"></div>' +
             '</aside>' +
@@ -5092,7 +5199,7 @@
             '<div class="fl"><span id="dd-pv-count" class="pv-count"></span>' +
             '<button type="button" class="pv-chip" id="dd-pv-pick" title="Ganti folder simpan">' + IC('folder') + '<b id="dd-pv-folder">Downloads</b></button></div>' +
             '<div class="fr">' +
-            '<button type="button" class="pv-b" id="dd-pv-addq" title="Tambah chapter terpilih ke antrian">' + IC('queue') + '<span>Antrikan</span></button>' +
+            '<button type="button" class="pv-b" id="dd-pv-addq" title="Tambah post terpilih ke antrian">' + IC('queue') + '<span>Antrikan</span></button>' +
             '<button type="button" class="pv-b red" id="dd-pv-stop" hidden>' + IC('stop') + '<span>Stop</span></button>' +
             '<div class="pv-split">' +
             '<button type="button" class="pv-b pri pv-sp-main" id="dd-pv-dl">' + IC('download') + '<span id="dd-pv-dl-t">Download</span></button>' +
@@ -5125,7 +5232,7 @@
         wireSettings();
         wireLog();
         wireWindow(P);
-        log('info', 'panel', 'Panel dibuka · ' + list.length + ' chapter · aktif: "' + list[cur].title + '"', location.href);
+        log('info', 'panel', 'Panel dibuka · ' + list.length + ' post · aktif: "' + list[cur].title + '"', location.href);
 
         // --- halaman (grid) ---
         $('dd-pv-sel').onclick = () => {
@@ -5213,7 +5320,7 @@
             const r = e.target.closest('.ch');
             if (!r) return;
             const k = +r.dataset.k;
-            if (e.target.closest('.cx')) { e.stopPropagation(); if (busy) { toast('Sedang download — tunggu selesai atau tekan Stop', 'err'); return; } if (pvHideCh([P.chapters[k]])) toast('Chapter disembunyikan — tampilkan lagi lewat tombol di sidebar', 'ok'); return; }
+            if (e.target.closest('.cx')) { e.stopPropagation(); if (busy) { toast('Sedang download — tunggu selesai atau tekan Stop', 'err'); return; } if (pvHideCh([P.chapters[k]])) toast('Post disembunyikan — tampilkan lagi lewat tombol di sidebar', 'ok'); return; }
             if (e.target.tagName === 'INPUT') {
                 const v = e.target.checked;
                 if (e.shiftKey && P.lastCh >= 0) {
@@ -5259,11 +5366,11 @@
             if (busy || pv !== P) return;
             let sel = pvSelChs().map(pvJobCh);
             const emptyCh = sel.filter(c => c.pre && !c.pre.length);
-            if (emptyCh.length) { sel = sel.filter(c => !(c.pre && !c.pre.length)); toast(emptyCh.length + ' chapter kosong dilewati'); }
+            if (emptyCh.length) { sel = sel.filter(c => !(c.pre && !c.pre.length)); toast(emptyCh.length + ' post kosong dilewati'); }
             if (!sel.length) return;
-            const what = multi === 'onezip' ? '1 ZIP (folder per chapter)' : multi === 'onepdf' ? '1 PDF' : 'file terpisah (' + (fmt === 'files' ? 'IMG' : fmt.toUpperCase()) + ')';
-            const warn = (sel.length > 8 && !(saveMode === 'folder' && dirHandle) && multi !== 'sep') ? '\n\nCatatan: mode Downloads menyusun file di memori. Untuk banyak chapter lebih aman pilih Folder (tombol Ganti) agar ditulis langsung ke disk.' : '';
-            if (!(await ddConfirm('Download ' + sel.length + ' chapter sebagai ' + what + '?\nHalaman yang tidak dicentang di preview dilewati.' + warn, { title: 'Konfirmasi download', ok: 'Download' }))) return;
+            const what = multi === 'onezip' ? '1 ZIP (folder per post)' : multi === 'onepdf' ? '1 PDF' : 'file terpisah (' + (fmt === 'files' ? 'IMG' : fmt.toUpperCase()) + ')';
+            const warn = (sel.length > 8 && !(saveMode === 'folder' && dirHandle) && multi !== 'sep') ? '\n\nCatatan: mode Downloads menyusun file di memori. Untuk banyak post lebih aman pilih Folder (tombol Ganti) agar ditulis langsung ke disk.' : '';
+            if (!(await ddConfirm('Download ' + sel.length + ' post sebagai ' + what + '?\nHalaman yang tidak dicentang di preview dilewati.' + warn, { title: 'Konfirmasi download', ok: 'Download' }))) return;
             if (multi === 'sep') await runJobs(sel.map(ch => ({ ch, setLabel: labelFn(ch), pre: ch.pre || undefined })), fmt);
             else await runCombined(sel, multi === 'onezip' ? 'zip' : 'pdf');
             if (pv === P) pvUpdate();
@@ -5301,7 +5408,7 @@
             P.box.classList.add('qmode');
             const tg = $('dd-pv-qtag'); if (tg) tg.hidden = false;
             const aq = $('dd-pv-addq');
-            if (aq) { aq.className = 'pv-b pri'; aq.innerHTML = IC('check') + '<span>Simpan & kembali ke antrian</span>'; aq.title = 'Simpan pilihan chapter & halaman ke antrian lalu kembali (Esc)'; aq.onclick = () => closePanel(); }
+            if (aq) { aq.className = 'pv-b pri'; aq.innerHTML = IC('check') + '<span>Simpan & kembali ke antrian</span>'; aq.title = 'Simpan pilihan post & halaman ke antrian lalu kembali (Esc)'; aq.onclick = () => closePanel(); }
         }
         pvHideLoad();
         if (P.chapters[cur] && P.chapters[cur].hidden) {
@@ -5385,14 +5492,14 @@
                 seg('dd-set-cbzconv', 'Konversi gambar CBZ', 'Mode CBZ: ubah semua gambar di dalam CBZ ke satu format. “Asli” = tanpa konversi. JPG paling kompatibel; WebP lebih kecil; AVIF paling kecil tapi hanya jalan di browser yang bisa mengenkode AVIF (kalau tidak, otomatis WebP) dan belum tentu terbaca semua aplikasi. Gambar yang sudah berformat tujuan tidak diproses ulang; GIF animasi hanya frame pertama.', [['off', 'Asli'], ['jpg', 'JPG'], ['webp', 'WebP'], ['avif', 'AVIF']]) +
                 num('dd-set-cbzq', 'Kualitas konversi CBZ (%)', 'Berlaku untuk JPG / WebP / AVIF. 92 = hampir tanpa beda terlihat; turunkan untuk file lebih kecil.', 40, 100, 1) +
                 '</div>' + gh('ZIP') + '<div class="grp">' +
-                sw('dd-set-zpre', 'Nomor urut di nama folder', 'Mode 1 ZIP: “001 - Chapter 1”, “002 - Chapter 2”, …') +
+                sw('dd-set-zpre', 'Nomor urut di nama folder', 'Mode 1 ZIP: “001 - Post 1”, “002 - Post 2”, …') +
                 num('dd-set-zmax', 'Maks ukuran per ZIP (MB)', 'Lewat batas ini file dipecah menjadi _part2, _part3, …', 100, 3500, 100) +
                 '</div>',
                 gh('Metadata & cover') + '<div class="grp">' +
-                sw('dd-set-mcomic', 'ComicInfo.xml di dalam CBZ', 'Mode CBZ: tambahkan ComicInfo.xml ke tiap file (judul chapter, nomor, series, penulis, genre, ringkasan, jumlah halaman). Bisa dibaca Mihon versi terbaru, Komga, Kavita, dll. Tidak butuh folder pilihan.') +
+                sw('dd-set-mcomic', 'ComicInfo.xml di dalam CBZ', 'Mode CBZ: tambahkan ComicInfo.xml ke tiap file (judul post, nomor, series, penulis, genre, ringkasan, jumlah halaman). Bisa dibaca Mihon versi terbaru, Komga, Kavita, dll. Tidak butuh folder pilihan.') +
                 sw('dd-set-mmeta', 'Metadata Mihon (details.json)', 'Mode CBZ + folder pilihan: tulis details.json di folder manga berisi author, genre, type (sebagai genre), status & deskripsi supaya tampil di Mihon.') +
-                seg('dd-set-mcover', 'Cover Mihon (mode CBZ)', 'Perlu folder pilihan. Mihon hanya punya 1 cover per manga: “Sekali” = dari halaman pertama bila belum ada; “Tiap chapter” = ditimpa dengan halaman pertama chapter yang terakhir diunduh; “GIF” = animasi dari halaman pertama semua chapter yang diunduh dengan mode ini.', [['off', 'Mati'], ['once', 'Sekali'], ['each', 'Tiap chapter'], ['gif', 'GIF']]) +
-                num('dd-set-mgif', 'Jeda ganti cover GIF (detik)', 'Mode GIF: halaman pertama tiap chapter jadi frame, berganti tiap beberapa detik lalu mengulang dari awal.', 1, 30, 1) +
+                seg('dd-set-mcover', 'Cover Mihon (mode CBZ)', 'Perlu folder pilihan. Mihon hanya punya 1 cover per manga: “Sekali” = dari halaman pertama bila belum ada; “Tiap post” = ditimpa dengan halaman pertama post yang terakhir diunduh; “GIF” = animasi dari halaman pertama semua post yang diunduh dengan mode ini.', [['off', 'Mati'], ['once', 'Sekali'], ['each', 'Tiap post'], ['gif', 'GIF']]) +
+                num('dd-set-mgif', 'Jeda ganti cover GIF (detik)', 'Mode GIF: halaman pertama tiap post jadi frame, berganti tiap beberapa detik lalu mengulang dari awal.', 1, 30, 1) +
                 '</div>' + gh('PDF') + '<div class="grp">' +
                 seg('dd-set-pdfc', 'Kompres PDF', 'Perkecil ukuran PDF dengan mengecilkan gambar & menyimpannya ulang (JPEG). “Asli” = tanpa proses ulang (tercepat, kualitas penuh). Kuat ≈ lebar 1200 px, kualitas 50%.', [['off', 'Asli'], ['low', 'Ringan'], ['med', 'Sedang'], ['high', 'Kuat']]) +
                 '</div>')) +
@@ -5406,9 +5513,9 @@
             pane('view', cols(
                 gh('Panel') + '<div class="grp">' +
                 sw('dd-set-auto', 'Otomatis buka panel', 'Buka panel preview otomatis hanya saat membuka halaman creator / post (mis. /fanbox/user/123456). Halaman lain tidak terpengaruh.') +
-                sw('dd-set-skipempty', 'Lewati post tanpa lampiran', 'Post yang tertulis “No attachments” (hanya teks / pengumuman) tidak dimasukkan ke daftar chapter. Matikan bila ingin tetap menampilkannya.') +
-                sw('dd-set-scanall', 'Pindai semua halaman daftar', 'Saat membuka panel / Antrian di halaman creator, ikut mengambil chapter dari semua halaman (?o=50, ?o=100, …), bukan hanya halaman yang sedang terbuka. Matikan bila hanya mau halaman ini.') +
-                sw('dd-set-autosel', 'Otomatis pilih semua gambar', 'Centang semua halaman saat preview chapter dimuat. Matikan bila ingin memilih manual (bawaan).') +
+                sw('dd-set-skipempty', 'Lewati post tanpa lampiran', 'Post yang tertulis “No attachments” (hanya teks / pengumuman) tidak dimasukkan ke daftar post. Matikan bila ingin tetap menampilkannya.') +
+                sw('dd-set-scanall', 'Pindai semua halaman daftar', 'Saat membuka panel / Antrian di halaman creator, ikut mengambil post dari semua halaman (?o=50, ?o=100, …), bukan hanya halaman yang sedang terbuka. Matikan bila hanya mau halaman ini.') +
+                sw('dd-set-autosel', 'Otomatis pilih semua gambar', 'Centang semua halaman saat preview post dimuat. Matikan bila ingin memilih manual (bawaan).') +
                 sw('dd-set-edunsel', 'Batalkan pilihan setelah edit', 'Setelah gabung / split / potong / resize, hasilnya otomatis tidak dicentang supaya pilihan berikutnya bersih. Di mode antrian, centang lagi halaman yang mau ikut diunduh (mis. Pilih semua).') +
                 sw('dd-set-anim', 'Animasi UI', 'Animasi buka panel, pulse tombol, shimmer thumbnail, dll. Matikan untuk tampilan lebih ringan.') +
                 '</div>' + gh('Hover preview') + '<div class="grp">' +
@@ -5424,7 +5531,7 @@
                 '<kbd>Seret header</kbd> geser jendela · <kbd>tarik tepi / sudut</kbd> ubah ukuran · <kbd>2× klik header</kbd> maksimalkan</div>')) +
             pane('notif', cols(
                 gh('Kartu selesai') + '<div class="grp">' +
-                sw('dd-set-ncard', 'Kartu notifikasi selesai', 'Tampilkan ringkasan (chapter, halaman, durasi, lokasi simpan) di pojok layar saat download selesai. Dimatikan = toast kecil biasa.') +
+                sw('dd-set-ncard', 'Kartu notifikasi selesai', 'Tampilkan ringkasan (post, halaman, durasi, lokasi simpan) di pojok layar saat download selesai. Dimatikan = toast kecil biasa.') +
                 num('dd-set-nsec', 'Lama kartu tampil (detik)', 'Kartu berhenti menghitung mundur saat disorot kursor. Bila ada yang gagal, tampil lebih lama.', 3, 60, 1) +
                 '</div>',
                 gh('Bunyi') + '<div class="grp">' +
@@ -5435,7 +5542,7 @@
                 '</div><div class="tip"><b>Catatan</b>Browser baru mengizinkan bunyi setelah kamu mengklik halaman ini sekali, jadi bunyi mungkin tidak keluar sebelum interaksi pertama.</div>')) +
             pane('adv', cols(
                 gh('Deteksi gambar') + '<div class="grp">' +
-                txt('dd-set-sel', 'Selector gambar', 'Opsional. Isi bila gambar chapter tidak terdeteksi otomatis.', 'mis. #reader img') +
+                txt('dd-set-sel', 'Selector gambar', 'Opsional. Isi bila gambar post tidak terdeteksi otomatis.', 'mis. #reader img') +
                 txt('dd-set-host', 'Filter host / URL gambar', 'Opsional. Kosong = semua host.', 'mis. img.pawchive.pw') +
                 '</div>',
                 '<div class="tip"><b>Kapan dipakai?</b>Deteksi otomatis sudah membuang iklan, logo, dan banner. Atur dua kolom di atas hanya jika preview kosong atau ikut menampilkan gambar yang bukan halaman manga.</div>')) +
@@ -5784,11 +5891,12 @@
         if ($('dd-fab')) return;
         const wrap = document.createElement('div');
         wrap.id = 'dd-fab-wrap';
+        wrap.__ddLive = true;
         const fab = document.createElement('button');
         fab.id = 'dd-fab'; fab.type = 'button';
         fab.innerHTML = IC('tray') + '<span class="fab-t">Download</span>';
         fab.title = 'Pawchive Downloader — klik: panel · klik kanan: antrian';
-        fab.onclick = () => { if (pv) closePanel(); else openPanel(); };
+        fab.onclick = () => { pvEnsureAlive(); if (pv) closePanel(); else openPanel(); };
         fab.addEventListener('contextmenu', (e) => {
             e.preventDefault();
             queueOpen();
@@ -5828,7 +5936,7 @@
         #dd-pv,#dd-view,#dd-hover,#dd-toast,#dd-menu,#dd-fab,#dd-fab-wrap,#dd-edit,#dd-ed-menu,#dd-q,#dd-dlg,#dd-done,.dd-btn{--d-bg:#15151a;--d-s1:#1c1c23;--d-s2:#25252d;--d-s3:#30303a;--d-bd:rgba(255,255,255,.08);--d-bd2:rgba(255,255,255,.16);--d-tx:#f3f3f6;--d-mu:#a3a3b0;--d-dim:#6c6c79;--d-ac:#ffffff;--d-ac2:#ffffff;--d-acs:rgba(255,255,255,.12);--d-bl:#7db2ff;--d-ok:#4ade80;--d-er:#ff6b78;--d-font:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
         .dd-ic{width:16px;height:16px;flex-shrink:0;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 
-        /* ---------- tombol di list chapter ---------- */
+        /* ---------- tombol di list post ---------- */
         .dd-btn{flex-shrink:0;display:inline-flex;align-items:center;gap:6px;height:30px;padding:0 12px;margin-left:8px;border-radius:9px;border:1px solid rgba(255,255,255,.14);background:linear-gradient(135deg,var(--d-ac2),var(--d-ac));color:var(--d-bg);font:700 10.5px/1 var(--d-font);letter-spacing:.05em;text-transform:uppercase;cursor:pointer;white-space:nowrap;box-shadow:none;transition:transform .12s,filter .15s}
         .dd-btn:hover{filter:brightness(1.1);transform:translateY(-1px)}
         .dd-btn:active{transform:none}
@@ -5888,8 +5996,8 @@
         #dd-pv .pv-link:hover{text-decoration:underline}
         #dd-pv .pv-link:disabled{opacity:.4;cursor:not-allowed;text-decoration:none}
 
-        /* ---------- sidebar chapter ---------- */
-        #dd-pv .pv-side{width:292px;flex-shrink:0;display:flex;flex-direction:column;border-right:1px solid var(--d-bd);background:var(--d-s1)}
+        /* ---------- sidebar post ---------- */
+        #dd-pv .pv-side{width:380px;flex-shrink:0;display:flex;flex-direction:column;border-right:1px solid var(--d-bd);background:var(--d-s1)}
         #dd-pv .pv-side-h{display:flex;flex-direction:column;gap:10px;padding:14px 14px 12px;border-bottom:1px solid var(--d-bd)}
         #dd-pv .pv-side-t{display:flex;align-items:center;gap:8px}
         #dd-pv .pv-side-t b{font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--d-mu)}
@@ -5907,8 +6015,14 @@
         #dd-pv .ch input:hover{border-color:var(--d-ac)}
         #dd-pv .ch input:checked{background-color:var(--d-ac);border-color:var(--d-ac);background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12'%3E%3Cpath d='M2.5 6.5l2.4 2.4 4.6-5.3' fill='none' stroke='%2315151a' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")}
         #dd-pv .ch .cn{flex-shrink:0;min-width:20px;height:17px;padding:0 5px;display:inline-flex;align-items:center;justify-content:center;border-radius:6px;background:var(--d-s3);color:var(--d-mu);font-size:10.5px;font-weight:700;font-variant-numeric:tabular-nums}
+        #dd-pv .ch .cp{flex-shrink:0;width:88px;display:flex;align-items:flex-start;justify-content:center;color:var(--d-dim);font-size:15px;font-weight:700}
+        #dd-pv .ch .cp img{display:block;width:auto;height:auto;max-width:88px;max-height:124px;object-fit:contain;border-radius:7px;border:1px solid var(--d-bd);background:var(--d-s3)}
+        #dd-pv .ch .cp.ld,#dd-pv .ch .cp.em{height:78px;align-items:center;border-radius:7px;border:1px solid var(--d-bd);background:var(--d-s3)}
+        #dd-pv .ch .cp.ld{background:linear-gradient(90deg,var(--d-s3) 0%,var(--d-s2) 50%,var(--d-s3) 100%);background-size:200% 100%;animation:ddcpld 1.2s linear infinite}
+        #dd-pv .ch .cp.em{font-size:13px}
+        @keyframes ddcpld{to{background-position:-200% 0}}
         #dd-pv .ch .cb{flex:1;min-width:0;display:flex;flex-direction:column;gap:4px}
-        #dd-pv .ch .ct{font-size:12.5px;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;word-break:break-word}
+        #dd-pv .ch .ct{font-size:13px;line-height:1.35;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;word-break:break-word}
         #dd-pv .ch.cur .ct{font-weight:600}
         #dd-pv .ch:has(input:not(:checked)) .ct{color:var(--d-dim)}
         #dd-pv .ch .cs{align-self:flex-start;max-width:100%;padding:1px 8px;border-radius:999px;background:rgba(125,178,255,.12);color:var(--d-bl);font-size:10.5px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -6202,7 +6316,7 @@
 
         #dd-pv .pv-box.narrow .pv-tog{display:inline-flex}
         #dd-pv .pv-box.narrow .pv-logo{display:none}
-        #dd-pv .pv-box.narrow .pv-side{position:absolute;left:0;top:0;bottom:0;z-index:6;width:min(86%,300px);transform:translateX(-102%);transition:transform .18s;box-shadow:8px 0 24px rgba(0,0,0,.5)}
+        #dd-pv .pv-box.narrow .pv-side{position:absolute;left:0;top:0;bottom:0;z-index:6;width:min(94%,440px);transform:translateX(-102%);transition:transform .18s;box-shadow:8px 0 24px rgba(0,0,0,.5)}
         #dd-pv .pv-box.narrow.sd-open .pv-side{transform:none}
         #dd-pv .pv-box.narrow .pv-zoom{margin-left:0}
         #dd-pv .pv-box.narrow .pv-foot{padding:10px 12px}
@@ -6494,7 +6608,7 @@
         }
 
 
-        /* ---------- antrian: baris chapter (v2.8) ---------- */
+        /* ---------- antrian: baris post (v2.8) ---------- */
         #dd-q .q-chl{grid-template-columns:repeat(auto-fill,minmax(240px,1fr))}
         #dd-q .q-chi{gap:4px;padding:1px 2px 1px 6px;cursor:default}
         #dd-q .q-chi label{flex:1;display:flex;align-items:center;gap:8px;min-width:0;cursor:pointer;padding:4px 0;color:inherit}
@@ -6563,7 +6677,7 @@
         #dd-q .q-prog b{font-variant-numeric:tabular-nums}
         #dd-q .q-err{margin:0 14px 11px;padding:7px 11px;border-radius:9px;background:rgba(255,107,120,.1)}
         #dd-q .q-err.warn{background:rgba(245,184,75,.1)}
-        /* daftar chapter */
+        /* daftar post */
         #dd-q .q-chs{padding:10px 14px 12px}
         #dd-q .q-chs-h{gap:6px;margin-bottom:8px}
         #dd-q .q-chs-h b{font-size:12px}
@@ -6725,7 +6839,13 @@
                 (document.head || document.documentElement).appendChild(ddStyleEl);
                 log('debug', 'sys', 'Style dipasang ulang (dibuang saat pindah halaman)');
             }
-            if (document.body && !$('dd-fab-wrap')) buildFab();
+            // Situs bisa memulihkan <body> dari salinan HTML (tombol Back): tombol FAB tampil tapi mati (event handler hilang).
+            // Salinan mati itu dibuang dan dibangun ulang. Panel / elemen basi lain dibersihkan juga.
+            if (document.body) {
+                document.querySelectorAll('#dd-fab-wrap').forEach(w => { if (!w.__ddLive) { w.remove(); log('warn', 'sys', 'Tombol Download mati (halaman dipulihkan dari salinan) — dibangun ulang'); } });
+                document.querySelectorAll('#dd-pv').forEach(e => { if (!pv || e !== pv.el) e.remove(); });
+                if (!$('dd-fab-wrap')) buildFab();
+            }
         } catch (e) {}
     }
     function styleWatch() {
@@ -6776,7 +6896,9 @@
         };
         autoTry();
         let lastPath = location.pathname;
-        setInterval(() => { if (location.pathname !== lastPath) { lastPath = location.pathname; autoTry(); } }, 800);
+        setInterval(() => { if (location.pathname !== lastPath) { lastPath = location.pathname; pvEnsureAlive(); styleKeep(); autoTry(); } }, 800);
+        window.addEventListener('popstate', () => { setTimeout(styleKeep, 50); setTimeout(styleKeep, 400); });
+        window.addEventListener('pageshow', () => { styleKeep(); });
         document.addEventListener('mouseup', () => {
             const P = pv;
             if (!P || !P.drag) return;
